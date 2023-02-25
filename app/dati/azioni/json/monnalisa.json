@@ -1,0 +1,29 @@
+{
+ "azienda": "Monnalisa",
+ "dati": {
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 3.18,
+   "variazionePercentuale": 3.48,
+   "ultimoValore": 3.27,
+   "minimo": 3.03,
+   "massimo": 3.27
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 3.13,
+   "variazionePercentuale": -3.06,
+   "ultimoValore": 3.17,
+   "minimo": 3.05,
+   "massimo": 3.17
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 3.2,
+   "variazionePercentuale": -0.31,
+   "ultimoValore": 3.16,
+   "minimo": 3.08,
+   "massimo": 3.2
+  }
+ }
+}

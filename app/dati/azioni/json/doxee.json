@@ -1,0 +1,89 @@
+{
+ "azienda": "Doxee",
+ "dati": {
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 9.9,
+   "massimo": 9.9,
+   "minimo": 9.9,
+   "ultimoValore": 9.9,
+   "variazionePercentuale": 0.2,
+   "variazione": 0
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 9.72,
+   "massimo": 9.8,
+   "minimo": 9.72,
+   "ultimoValore": 9.8,
+   "variazionePercentuale": -1.01,
+   "variazione": 0.08000000000000007
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 9.72,
+   "massimo": 9.82,
+   "minimo": 9.72,
+   "ultimoValore": 9.82,
+   "variazionePercentuale": 0.2,
+   "variazione": 0.09999999999999964
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 9.72,
+   "massimo": 9.82,
+   "minimo": 9.5,
+   "ultimoValore": 9.8,
+   "variazionePercentuale": -0.2,
+   "variazione": 0.08000000000000007
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 9.8,
+   "variazionePercentuale": -2.2,
+   "ultimoValore": 9.78,
+   "minimo": 9.62,
+   "massimo": 10.1
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 9.74,
+   "variazionePercentuale": -1.84,
+   "ultimoValore": 9.6,
+   "minimo": 9.54,
+   "massimo": 9.74
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 9.56,
+   "variazionePercentuale": -0.42,
+   "ultimoValore": 9.56,
+   "minimo": 9.56,
+   "massimo": 9.56
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 9.54,
+   "variazionePercentuale": 2.09,
+   "ultimoValore": 9.76,
+   "minimo": 9.54,
+   "massimo": 9.76
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 9.54,
+   "variazionePercentuale": -0.61,
+   "ultimoValore": 9.7,
+   "minimo": 9.5,
+   "massimo": 9.7
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 9.54,
+   "variazionePercentuale": -0.61,
+   "ultimoValore": 9.7,
+   "minimo": 9.5,
+   "massimo": 9.7
+  }
+ }
+}

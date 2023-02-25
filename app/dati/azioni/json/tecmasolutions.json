@@ -1,0 +1,29 @@
+{
+ "azienda": "Tecma Solutions",
+ "dati": {
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 6.5,
+   "variazionePercentuale": 1.55,
+   "ultimoValore": 6.55,
+   "minimo": 6.5,
+   "massimo": 6.55
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 6.45,
+   "variazionePercentuale": -1.53,
+   "ultimoValore": 6.45,
+   "minimo": 6.45,
+   "massimo": 6.45
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 6.45,
+   "variazionePercentuale": -1.53,
+   "ultimoValore": 6.45,
+   "minimo": 6.45,
+   "massimo": 6.45
+  }
+ }
+}

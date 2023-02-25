@@ -1,0 +1,45 @@
+{
+ "azienda": "Officina Stellare",
+ "dati": {
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 11.65,
+   "variazionePercentuale": 3.1,
+   "ultimoValore": 11.65,
+   "minimo": 11.65,
+   "massimo": 11.65
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 11.6,
+   "variazionePercentuale": -0.43,
+   "ultimoValore": 11.6,
+   "minimo": 11.6,
+   "massimo": 11.6
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 11.65,
+   "variazionePercentuale": 0.43,
+   "ultimoValore": 11.65,
+   "minimo": 11.65,
+   "massimo": 11.65
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 11.45,
+   "variazionePercentuale": -3.86,
+   "ultimoValore": 11.2,
+   "minimo": 11.2,
+   "massimo": 11.45
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 11.45,
+   "variazionePercentuale": -3.86,
+   "ultimoValore": 11.2,
+   "minimo": 11.2,
+   "massimo": 11.45
+  }
+ }
+}

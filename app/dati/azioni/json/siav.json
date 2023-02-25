@@ -1,0 +1,29 @@
+{
+ "azienda": "Siav",
+ "dati": {
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 3.3,
+   "variazionePercentuale": 1.85,
+   "ultimoValore": 3.3,
+   "minimo": 3.3,
+   "massimo": 3.3
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 3.22,
+   "variazionePercentuale": -2.42,
+   "ultimoValore": 3.22,
+   "minimo": 3.22,
+   "massimo": 3.22
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 3.22,
+   "variazionePercentuale": -2.42,
+   "ultimoValore": 3.22,
+   "minimo": 3.22,
+   "massimo": 3.22
+  }
+ }
+}

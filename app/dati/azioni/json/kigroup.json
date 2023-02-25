@@ -1,0 +1,71 @@
+{
+ "azienda": "Ki Group",
+ "displayName": "KiGroup",
+ "dettaglio": "Ki Group Euronext Growth Milan",
+ "aggiornamento": "2023-02-17T12:07:54.672Z",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 0.0012,
+   "massimo": 0.0012,
+   "minimo": 0.001,
+   "ultimoValore": 0.0012,
+   "variazionePercentuale": 20,
+   "variazione": 0
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 0.0012,
+   "massimo": 0.0012,
+   "minimo": 0.001,
+   "ultimoValore": 0.0012,
+   "variazionePercentuale": 20,
+   "variazione": 0
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 0.0012,
+   "massimo": 0.0012,
+   "minimo": 0.001,
+   "ultimoValore": 0.0012,
+   "variazionePercentuale": 20,
+   "variazione": 0
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 0.0012,
+   "massimo": 0.0012,
+   "minimo": 0.0008,
+   "ultimoValore": 0.001,
+   "variazionePercentuale": -16.67,
+   "variazione": -0.00019999999999999987
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 0.001,
+   "massimo": 0.001,
+   "minimo": 0.0008,
+   "ultimoValore": 0.001,
+   "variazionePercentuale": 0,
+   "variazione": 0
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 0.001,
+   "massimo": 0.0012,
+   "minimo": 0.0008,
+   "ultimoValore": 0.001,
+   "variazionePercentuale": 0,
+   "variazione": 0
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 0.0012,
+   "massimo": 0.0012,
+   "minimo": 0.0008,
+   "ultimoValore": 0.001,
+   "variazionePercentuale": 0,
+   "variazione": -0.00019999999999999987
+  }
+ }
+}

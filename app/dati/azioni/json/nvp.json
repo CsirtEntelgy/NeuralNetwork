@@ -1,0 +1,61 @@
+{
+ "azienda": "Nvp",
+ "dati": {
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "apertura": 2.92,
+   "variazionePercentuale": 1.33,
+   "ultimoValore": 3.04,
+   "minimo": 2.92,
+   "massimo": 3.04
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "apertura": 2.92,
+   "variazionePercentuale": 1.33,
+   "ultimoValore": 3.04,
+   "minimo": 2.92,
+   "massimo": 3.04
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 2.92,
+   "variazionePercentuale": 1.33,
+   "ultimoValore": 3.04,
+   "minimo": 2.92,
+   "massimo": 3.04
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 3.08,
+   "variazionePercentuale": 1.32,
+   "ultimoValore": 3.08,
+   "minimo": 3.04,
+   "massimo": 3.08
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 3.12,
+   "variazionePercentuale": 2.6,
+   "ultimoValore": 3.16,
+   "minimo": 3.12,
+   "massimo": 3.16
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 3.18,
+   "variazionePercentuale": 3.17,
+   "ultimoValore": 3.26,
+   "minimo": 3.18,
+   "massimo": 3.26
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 3.3,
+   "variazionePercentuale": 1.23,
+   "ultimoValore": 3.3,
+   "minimo": 3.28,
+   "massimo": 3.3
+  }
+ }
+}

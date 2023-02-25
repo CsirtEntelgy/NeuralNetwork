@@ -1,0 +1,37 @@
+{
+ "azienda": "Shedir Pharma Group",
+ "dati": {
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 3.95,
+   "variazionePercentuale": 1.01,
+   "ultimoValore": 3.99,
+   "minimo": 3.95,
+   "massimo": 3.99
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 3.92,
+   "variazionePercentuale": 0.25,
+   "ultimoValore": 4,
+   "minimo": 3.92,
+   "massimo": 4
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 4,
+   "variazionePercentuale": -1.5,
+   "ultimoValore": 3.94,
+   "minimo": 3.92,
+   "massimo": 4
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 3.9,
+   "variazionePercentuale": -1.01,
+   "ultimoValore": 3.9,
+   "minimo": 3.88,
+   "massimo": 3.9
+  }
+ }
+}

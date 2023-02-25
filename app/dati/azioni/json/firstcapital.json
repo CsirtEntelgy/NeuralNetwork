@@ -1,0 +1,167 @@
+{
+ "azienda": "First Capital",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 19.15,
+   "massimo": 19.75,
+   "minimo": 19.1,
+   "ultimoValore": 19.7,
+   "variazionePercentuale": 1.29,
+   "variazione": 0.5500000000000007
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 19.15,
+   "massimo": 19.75,
+   "minimo": 19.1,
+   "ultimoValore": 19.7,
+   "variazionePercentuale": 1.29,
+   "variazione": 0.5500000000000007
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 19.15,
+   "massimo": 19.75,
+   "minimo": 19.1,
+   "ultimoValore": 19.7,
+   "variazionePercentuale": 1.29,
+   "variazione": 0.5500000000000007
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 19.7,
+   "massimo": 19.75,
+   "minimo": 19.55,
+   "ultimoValore": 19.6,
+   "variazionePercentuale": -0.51,
+   "variazione": -0.09999999999999787
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 19.45,
+   "massimo": 19.65,
+   "minimo": 19.35,
+   "ultimoValore": 19.5,
+   "variazionePercentuale": -0.51,
+   "variazione": 0.05000000000000071
+  },
+  "2023-02-10": {
+   "data": "2023-02-10",
+   "apertura": 19.25,
+   "massimo": 19.5,
+   "minimo": 19.2,
+   "ultimoValore": 19.4,
+   "variazionePercentuale": -0.51,
+   "variazione": 0.14999999999999858
+  },
+  "2023-02-11": {
+   "data": "2023-02-11",
+   "apertura": 19.25,
+   "massimo": 19.5,
+   "minimo": 19.2,
+   "ultimoValore": 19.4,
+   "variazionePercentuale": -0.51,
+   "variazione": 0.14999999999999858
+  },
+  "2023-02-12": {
+   "data": "2023-02-12",
+   "apertura": 19.25,
+   "massimo": 19.5,
+   "minimo": 19.2,
+   "ultimoValore": 19.4,
+   "variazionePercentuale": -0.51,
+   "variazione": 0.14999999999999858
+  },
+  "2023-02-13": {
+   "data": "2023-02-13",
+   "apertura": 19.2,
+   "massimo": 19.45,
+   "minimo": 19.2,
+   "ultimoValore": 19.45,
+   "variazionePercentuale": 0.26,
+   "variazione": 0.25
+  },
+  "2023-02-16": {
+   "data": "2023-02-16",
+   "apertura": 19.5,
+   "massimo": 20.2,
+   "minimo": 19.5,
+   "ultimoValore": 20.2,
+   "variazionePercentuale": 3.86,
+   "variazione": 0.6999999999999993
+  },
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "apertura": 20,
+   "variazionePercentuale": 0.5,
+   "ultimoValore": 20.1,
+   "minimo": 19.75,
+   "massimo": 20.7
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "apertura": 20,
+   "variazionePercentuale": 0.5,
+   "ultimoValore": 20.1,
+   "minimo": 19.75,
+   "massimo": 20.7
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 20,
+   "variazionePercentuale": 0.5,
+   "ultimoValore": 20.1,
+   "minimo": 19.75,
+   "massimo": 20.7
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 20,
+   "variazionePercentuale": -0.5,
+   "ultimoValore": 20,
+   "minimo": 20,
+   "massimo": 20
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 20,
+   "variazionePercentuale": 2,
+   "ultimoValore": 20.4,
+   "minimo": 20,
+   "massimo": 20.5
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 20.2,
+   "variazionePercentuale": -0.98,
+   "ultimoValore": 20.2,
+   "minimo": 20.2,
+   "massimo": 20.2
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 20.2,
+   "variazionePercentuale": 1.98,
+   "ultimoValore": 20.6,
+   "minimo": 20.2,
+   "massimo": 20.6
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 20.2,
+   "variazionePercentuale": -0.48,
+   "ultimoValore": 20.5,
+   "minimo": 20.2,
+   "massimo": 20.5
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 20.2,
+   "variazionePercentuale": -0.48,
+   "ultimoValore": 20.5,
+   "minimo": 20.2,
+   "massimo": 20.5
+  }
+ }
+}

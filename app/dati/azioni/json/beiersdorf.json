@@ -1,0 +1,21 @@
+{
+ "azienda": "Beiersdorf",
+ "dati": {
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 114.05,
+   "variazionePercentuale": 3.54,
+   "ultimoValore": 114.05,
+   "minimo": 114.05,
+   "massimo": 114.05
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 114.05,
+   "variazionePercentuale": 3.54,
+   "ultimoValore": 114.05,
+   "minimo": 114.05,
+   "massimo": 114.05
+  }
+ }
+}

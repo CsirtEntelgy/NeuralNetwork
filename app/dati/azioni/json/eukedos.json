@@ -1,0 +1,107 @@
+{
+ "azienda": "Eukedos",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 1.295,
+   "massimo": 1.31,
+   "minimo": 1.235,
+   "ultimoValore": 1.275,
+   "variazionePercentuale": -3.04,
+   "variazione": -0.020000000000000018
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 1.295,
+   "massimo": 1.31,
+   "minimo": 1.235,
+   "ultimoValore": 1.275,
+   "variazionePercentuale": -3.04,
+   "variazione": -0.020000000000000018
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 1.295,
+   "massimo": 1.31,
+   "minimo": 1.235,
+   "ultimoValore": 1.275,
+   "variazionePercentuale": -3.04,
+   "variazione": -0.020000000000000018
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 1.315,
+   "massimo": 1.315,
+   "minimo": 1.21,
+   "ultimoValore": 1.21,
+   "variazionePercentuale": -5.1,
+   "variazione": -0.10499999999999998
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 1.285,
+   "massimo": 1.285,
+   "minimo": 1.2,
+   "ultimoValore": 1.2,
+   "variazionePercentuale": -0.83,
+   "variazione": -0.08499999999999996
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 1.28,
+   "massimo": 1.28,
+   "minimo": 1.21,
+   "ultimoValore": 1.25,
+   "variazionePercentuale": 4.17,
+   "variazione": -0.030000000000000027
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 1.295,
+   "variazionePercentuale": 2,
+   "ultimoValore": 1.275,
+   "minimo": 1.275,
+   "massimo": 1.295
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 1.215,
+   "variazionePercentuale": -2.74,
+   "ultimoValore": 1.24,
+   "minimo": 1.215,
+   "massimo": 1.25
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 1.27,
+   "variazionePercentuale": 2.42,
+   "ultimoValore": 1.27,
+   "minimo": 1.27,
+   "massimo": 1.27
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 1.175,
+   "variazionePercentuale": -3.15,
+   "ultimoValore": 1.23,
+   "minimo": 1.175,
+   "massimo": 1.23
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 1.27,
+   "variazionePercentuale": 2.85,
+   "ultimoValore": 1.265,
+   "minimo": 1.21,
+   "massimo": 1.27
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 1.27,
+   "variazionePercentuale": 2.85,
+   "ultimoValore": 1.265,
+   "minimo": 1.21,
+   "massimo": 1.27
+  }
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "azienda": "Nice Footwear",
+ "dati": {
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 12.25,
+   "massimo": 12.3,
+   "minimo": 12.25,
+   "ultimoValore": 12.3,
+   "variazionePercentuale": 0.41,
+   "variazione": 0.05000000000000071
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 12.25,
+   "massimo": 12.25,
+   "minimo": 12.25,
+   "ultimoValore": 12.25,
+   "variazionePercentuale": -0.41,
+   "variazione": 0
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 12,
+   "massimo": 12.15,
+   "minimo": 12,
+   "ultimoValore": 12.15,
+   "variazionePercentuale": -0.82,
+   "variazione": 0.15000000000000036
+  },
+  "2023-02-10": {
+   "data": "2023-02-10",
+   "apertura": 12.2,
+   "massimo": 12.2,
+   "minimo": 12.2,
+   "ultimoValore": 12.2,
+   "variazionePercentuale": 0.41,
+   "variazione": 0
+  },
+  "2023-02-11": {
+   "data": "2023-02-11",
+   "apertura": 12.2,
+   "massimo": 12.2,
+   "minimo": 12.2,
+   "ultimoValore": 12.2,
+   "variazionePercentuale": 0.41,
+   "variazione": 0
+  },
+  "2023-02-12": {
+   "data": "2023-02-12",
+   "apertura": 12.2,
+   "massimo": 12.2,
+   "minimo": 12.2,
+   "ultimoValore": 12.2,
+   "variazionePercentuale": 0.41,
+   "variazione": 0
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 12.2,
+   "variazionePercentuale": 0.41,
+   "ultimoValore": 12.25,
+   "minimo": 12.2,
+   "massimo": 12.25
+  }
+ }
+}

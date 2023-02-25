@@ -1,0 +1,123 @@
+{
+ "azienda": "Italmobiliare",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 24.8,
+   "massimo": 25.15,
+   "minimo": 23.9,
+   "ultimoValore": 23.9,
+   "variazionePercentuale": -3.04,
+   "variazione": -0.9000000000000021
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 24.8,
+   "massimo": 25.15,
+   "minimo": 23.9,
+   "ultimoValore": 23.9,
+   "variazionePercentuale": -3.04,
+   "variazione": -0.9000000000000021
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 24.8,
+   "massimo": 25.15,
+   "minimo": 23.9,
+   "ultimoValore": 23.9,
+   "variazionePercentuale": -3.04,
+   "variazione": -0.9000000000000021
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 24,
+   "massimo": 24.4,
+   "minimo": 24,
+   "ultimoValore": 24.05,
+   "variazionePercentuale": 0.63,
+   "variazione": 0.05000000000000071
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 24,
+   "massimo": 24.3,
+   "minimo": 23.75,
+   "ultimoValore": 24.2,
+   "variazionePercentuale": 0.62,
+   "variazione": 0.1999999999999993
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 24.3,
+   "massimo": 24.7,
+   "minimo": 24.25,
+   "ultimoValore": 24.55,
+   "variazionePercentuale": 1.45,
+   "variazione": 0.25
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 24.7,
+   "massimo": 24.7,
+   "minimo": 24.2,
+   "ultimoValore": 24.3,
+   "variazionePercentuale": -1.02,
+   "variazione": -0.3999999999999986
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 24.5,
+   "variazionePercentuale": -0.81,
+   "ultimoValore": 24.5,
+   "minimo": 24.4,
+   "massimo": 24.6
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 25.1,
+   "variazionePercentuale": 2.86,
+   "ultimoValore": 25.2,
+   "minimo": 24.75,
+   "massimo": 25.7
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 25.45,
+   "variazionePercentuale": -2.38,
+   "ultimoValore": 24.6,
+   "minimo": 24.5,
+   "massimo": 25.45
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 24.55,
+   "variazionePercentuale": -0.41,
+   "ultimoValore": 24.5,
+   "minimo": 23.85,
+   "massimo": 24.55
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "variazionePercentuale": -0.82,
+   "ultimoValore": 24.3,
+   "minimo": 24.05,
+   "massimo": 24.65
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 24.5,
+   "variazionePercentuale": -2.26,
+   "ultimoValore": 23.75,
+   "minimo": 23.7,
+   "massimo": 24.5
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 24.5,
+   "variazionePercentuale": -2.26,
+   "ultimoValore": 23.75,
+   "minimo": 23.7,
+   "massimo": 24.5
+  }
+ }
+}

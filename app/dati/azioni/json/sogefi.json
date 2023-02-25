@@ -1,0 +1,116 @@
+{
+ "azienda": "Sogefi",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 1.14,
+   "massimo": 1.148,
+   "minimo": 1.122,
+   "ultimoValore": 1.146,
+   "variazionePercentuale": 1.06,
+   "variazione": 0.006000000000000005
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 1.14,
+   "massimo": 1.148,
+   "minimo": 1.122,
+   "ultimoValore": 1.146,
+   "variazionePercentuale": 1.06,
+   "variazione": 0.006000000000000005
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 1.14,
+   "massimo": 1.148,
+   "minimo": 1.122,
+   "ultimoValore": 1.146,
+   "variazionePercentuale": 1.06,
+   "variazione": 0.006000000000000005
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 1.138,
+   "massimo": 1.198,
+   "minimo": 1.138,
+   "ultimoValore": 1.174,
+   "variazionePercentuale": 2.44,
+   "variazione": 0.03600000000000003
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 1.174,
+   "massimo": 1.192,
+   "minimo": 1.17,
+   "ultimoValore": 1.176,
+   "variazionePercentuale": 0.17,
+   "variazione": 0.0020000000000000018
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 1.184,
+   "massimo": 1.186,
+   "minimo": 1.17,
+   "ultimoValore": 1.18,
+   "variazionePercentuale": 0.34,
+   "variazione": -0.0040000000000000036
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 1.192,
+   "massimo": 1.198,
+   "minimo": 1.176,
+   "ultimoValore": 1.176,
+   "variazionePercentuale": -0.34,
+   "variazione": -0.016000000000000014
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 1.21,
+   "variazionePercentuale": -0.33,
+   "ultimoValore": 1.214,
+   "minimo": 1.2,
+   "massimo": 1.218
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 1.212,
+   "variazionePercentuale": -2.47,
+   "ultimoValore": 1.184,
+   "minimo": 1.172,
+   "massimo": 1.212
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 1.154,
+   "variazionePercentuale": -0.17,
+   "ultimoValore": 1.182,
+   "minimo": 1.13,
+   "massimo": 1.184
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 1.184,
+   "variazionePercentuale": 3.89,
+   "ultimoValore": 1.228,
+   "minimo": 1.182,
+   "massimo": 1.246
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 1.24,
+   "variazionePercentuale": -8.96,
+   "ultimoValore": 1.118,
+   "minimo": 1.118,
+   "massimo": 1.252
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 1.24,
+   "variazionePercentuale": -8.96,
+   "ultimoValore": 1.118,
+   "minimo": 1.118,
+   "massimo": 1.252
+  }
+ }
+}

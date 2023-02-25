@@ -1,0 +1,45 @@
+{
+ "azienda": "Marzocchi Pompe",
+ "dati": {
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 4.32,
+   "variazionePercentuale": 0.46,
+   "ultimoValore": 4.4,
+   "minimo": 4.32,
+   "massimo": 4.46
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 4.29,
+   "variazionePercentuale": -2.5,
+   "ultimoValore": 4.29,
+   "minimo": 4.28,
+   "massimo": 4.29
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 4.34,
+   "variazionePercentuale": 1.17,
+   "ultimoValore": 4.34,
+   "minimo": 4.34,
+   "massimo": 4.34
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 4.45,
+   "variazionePercentuale": 3.23,
+   "ultimoValore": 4.48,
+   "minimo": 4.45,
+   "massimo": 4.48
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 4.45,
+   "variazionePercentuale": 3.23,
+   "ultimoValore": 4.48,
+   "minimo": 4.45,
+   "massimo": 4.48
+  }
+ }
+}

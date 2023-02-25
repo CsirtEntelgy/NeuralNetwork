@@ -1,0 +1,197 @@
+{
+ "azienda": "Bfc Media",
+ "dati": {
+  "2022-02-21": {
+   "data": "2022-02-21",
+   "apertura": 3.62,
+   "massimo": 3.62,
+   "minimo": 3.6,
+   "ultimoValore": 3.6,
+   "variazionePercentuale": 0.01
+  },
+  "2022-02-24": {
+   "data": "2022-02-24",
+   "apertura": 3.58,
+   "massimo": 3.58,
+   "minimo": 3.54,
+   "ultimoValore": 3.54,
+   "variazionePercentuale": 0.01
+  },
+  "2022-03-03": {
+   "data": "2022-03-03",
+   "apertura": 3.56,
+   "massimo": 3.56,
+   "minimo": 3.54,
+   "ultimoValore": 3.54,
+   "variazionePercentuale": 0.01
+  },
+  "2022-03-04": {
+   "data": "2022-03-04",
+   "apertura": 3.54,
+   "massimo": 3.54,
+   "minimo": 3.5,
+   "ultimoValore": 3.5,
+   "variazionePercentuale": 0.01
+  },
+  "2022-03-07": {
+   "data": "2022-03-07",
+   "apertura": 3.5,
+   "massimo": 3.54,
+   "minimo": 3.5,
+   "ultimoValore": 3.54,
+   "variazionePercentuale": -0.01
+  },
+  "2022-03-15": {
+   "data": "2022-03-15",
+   "apertura": 3.58,
+   "massimo": 3.58,
+   "minimo": 3.56,
+   "ultimoValore": 3.56,
+   "variazionePercentuale": 0.01
+  },
+  "2022-03-16": {
+   "data": "2022-03-16",
+   "apertura": 3.6,
+   "massimo": 3.6,
+   "minimo": 3.58,
+   "ultimoValore": 3.58,
+   "variazionePercentuale": 0.01
+  },
+  "2022-03-24": {
+   "data": "2022-03-24",
+   "apertura": 3.66,
+   "massimo": 3.68,
+   "minimo": 3.66,
+   "ultimoValore": 3.68,
+   "variazionePercentuale": -0.01
+  },
+  "2022-03-28": {
+   "data": "2022-03-28",
+   "apertura": 3.68,
+   "massimo": 3.7,
+   "minimo": 3.68,
+   "ultimoValore": 3.7,
+   "variazionePercentuale": -0.01
+  },
+  "2022-03-30": {
+   "data": "2022-03-30",
+   "apertura": 3.7,
+   "massimo": 3.72,
+   "minimo": 3.7,
+   "ultimoValore": 3.72,
+   "variazionePercentuale": -0.01
+  },
+  "2022-04-04": {
+   "data": "2022-04-04",
+   "apertura": 3.74,
+   "massimo": 3.74,
+   "minimo": 3.7,
+   "ultimoValore": 3.7,
+   "variazionePercentuale": 0.01
+  },
+  "2022-04-06": {
+   "data": "2022-04-06",
+   "apertura": 3.7,
+   "massimo": 3.72,
+   "minimo": 3.7,
+   "ultimoValore": 3.72,
+   "variazionePercentuale": -0.01
+  },
+  "2022-04-07": {
+   "data": "2022-04-07",
+   "apertura": 3.7,
+   "massimo": 3.72,
+   "minimo": 3.7,
+   "ultimoValore": 3.72,
+   "variazionePercentuale": -0.01
+  },
+  "2022-04-21": {
+   "data": "2022-04-21",
+   "apertura": 3.72,
+   "massimo": 3.74,
+   "minimo": 3.72,
+   "ultimoValore": 3.74,
+   "variazionePercentuale": -0.01
+  },
+  "2022-04-22": {
+   "data": "2022-04-22",
+   "apertura": 3.72,
+   "massimo": 3.74,
+   "minimo": 3.72,
+   "ultimoValore": 3.74,
+   "variazionePercentuale": -0.01
+  },
+  "2022-04-27": {
+   "data": "2022-04-27",
+   "apertura": 3.72,
+   "massimo": 3.74,
+   "minimo": 3.72,
+   "ultimoValore": 3.74,
+   "variazionePercentuale": -0.01
+  },
+  "2022-05-03": {
+   "data": "2022-05-03",
+   "apertura": 3.74,
+   "massimo": 3.74,
+   "minimo": 3.72,
+   "ultimoValore": 3.72,
+   "variazionePercentuale": 0.01
+  },
+  "2022-07-04": {
+   "data": "2022-07-04",
+   "apertura": 3.82,
+   "massimo": 4,
+   "minimo": 3.82,
+   "ultimoValore": 4,
+   "variazionePercentuale": -0.05
+  },
+  "2022-11-03": {
+   "data": "2022-11-03",
+   "apertura": 4.14,
+   "massimo": 4.14,
+   "minimo": 3.82,
+   "ultimoValore": 4.04,
+   "variazionePercentuale": 0.02
+  },
+  "2023-01-23": {
+   "data": "2023-01-23",
+   "apertura": 3.84,
+   "massimo": 3.86,
+   "minimo": 3.84,
+   "ultimoValore": 3.86,
+   "variazionePercentuale": -0.01
+  },
+  "2023-01-24": {
+   "data": "2023-01-24",
+   "apertura": 3.88,
+   "massimo": 4.5,
+   "minimo": 3.88,
+   "ultimoValore": 4.5,
+   "variazionePercentuale": -0.16
+  },
+  "2023-01-25": {
+   "data": "2023-01-25",
+   "apertura": 4.62,
+   "massimo": 4.68,
+   "minimo": 4.54,
+   "ultimoValore": 4.68,
+   "variazionePercentuale": -0.01
+  },
+  "2023-02-02": {
+   "data": "2023-02-02",
+   "apertura": 4.5,
+   "massimo": 4.5,
+   "minimo": 4.1,
+   "ultimoValore": 4.12,
+   "variazionePercentuale": 0.08
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 4.02,
+   "massimo": 4.3,
+   "minimo": 4.02,
+   "ultimoValore": 4.3,
+   "variazionePercentuale": -0.07
+  }
+ }
+}

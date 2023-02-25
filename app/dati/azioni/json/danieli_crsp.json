@@ -1,0 +1,171 @@
+{
+ "azienda": "Danieli & C Rsp",
+ "dati": {
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 17.4,
+   "massimo": 17.5,
+   "minimo": 17.04,
+   "ultimoValore": 17.42,
+   "variazionePercentuale": -0.23,
+   "variazione": 0.020000000000003126
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 17.42,
+   "massimo": 17.7,
+   "minimo": 17.32,
+   "ultimoValore": 17.66,
+   "variazionePercentuale": 1.38,
+   "variazione": 0.23999999999999844
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 17.6,
+   "massimo": 17.84,
+   "minimo": 17.6,
+   "ultimoValore": 17.64,
+   "variazionePercentuale": -0.11,
+   "variazione": 0.03999999999999915
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 17.78,
+   "massimo": 17.92,
+   "minimo": 17.7,
+   "ultimoValore": 17.86,
+   "variazionePercentuale": 1.25,
+   "variazione": 0.0799999999999983
+  },
+  "2023-02-10": {
+   "data": "2023-02-10",
+   "apertura": 17.76,
+   "massimo": 17.92,
+   "minimo": 17.56,
+   "ultimoValore": 17.7,
+   "variazionePercentuale": -0.9,
+   "variazione": -0.060000000000002274
+  },
+  "2023-02-11": {
+   "data": "2023-02-11",
+   "apertura": 17.76,
+   "massimo": 17.92,
+   "minimo": 17.56,
+   "ultimoValore": 17.7,
+   "variazionePercentuale": -0.9,
+   "variazione": -0.060000000000002274
+  },
+  "2023-02-12": {
+   "data": "2023-02-12",
+   "apertura": 17.76,
+   "massimo": 17.92,
+   "minimo": 17.56,
+   "ultimoValore": 17.7,
+   "variazionePercentuale": -0.9,
+   "variazione": -0.060000000000002274
+  },
+  "2023-02-13": {
+   "data": "2023-02-13",
+   "apertura": 17.8,
+   "massimo": 18,
+   "minimo": 17.66,
+   "ultimoValore": 17.64,
+   "variazionePercentuale": -0.34,
+   "variazione": -0.16000000000000014
+  },
+  "2023-02-14": {
+   "data": "2023-02-14",
+   "apertura": 17.76,
+   "massimo": 17.86,
+   "minimo": 17.76,
+   "ultimoValore": 17.8,
+   "variazionePercentuale": 0.91,
+   "variazione": 0.03999999999999915
+  },
+  "2023-02-15": {
+   "data": "2023-02-15",
+   "apertura": 17.84,
+   "massimo": 17.86,
+   "minimo": 17.6,
+   "ultimoValore": 17.78,
+   "variazionePercentuale": -0.11,
+   "variazione": -0.05999999999999872
+  },
+  "2023-02-16": {
+   "data": "2023-02-16",
+   "massimo": 17.92,
+   "minimo": 17.66,
+   "ultimoValore": 17.84,
+   "variazionePercentuale": 0.34,
+   "variazione": null
+  },
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "variazionePercentuale": 0.67,
+   "ultimoValore": 17.96,
+   "minimo": 17.74,
+   "massimo": 18.02
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "variazionePercentuale": 0.67,
+   "ultimoValore": 17.96,
+   "minimo": 17.74,
+   "massimo": 18.02
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "variazionePercentuale": 0.67,
+   "ultimoValore": 17.96,
+   "minimo": 17.74,
+   "massimo": 18.02
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "variazionePercentuale": -0.22,
+   "ultimoValore": 17.92,
+   "minimo": 17.84,
+   "massimo": 18.12
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 17.98,
+   "variazionePercentuale": -0.33,
+   "ultimoValore": 17.86,
+   "minimo": 17.62,
+   "massimo": 18.1
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 17.72,
+   "variazionePercentuale": -0.34,
+   "ultimoValore": 17.8,
+   "minimo": 17.6,
+   "massimo": 17.94
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 17.8,
+   "variazionePercentuale": 2.36,
+   "ultimoValore": 18.22,
+   "minimo": 17.8,
+   "massimo": 18.22
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 18.24,
+   "variazionePercentuale": 4.17,
+   "ultimoValore": 18.98,
+   "minimo": 18.24,
+   "massimo": 19.1
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 18.24,
+   "variazionePercentuale": 4.17,
+   "ultimoValore": 18.98,
+   "minimo": 18.24,
+   "massimo": 19.1
+  }
+ }
+}

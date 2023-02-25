@@ -1,0 +1,28 @@
+{
+ "azienda": "Tps",
+ "dati": {
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 5.3,
+   "variazionePercentuale": 0.91,
+   "ultimoValore": 5.55,
+   "minimo": 5.3,
+   "massimo": 5.55
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "variazionePercentuale": 2.7,
+   "ultimoValore": 5.7,
+   "minimo": 5.7,
+   "massimo": 5.7
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 5.6,
+   "variazionePercentuale": -1.75,
+   "ultimoValore": 5.6,
+   "minimo": 5.6,
+   "massimo": 5.6
+  }
+ }
+}

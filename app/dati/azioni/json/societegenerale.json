@@ -1,0 +1,110 @@
+{
+ "azienda": "Societe Generale",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 27.63,
+   "massimo": 27.8,
+   "minimo": 27.29,
+   "ultimoValore": 27.8,
+   "variazionePercentuale": 0.94,
+   "variazione": 0.1700000000000017
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 27.63,
+   "massimo": 27.8,
+   "minimo": 27.29,
+   "ultimoValore": 27.8,
+   "variazionePercentuale": 0.94,
+   "variazione": 0.1700000000000017
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 27.63,
+   "massimo": 27.8,
+   "minimo": 27.29,
+   "ultimoValore": 27.8,
+   "variazionePercentuale": 0.94,
+   "variazione": 0.1700000000000017
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 27.45,
+   "massimo": 27.61,
+   "minimo": 27.3,
+   "ultimoValore": 27.365,
+   "variazionePercentuale": -1.56,
+   "variazione": -0.08500000000000085
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 27.68,
+   "massimo": 28.305,
+   "minimo": 27.68,
+   "ultimoValore": 28.07,
+   "variazionePercentuale": 2.58,
+   "variazione": 0.39000000000000057
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 27.85,
+   "massimo": 28.095,
+   "minimo": 26.5,
+   "ultimoValore": 26.6,
+   "variazionePercentuale": -5.24,
+   "variazione": -1.25
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 26.63,
+   "massimo": 26.675,
+   "minimo": 26.365,
+   "ultimoValore": 26.59,
+   "variazionePercentuale": -0.09,
+   "variazione": -0.03999999999999915
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "variazionePercentuale": -1.35,
+   "ultimoValore": 27.665,
+   "minimo": 27.665,
+   "massimo": 27.92
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "variazionePercentuale": -1.52,
+   "ultimoValore": 27.245,
+   "minimo": 27.085,
+   "massimo": 27.52
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "variazionePercentuale": -2.94,
+   "ultimoValore": 26.445,
+   "minimo": 26.445,
+   "massimo": 26.865
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "variazionePercentuale": 1.65,
+   "ultimoValore": 26.88,
+   "minimo": 26.735,
+   "massimo": 26.88
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "variazionePercentuale": -1.04,
+   "ultimoValore": 26.6,
+   "minimo": 26.6,
+   "massimo": 26.66
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "variazionePercentuale": -1.04,
+   "ultimoValore": 26.6,
+   "minimo": 26.6,
+   "massimo": 26.66
+  }
+ }
+}

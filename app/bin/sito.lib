@@ -1,0 +1,114 @@
+#!/bin/sh
+creaPage(){
+  local PTH="$1" NAME="$2"
+  echo '<html>'
+  echo '<script src="'$NAME'.js"></script>'
+  echo '<script src="../tools.js"></script>'
+  echo '<body>'
+  echo "<h1 id=\"azienda\" style=\"text-align:center;\"></h1>"
+  echo "<h2 id=\"dataelab\" style=\"text-align:center;\"></h2>"
+  for k in variazionePercentuale ultimoValore
+  do
+  echo "<div>"
+  echo "<div id=\"svg\" style=\"float:left;width:40%;\">"
+    if [ -e "$PTH/$NAME.${k}.err" ]
+    then
+    (  
+        echo " set datafile sep \",\" "
+        echo " set terminal svg size 500,362"
+        echo " set title 'Errore' "
+        echo " set xlabel 'Iterazioni' "
+        echo " set ylabel 'Errore medio' "
+        echo " plot [][0:1] '$PTH/$NAME.${k}.err' u 1:2 with line title\"Errore\"" 
+    )|gnuplot
+    fi
+    if [ -e $PTH/$NAME.${k}.dat ]
+    then
+    (  
+        echo " set terminal svg size 500,362 "
+        echo " set title 'Apprendimento / Previsione'"
+        echo " set datafile sep \",\" "
+        echo " set xdata time" 
+        echo " set xlabel 'Data'" 
+        echo " set ylabel 'Valore'" 
+        echo ' set timefmt "%Y-%m-%d"' 
+        echo ' set format x "%d/%m"'
+        echo " plot '$PTH/$NAME.${k}.dat' u 1:2 with line title \"Dato\", '$PTH/$NAME.${k}.prd' u 1:2  title \"Predizione\" "
+    ) | gnuplot
+    fi
+    echo '</div>'
+    done
+    echo '<div style="float:right;">'
+  for k in variazionePercentuale ultimoValore
+  do  echo '<table id="predizioni-'${k}'" style="font-size:small;"/>'
+  done
+    echo '</div>'
+    echo '</div>'
+  echo '</body>'
+  echo '<script>start(dett);</script>'
+  echo '</html>'
+}
+
+fromWeb(){
+   local WD=appo/$(date +"%Y-%m-%d")
+   mkdir -p $WD
+   rm -f $WD/*.js
+   for LETTERA in A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+   do
+      echo "recupero ${LETTERA}"
+      wget "https://www.borsaitaliana.it/borsa/azioni/listino-a-z.html?initial=${LETTERA}&page=1" -O $WD/${LETTERA}.1.html >/dev/null 2>/dev/null
+      wget "https://www.borsaitaliana.it/borsa/azioni/listino-a-z.html?initial=${LETTERA}&page=2" -O $WD/${LETTERA}.2.html >/dev/null 2>/dev/null
+      wget "https://www.borsaitaliana.it/borsa/azioni/listino-a-z.html?initial=${LETTERA}&page=3" -O $WD/${LETTERA}.3.html >/dev/null 2>/dev/null
+      echo "Analisi $WD/${LETTERA}"
+      node js/parsehtml.js $WD/${LETTERA}
+      #rm -f $WD/${LETTERA}.*
+   done 
+}
+
+
+creaPageDati(){
+   local PTH="$1" NAME="$2"
+   cat html/page_dat/$NAME.js | grep -E "(data)|(ultimoValore)" |sed 's/"//g' | awk -F : '{if($1 ~ "ultimo") printf("%s\n",$2); else printf("%s",$2);}' >html/page_dat/$NAME.1.dat
+   cat html/page_dat/$NAME.js | grep -E "(data)|(variazionePercentuale)" |sed 's/"//g' | awk -F : '{if($1 ~ "variazione") printf("%s\n",$2); else printf("%s",$2);}' >html/page_dat/$NAME.2.dat
+  echo '<html>'
+  echo '<script src="'$NAME'.js"></script>'
+  echo '<script src="../tools.js"></script>'
+  echo '<body>' 
+  echo "<h1 id=\"azienda\" style=\"text-align:center;\"></h1>"
+  echo '<table id="storico" style="font-size:small;float:left" border="1"/>'
+  echo '<div  style="font-size:small;float:right">'
+  echo '<div  style="font-size:small">'
+  (  
+        echo " set terminal svg size 500,362 "
+        echo " set title 'Dati storici'"
+        echo " set datafile sep \",\" "
+        echo " set xdata time" 
+        echo " set xlabel 'Data'" 
+        echo " set ylabel 'Valore'" 
+        echo ' set timefmt "%Y-%m-%d"' 
+        echo ' set format x "%b"'
+        echo ' set grid '
+        echo " plot [][0:] 'html/page_dat/$NAME.1.dat' u 1:2 with line title \"ultimo Valore\" "
+    ) | gnuplot
+    echo '</div>'
+    echo '<br>'
+    echo '<div  style="font-size:small;float:right">'
+    (  
+        echo " set terminal svg size 500,362 "
+        echo " set title 'Dati storici'"
+        echo " set datafile sep \",\" "
+        echo " set xdata time" 
+        echo " set xlabel 'Data'" 
+        echo " set ylabel 'Valore'" 
+        echo ' set timefmt "%Y-%m-%d"' 
+        echo ' set format x "%b"'
+        echo ' set grid '
+        echo " plot [][0:] 'html/page_dat/$NAME.2.dat' u 1:2 with line title \"variazione Percentuale\""
+    ) | gnuplot
+  echo '</div>'
+  echo '</div>'
+  echo '</body>'
+  rm html/page_dat/$NAME.?.dat
+  echo '<script>startDati();</script>'
+  echo '</html>'
+}

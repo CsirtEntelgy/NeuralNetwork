@@ -1,0 +1,149 @@
+{
+ "azienda": "Igd - Siiq",
+ "displayName": "Igd-Siiq",
+ "dettaglio": "Igd - Siiq Euronext STAR Milan",
+ "aggiornamento": "2023-02-18T15:23:22.306Z",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 2.85,
+   "massimo": 2.9,
+   "minimo": 2.825,
+   "ultimoValore": 2.825,
+   "variazionePercentuale": -1.4,
+   "variazione": -0.02499999999999991
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 2.85,
+   "massimo": 2.9,
+   "minimo": 2.825,
+   "ultimoValore": 2.825,
+   "variazionePercentuale": -1.4,
+   "variazione": -0.02499999999999991
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 2.85,
+   "massimo": 2.9,
+   "minimo": 2.825,
+   "ultimoValore": 2.825,
+   "variazionePercentuale": -1.4,
+   "variazione": -0.02499999999999991
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 2.815,
+   "massimo": 2.875,
+   "minimo": 2.795,
+   "ultimoValore": 2.84,
+   "variazionePercentuale": 0.53,
+   "variazione": 0.02499999999999991
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 2.84,
+   "massimo": 2.865,
+   "minimo": 2.8,
+   "ultimoValore": 2.81,
+   "variazionePercentuale": -1.06,
+   "variazione": -0.029999999999999805
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 2.81,
+   "massimo": 2.89,
+   "minimo": 2.81,
+   "ultimoValore": 2.835,
+   "variazionePercentuale": 0.89,
+   "variazione": 0.02499999999999991
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 2.87,
+   "massimo": 2.87,
+   "minimo": 2.825,
+   "ultimoValore": 2.84,
+   "variazionePercentuale": 0.18,
+   "variazione": -0.03000000000000025
+  },
+  "2023-02-10": {
+   "data": "2023-02-10",
+   "apertura": 2.87,
+   "massimo": 2.89,
+   "minimo": 2.805,
+   "ultimoValore": 2.83,
+   "variazionePercentuale": -0.35,
+   "variazione": -0.040000000000000036
+  },
+  "2023-02-11": {
+   "data": "2023-02-11",
+   "apertura": 2.87,
+   "massimo": 2.89,
+   "minimo": 2.805,
+   "ultimoValore": 2.83,
+   "variazionePercentuale": -0.35,
+   "variazione": -0.040000000000000036
+  },
+  "2023-02-12": {
+   "data": "2023-02-12",
+   "apertura": 2.87,
+   "massimo": 2.89,
+   "minimo": 2.805,
+   "ultimoValore": 2.83,
+   "variazionePercentuale": -0.35,
+   "variazione": -0.040000000000000036
+  },
+  "2023-02-13": {
+   "data": "2023-02-13",
+   "apertura": 2.865,
+   "massimo": 2.87,
+   "minimo": 2.81,
+   "ultimoValore": 2.835,
+   "variazionePercentuale": 0.18,
+   "variazione": -0.03000000000000025
+  },
+  "2023-02-14": {
+   "data": "2023-02-14",
+   "massimo": 2.85,
+   "minimo": 2.825,
+   "ultimoValore": 2.805,
+   "variazionePercentuale": -1.06,
+   "variazione": null
+  },
+  "2023-02-15": {
+   "data": "2023-02-15",
+   "apertura": 2.8,
+   "massimo": 2.83,
+   "minimo": 2.77,
+   "ultimoValore": 2.77,
+   "variazionePercentuale": -1.25,
+   "variazione": -0.029999999999999805
+  },
+  "2023-02-16": {
+   "data": "2023-02-16",
+   "apertura": 2.8,
+   "massimo": 2.805,
+   "minimo": 2.765,
+   "ultimoValore": 2.77,
+   "variazionePercentuale": 0,
+   "variazione": -0.029999999999999805
+  },
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "apertura": 2.78,
+   "variazionePercentuale": 1.26,
+   "ultimoValore": 2.805,
+   "minimo": 2.735,
+   "massimo": 2.81
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "apertura": 2.78,
+   "variazionePercentuale": 1.26,
+   "ultimoValore": 2.805,
+   "minimo": 2.735,
+   "massimo": 2.81
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "azienda": "Fervi",
+ "dati": {
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 17.15,
+   "variazionePercentuale": -0.29,
+   "ultimoValore": 17.05,
+   "minimo": 17.05,
+   "massimo": 17.15
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 16.8,
+   "variazionePercentuale": -2.05,
+   "ultimoValore": 16.7,
+   "minimo": 16.7,
+   "massimo": 16.8
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 16.6,
+   "variazionePercentuale": -0.6,
+   "ultimoValore": 16.6,
+   "minimo": 16.6,
+   "massimo": 16.6
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 16.6,
+   "variazionePercentuale": -0.6,
+   "ultimoValore": 16.6,
+   "minimo": 16.6,
+   "massimo": 16.6
+  }
+ }
+}

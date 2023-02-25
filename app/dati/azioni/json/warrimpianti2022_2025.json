@@ -1,0 +1,21 @@
+{
+ "azienda": "Warr Impianti 2022-2025",
+ "dati": {
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 0.175,
+   "variazionePercentuale": 0.28,
+   "ultimoValore": 0.1805,
+   "minimo": 0.172,
+   "massimo": 0.1805
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 0.18,
+   "variazionePercentuale": -0.28,
+   "ultimoValore": 0.18,
+   "minimo": 0.18,
+   "massimo": 0.18
+  }
+ }
+}

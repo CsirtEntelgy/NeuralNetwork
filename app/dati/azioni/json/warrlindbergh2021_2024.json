@@ -1,0 +1,21 @@
+{
+ "azienda": "Warr Lindbergh 2021-2024",
+ "dati": {
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 0.145,
+   "variazionePercentuale": 0.06,
+   "ultimoValore": 0.1674,
+   "minimo": 0.145,
+   "massimo": 0.1674
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 0.1674,
+   "variazionePercentuale": 4.17,
+   "ultimoValore": 0.1674,
+   "minimo": 0.154,
+   "massimo": 0.1674
+  }
+ }
+}

@@ -1,0 +1,128 @@
+{
+ "azienda": "Kolinpharma",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 9.1,
+   "massimo": 9.14,
+   "minimo": 9.08,
+   "ultimoValore": 9.14,
+   "variazionePercentuale": 1.56,
+   "variazione": 0.040000000000000924
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 9.1,
+   "massimo": 9.14,
+   "minimo": 9.08,
+   "ultimoValore": 9.14,
+   "variazionePercentuale": 1.56,
+   "variazione": 0.040000000000000924
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 9.1,
+   "massimo": 9.14,
+   "minimo": 9.08,
+   "ultimoValore": 9.14,
+   "variazionePercentuale": 1.56,
+   "variazione": 0.040000000000000924
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 9,
+   "massimo": 9.12,
+   "minimo": 9,
+   "ultimoValore": 9.12,
+   "variazionePercentuale": -0.22,
+   "variazione": 0.11999999999999922
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 9.1,
+   "massimo": 9.1,
+   "minimo": 9.1,
+   "ultimoValore": 9.1,
+   "variazionePercentuale": -0.22,
+   "variazione": 0
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 9.08,
+   "massimo": 9.08,
+   "minimo": 9.08,
+   "ultimoValore": 9.08,
+   "variazionePercentuale": -0.22,
+   "variazione": 0
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 9,
+   "massimo": 9,
+   "minimo": 8.82,
+   "ultimoValore": 8.9,
+   "variazionePercentuale": -1.98,
+   "variazione": -0.09999999999999964
+  },
+  "2023-02-10": {
+   "data": "2023-02-10",
+   "apertura": 8.98,
+   "massimo": 8.98,
+   "minimo": 8.98,
+   "ultimoValore": 8.98,
+   "variazionePercentuale": 0.9,
+   "variazione": 0
+  },
+  "2023-02-11": {
+   "data": "2023-02-11",
+   "apertura": 8.98,
+   "massimo": 8.98,
+   "minimo": 8.98,
+   "ultimoValore": 8.98,
+   "variazionePercentuale": 0.9,
+   "variazione": 0
+  },
+  "2023-02-12": {
+   "data": "2023-02-12",
+   "apertura": 8.98,
+   "massimo": 8.98,
+   "minimo": 8.98,
+   "ultimoValore": 8.98,
+   "variazionePercentuale": 0.9,
+   "variazione": 0
+  },
+  "2023-02-16": {
+   "data": "2023-02-16",
+   "apertura": 8.78,
+   "massimo": 8.78,
+   "minimo": 8.7,
+   "ultimoValore": 8.7,
+   "variazionePercentuale": -3.12,
+   "variazione": -0.08000000000000007
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 8.88,
+   "variazionePercentuale": 3.22,
+   "ultimoValore": 8.98,
+   "minimo": 8.88,
+   "massimo": 8.98
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 8.8,
+   "variazionePercentuale": -2.67,
+   "ultimoValore": 8.74,
+   "minimo": 8.74,
+   "massimo": 8.8
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 8.8,
+   "variazionePercentuale": -2.67,
+   "ultimoValore": 8.74,
+   "minimo": 8.74,
+   "massimo": 8.8
+  }
+ }
+}

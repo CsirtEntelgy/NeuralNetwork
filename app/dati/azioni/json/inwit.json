@@ -1,0 +1,115 @@
+{
+ "azienda": "Inwit",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 10.26,
+   "massimo": 10.315,
+   "minimo": 10.085,
+   "ultimoValore": 10.085,
+   "variazionePercentuale": -2.37,
+   "variazione": -0.17499999999999893
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 10.26,
+   "massimo": 10.315,
+   "minimo": 10.085,
+   "ultimoValore": 10.085,
+   "variazionePercentuale": -2.37,
+   "variazione": -0.17499999999999893
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 10.26,
+   "massimo": 10.315,
+   "minimo": 10.085,
+   "ultimoValore": 10.085,
+   "variazionePercentuale": -2.37,
+   "variazione": -0.17499999999999893
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 10.06,
+   "massimo": 10.17,
+   "minimo": 10.045,
+   "ultimoValore": 10.17,
+   "variazionePercentuale": 0.84,
+   "variazione": 0.10999999999999943
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 10.12,
+   "massimo": 10.2,
+   "minimo": 10.055,
+   "ultimoValore": 10.2,
+   "variazionePercentuale": 0.3,
+   "variazione": 0.08000000000000007
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 10.34,
+   "massimo": 10.445,
+   "minimo": 10.29,
+   "ultimoValore": 10.41,
+   "variazionePercentuale": 2.06,
+   "variazione": 0.07000000000000028
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 10.33,
+   "variazionePercentuale": 0.96,
+   "ultimoValore": 10.475,
+   "minimo": 10.27,
+   "massimo": 10.5
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 10.475,
+   "variazionePercentuale": -1,
+   "ultimoValore": 10.37,
+   "minimo": 10.345,
+   "massimo": 10.475
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 10.335,
+   "variazionePercentuale": -0.19,
+   "ultimoValore": 10.35,
+   "minimo": 10.29,
+   "massimo": 10.395
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 10.33,
+   "variazionePercentuale": 0.15,
+   "ultimoValore": 10.365,
+   "minimo": 10.3,
+   "massimo": 10.455
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 10.385,
+   "variazionePercentuale": -0.05,
+   "ultimoValore": 10.36,
+   "minimo": 10.325,
+   "massimo": 10.42
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 10.37,
+   "variazionePercentuale": -0.63,
+   "ultimoValore": 10.295,
+   "minimo": 10.275,
+   "massimo": 10.495
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 10.37,
+   "variazionePercentuale": -0.63,
+   "ultimoValore": 10.295,
+   "minimo": 10.275,
+   "massimo": 10.495
+  }
+ }
+}

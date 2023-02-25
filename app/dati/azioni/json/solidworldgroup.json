@@ -1,0 +1,114 @@
+{
+ "azienda": "Solid World Group",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 2.22,
+   "massimo": 2.22,
+   "minimo": 2.19,
+   "ultimoValore": 2.2,
+   "variazionePercentuale": -0.9,
+   "variazione": -0.020000000000000018
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 2.22,
+   "massimo": 2.22,
+   "minimo": 2.19,
+   "ultimoValore": 2.2,
+   "variazionePercentuale": -0.9,
+   "variazione": -0.020000000000000018
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 2.22,
+   "massimo": 2.22,
+   "minimo": 2.19,
+   "ultimoValore": 2.2,
+   "variazionePercentuale": -0.9,
+   "variazione": -0.020000000000000018
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 2.17,
+   "massimo": 2.22,
+   "minimo": 2.15,
+   "ultimoValore": 2.15,
+   "variazionePercentuale": -2.27,
+   "variazione": -0.020000000000000018
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 2.16,
+   "massimo": 2.19,
+   "minimo": 2.15,
+   "ultimoValore": 2.16,
+   "variazionePercentuale": 0.47,
+   "variazione": 0
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 2.18,
+   "massimo": 2.18,
+   "minimo": 2.14,
+   "ultimoValore": 2.15,
+   "variazionePercentuale": -0.46,
+   "variazione": -0.03000000000000025
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 2.16,
+   "massimo": 2.2,
+   "minimo": 2.12,
+   "ultimoValore": 2.13,
+   "variazionePercentuale": -0.47,
+   "variazione": -0.03000000000000025
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 2.73,
+   "variazionePercentuale": 28.08,
+   "ultimoValore": 3.33,
+   "minimo": 2.67,
+   "massimo": 3.33
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "variazionePercentuale": 2.1,
+   "ultimoValore": 3.4,
+   "minimo": 3.35,
+   "massimo": 4.4
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 3.24,
+   "variazionePercentuale": 3.53,
+   "ultimoValore": 3.52,
+   "minimo": 2.97,
+   "massimo": 3.71
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "variazionePercentuale": -2.84,
+   "ultimoValore": 3.42,
+   "minimo": 3.28,
+   "massimo": 3.73
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 3.46,
+   "variazionePercentuale": -5.56,
+   "ultimoValore": 3.23,
+   "minimo": 3.23,
+   "massimo": 3.65
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 3.46,
+   "variazionePercentuale": -5.56,
+   "ultimoValore": 3.23,
+   "minimo": 3.23,
+   "massimo": 3.65
+  }
+ }
+}

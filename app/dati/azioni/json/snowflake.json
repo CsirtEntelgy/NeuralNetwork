@@ -1,0 +1,92 @@
+{
+ "azienda": "Snowflake",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 151.02,
+   "massimo": 151.02,
+   "minimo": 151.02,
+   "ultimoValore": 151.02,
+   "variazionePercentuale": -3.19,
+   "variazione": 0
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 151.02,
+   "massimo": 151.02,
+   "minimo": 151.02,
+   "ultimoValore": 151.02,
+   "variazionePercentuale": -3.19,
+   "variazione": 0
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 151.02,
+   "massimo": 151.02,
+   "minimo": 151.02,
+   "ultimoValore": 151.02,
+   "variazionePercentuale": -3.19,
+   "variazione": 0
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 149.82,
+   "massimo": 149.82,
+   "minimo": 148.6,
+   "ultimoValore": 148.6,
+   "variazionePercentuale": -1.6,
+   "variazione": -1.2199999999999989
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 145.5,
+   "massimo": 145.5,
+   "minimo": 145.5,
+   "ultimoValore": 145.5,
+   "variazionePercentuale": -2.09,
+   "variazione": 0
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 150.1,
+   "massimo": 151.6,
+   "minimo": 149.5,
+   "ultimoValore": 149.5,
+   "variazionePercentuale": 2.75,
+   "variazione": -0.5999999999999943
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 151.44,
+   "massimo": 153.08,
+   "minimo": 151.44,
+   "ultimoValore": 152.88,
+   "variazionePercentuale": 2.26,
+   "variazione": 1.4399999999999977
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 148.02,
+   "variazionePercentuale": -7.69,
+   "ultimoValore": 145.72,
+   "minimo": 145.72,
+   "massimo": 148.02
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 142,
+   "variazionePercentuale": -2.14,
+   "ultimoValore": 142.6,
+   "minimo": 141.5,
+   "massimo": 142.6
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 143.34,
+   "variazionePercentuale": -1.67,
+   "ultimoValore": 140.22,
+   "minimo": 140.22,
+   "massimo": 143.34
+  }
+ }
+}

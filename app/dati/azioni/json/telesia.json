@@ -1,0 +1,61 @@
+{
+ "azienda": "Telesia",
+ "dati": {
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "apertura": 1.92,
+   "variazionePercentuale": 4.17,
+   "ultimoValore": 2,
+   "minimo": 1.91,
+   "massimo": 2
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "apertura": 1.92,
+   "variazionePercentuale": 4.17,
+   "ultimoValore": 2,
+   "minimo": 1.91,
+   "massimo": 2
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 1.92,
+   "variazionePercentuale": 4.17,
+   "ultimoValore": 2,
+   "minimo": 1.91,
+   "massimo": 2
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 1.97,
+   "variazionePercentuale": -1,
+   "ultimoValore": 1.98,
+   "minimo": 1.97,
+   "massimo": 1.98
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 1.9,
+   "variazionePercentuale": -1.01,
+   "ultimoValore": 1.96,
+   "minimo": 1.9,
+   "massimo": 1.98
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 1.91,
+   "variazionePercentuale": -2.55,
+   "ultimoValore": 1.91,
+   "minimo": 1.91,
+   "massimo": 1.91
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 1.9,
+   "variazionePercentuale": -0.52,
+   "ultimoValore": 1.9,
+   "minimo": 1.85,
+   "massimo": 1.98
+  }
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "azienda": "Irce",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 2.4,
+   "massimo": 2.43,
+   "minimo": 2.4,
+   "ultimoValore": 2.4,
+   "variazionePercentuale": -3.61,
+   "variazione": 0
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 2.4,
+   "massimo": 2.43,
+   "minimo": 2.4,
+   "ultimoValore": 2.4,
+   "variazionePercentuale": -3.61,
+   "variazione": 0
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 2.4,
+   "massimo": 2.43,
+   "minimo": 2.4,
+   "ultimoValore": 2.4,
+   "variazionePercentuale": -3.61,
+   "variazione": 0
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 2.43,
+   "massimo": 2.44,
+   "minimo": 2.37,
+   "ultimoValore": 2.42,
+   "variazionePercentuale": 0.83,
+   "variazione": -0.010000000000000231
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 2.45,
+   "massimo": 2.5,
+   "minimo": 2.27,
+   "ultimoValore": 2.45,
+   "variazionePercentuale": 1.24,
+   "variazione": 0
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 2.43,
+   "massimo": 2.63,
+   "minimo": 2.37,
+   "ultimoValore": 2.51,
+   "variazionePercentuale": 2.45,
+   "variazione": 0.07999999999999963
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 2.56,
+   "massimo": 2.6,
+   "minimo": 2.48,
+   "ultimoValore": 2.52,
+   "variazionePercentuale": 0.4,
+   "variazione": -0.040000000000000036
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 2.47,
+   "variazionePercentuale": -1.6,
+   "ultimoValore": 2.46,
+   "minimo": 2.33,
+   "massimo": 2.48
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 2.5,
+   "variazionePercentuale": 1.22,
+   "ultimoValore": 2.49,
+   "minimo": 2.41,
+   "massimo": 2.55
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 2.46,
+   "variazionePercentuale": -0.8,
+   "ultimoValore": 2.47,
+   "minimo": 2.32,
+   "massimo": 2.55
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 2.47,
+   "variazionePercentuale": -1.21,
+   "ultimoValore": 2.44,
+   "minimo": 2.41,
+   "massimo": 2.47
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 2.47,
+   "variazionePercentuale": -1.21,
+   "ultimoValore": 2.44,
+   "minimo": 2.41,
+   "massimo": 2.47
+  }
+ }
+}

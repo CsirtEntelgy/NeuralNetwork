@@ -1,0 +1,111 @@
+{
+ "azienda": "Siemens",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "massimo": 144.82,
+   "minimo": 144.3,
+   "ultimoValore": 144.82,
+   "variazionePercentuale": 1.08,
+   "variazione": null
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "massimo": 144.82,
+   "minimo": 144.3,
+   "ultimoValore": 144.82,
+   "variazionePercentuale": 1.08,
+   "variazione": null
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "massimo": 144.82,
+   "minimo": 144.3,
+   "ultimoValore": 144.82,
+   "variazionePercentuale": 1.08,
+   "variazione": null
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "massimo": 144.58,
+   "minimo": 142.5,
+   "ultimoValore": 143.2,
+   "variazionePercentuale": -1.12,
+   "variazione": null
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "massimo": 142.98,
+   "minimo": 140.54,
+   "ultimoValore": 140.54,
+   "variazionePercentuale": -1.86,
+   "variazione": null
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 141.8,
+   "massimo": 141.8,
+   "minimo": 140.24,
+   "ultimoValore": 140.24,
+   "variazionePercentuale": -0.21,
+   "variazione": -1.5600000000000023
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 143.5,
+   "massimo": 152.1,
+   "minimo": 143.5,
+   "ultimoValore": 149.42,
+   "variazionePercentuale": 6.55,
+   "variazione": 5.9199999999999875
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 144.5,
+   "variazionePercentuale": -1.41,
+   "ultimoValore": 145.46,
+   "minimo": 144.42,
+   "massimo": 145.72
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 145.4,
+   "variazionePercentuale": -0.66,
+   "ultimoValore": 144.52,
+   "minimo": 144.52,
+   "massimo": 145.4
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 142.92,
+   "variazionePercentuale": -0.04,
+   "ultimoValore": 144.46,
+   "minimo": 142.28,
+   "massimo": 144.46
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 145.86,
+   "variazionePercentuale": 1.2,
+   "ultimoValore": 146.2,
+   "minimo": 145.7,
+   "massimo": 146.2
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 146.2,
+   "variazionePercentuale": -2.38,
+   "ultimoValore": 142.72,
+   "minimo": 142.72,
+   "massimo": 146.2
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 146.2,
+   "variazionePercentuale": -2.38,
+   "ultimoValore": 142.72,
+   "minimo": 142.72,
+   "massimo": 146.2
+  }
+ }
+}

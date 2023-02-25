@@ -1,0 +1,53 @@
+{
+ "azienda": "Compagnia Dei Caraibi",
+ "dati": {
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 4.5,
+   "variazionePercentuale": 0.44,
+   "ultimoValore": 4.54,
+   "minimo": 4.5,
+   "massimo": 4.54
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 4.5,
+   "variazionePercentuale": 0.22,
+   "ultimoValore": 4.55,
+   "minimo": 4.5,
+   "massimo": 4.55
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 4.5,
+   "variazionePercentuale": 0.22,
+   "ultimoValore": 4.56,
+   "minimo": 4.45,
+   "massimo": 4.56
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 4.51,
+   "variazionePercentuale": -0.88,
+   "ultimoValore": 4.52,
+   "minimo": 4.41,
+   "massimo": 4.54
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 4.44,
+   "variazionePercentuale": -0.66,
+   "ultimoValore": 4.49,
+   "minimo": 4.44,
+   "massimo": 4.49
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 4.5,
+   "variazionePercentuale": -0.22,
+   "ultimoValore": 4.48,
+   "minimo": 4.46,
+   "massimo": 4.52
+  }
+ }
+}

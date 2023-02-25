@@ -1,0 +1,115 @@
+{
+ "azienda": "Sostravel.Com",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 1.12,
+   "massimo": 1.15,
+   "minimo": 1.09,
+   "ultimoValore": 1.15,
+   "variazionePercentuale": 3.6,
+   "variazione": 0.029999999999999805
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 1.12,
+   "massimo": 1.15,
+   "minimo": 1.09,
+   "ultimoValore": 1.15,
+   "variazionePercentuale": 3.6,
+   "variazione": 0.029999999999999805
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 1.12,
+   "massimo": 1.15,
+   "minimo": 1.09,
+   "ultimoValore": 1.15,
+   "variazionePercentuale": 3.6,
+   "variazione": 0.029999999999999805
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 1.14,
+   "massimo": 1.17,
+   "minimo": 1.12,
+   "ultimoValore": 1.17,
+   "variazionePercentuale": 1.74,
+   "variazione": 0.030000000000000027
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 1.155,
+   "massimo": 1.18,
+   "minimo": 1.13,
+   "ultimoValore": 1.18,
+   "variazionePercentuale": 1.29,
+   "variazione": 0.02499999999999991
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 1.175,
+   "massimo": 1.19,
+   "minimo": 1.16,
+   "ultimoValore": 1.19,
+   "variazionePercentuale": 3.03,
+   "variazione": 0.014999999999999902
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 1.09,
+   "variazionePercentuale": -2.65,
+   "ultimoValore": 1.1,
+   "minimo": 1.09,
+   "massimo": 1.1
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 1.12,
+   "variazionePercentuale": 1.82,
+   "ultimoValore": 1.12,
+   "minimo": 1.12,
+   "massimo": 1.12
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 1.09,
+   "variazionePercentuale": -2.68,
+   "ultimoValore": 1.09,
+   "minimo": 1.09,
+   "massimo": 1.09
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 1.07,
+   "variazionePercentuale": 0.92,
+   "ultimoValore": 1.1,
+   "minimo": 1.07,
+   "massimo": 1.1
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 1.11,
+   "variazionePercentuale": 1.82,
+   "ultimoValore": 1.12,
+   "minimo": 1.11,
+   "massimo": 1.12
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 1.125,
+   "variazionePercentuale": 0.89,
+   "ultimoValore": 1.13,
+   "minimo": 1.125,
+   "massimo": 1.13
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 1.125,
+   "variazionePercentuale": 0.89,
+   "ultimoValore": 1.13,
+   "minimo": 1.125,
+   "massimo": 1.13
+  }
+ }
+}

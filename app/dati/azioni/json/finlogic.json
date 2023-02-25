@@ -1,0 +1,53 @@
+{
+ "azienda": "Finlogic",
+ "dati": {
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "apertura": 11.75,
+   "variazionePercentuale": 0.43,
+   "ultimoValore": 11.8,
+   "minimo": 11.75,
+   "massimo": 11.8
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "apertura": 11.75,
+   "variazionePercentuale": 0.43,
+   "ultimoValore": 11.8,
+   "minimo": 11.75,
+   "massimo": 11.8
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 11.75,
+   "variazionePercentuale": 0.43,
+   "ultimoValore": 11.8,
+   "minimo": 11.75,
+   "massimo": 11.8
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 11.8,
+   "variazionePercentuale": -0.42,
+   "ultimoValore": 11.75,
+   "minimo": 11.75,
+   "massimo": 11.8
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 11.7,
+   "variazionePercentuale": -0.43,
+   "ultimoValore": 11.7,
+   "minimo": 11.7,
+   "massimo": 11.7
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 11.75,
+   "variazionePercentuale": 0.43,
+   "ultimoValore": 11.75,
+   "minimo": 11.75,
+   "massimo": 11.75
+  }
+ }
+}

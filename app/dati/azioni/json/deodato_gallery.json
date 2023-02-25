@@ -1,0 +1,125 @@
+{
+ "azienda": "Deodato.Gallery",
+ "dati": {
+  "2023-01-31": {
+   "data": "2023-01-31",
+   "apertura": 1.24,
+   "massimo": 1.24,
+   "minimo": 1.1202,
+   "ultimoValore": 1.1202,
+   "variazionePercentuale": 0.1
+  },
+  "2023-02-01": {
+   "data": "2023-02-01",
+   "apertura": 1.13,
+   "massimo": 1.165,
+   "minimo": 1.12,
+   "ultimoValore": 1.15,
+   "variazionePercentuale": -0.02
+  },
+  "2023-02-02": {
+   "data": "2023-02-02",
+   "apertura": 1.165,
+   "massimo": 1.165,
+   "minimo": 1.08,
+   "ultimoValore": 1.1,
+   "variazionePercentuale": 0.06
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 1.06,
+   "massimo": 1.07,
+   "minimo": 1.035,
+   "ultimoValore": 1.035,
+   "variazionePercentuale": 0.02
+  },
+  "2023-02-10": {
+   "data": "2023-02-10",
+   "apertura": 1.03,
+   "massimo": 1.075,
+   "minimo": 1.03,
+   "ultimoValore": 1.05,
+   "variazionePercentuale": -0.02
+  },
+  "2023-02-13": {
+   "data": "2023-02-13",
+   "apertura": 1.045,
+   "massimo": 1.06,
+   "minimo": 1.045,
+   "ultimoValore": 1.055,
+   "variazionePercentuale": -0.01
+  },
+  "2023-02-14": {
+   "data": "2023-02-14",
+   "apertura": 1.03,
+   "massimo": 1.045,
+   "minimo": 1.01,
+   "ultimoValore": 1.01,
+   "variazionePercentuale": 0.02
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 1.045,
+   "variazionePercentuale": 1.89,
+   "ultimoValore": 1.08,
+   "minimo": 1.035,
+   "massimo": 1.11
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 1.06,
+   "massimo": 1.08,
+   "minimo": 1.06,
+   "ultimoValore": 1.075,
+   "variazionePercentuale": -0.01
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 1.075,
+   "massimo": 1.085,
+   "minimo": 1.065,
+   "ultimoValore": 1.065,
+   "variazionePercentuale": 0.01
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 1.08,
+   "massimo": 1.1,
+   "minimo": 1.065,
+   "ultimoValore": 1.065,
+   "variazionePercentuale": 0.01
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 1.08,
+   "variazionePercentuale": -2.29,
+   "ultimoValore": 1.065,
+   "minimo": 1.065,
+   "massimo": 1.1
+  },
+  "2023-02-15": {
+   "data": "2023-02-15",
+   "apertura": 1,
+   "massimo": 1.03,
+   "minimo": 1,
+   "ultimoValore": 1.02,
+   "variazionePercentuale": -0.02
+  },
+  "2023-02-16": {
+   "data": "2023-02-16",
+   "apertura": 1.05,
+   "massimo": 1.07,
+   "minimo": 1.025,
+   "ultimoValore": 1.06,
+   "variazionePercentuale": -0.01
+  },
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "apertura": 1.045,
+   "massimo": 1.11,
+   "minimo": 1.035,
+   "ultimoValore": 1.08,
+   "variazionePercentuale": -0.03
+  }
+ }
+}

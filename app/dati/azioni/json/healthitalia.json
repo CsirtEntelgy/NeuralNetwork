@@ -1,0 +1,182 @@
+{
+ "azienda": "Health Italia",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 1.095,
+   "massimo": 1.1,
+   "minimo": 1.06,
+   "ultimoValore": 1.07,
+   "variazionePercentuale": -1.83,
+   "variazione": -0.02499999999999991
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 1.095,
+   "massimo": 1.1,
+   "minimo": 1.06,
+   "ultimoValore": 1.07,
+   "variazionePercentuale": -1.83,
+   "variazione": -0.02499999999999991
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 1.095,
+   "massimo": 1.1,
+   "minimo": 1.06,
+   "ultimoValore": 1.07,
+   "variazionePercentuale": -1.83,
+   "variazione": -0.02499999999999991
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 1.07,
+   "massimo": 1.095,
+   "minimo": 1.07,
+   "ultimoValore": 1.095,
+   "variazionePercentuale": 2.34,
+   "variazione": 0.02499999999999991
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 1.1,
+   "massimo": 1.11,
+   "minimo": 1.07,
+   "ultimoValore": 1.075,
+   "variazionePercentuale": -1.83,
+   "variazione": -0.025000000000000133
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 1.08,
+   "massimo": 1.11,
+   "minimo": 1.07,
+   "ultimoValore": 1.09,
+   "variazionePercentuale": 1.4,
+   "variazione": 0.010000000000000009
+  },
+  "2023-02-10": {
+   "data": "2023-02-10",
+   "apertura": 1.105,
+   "massimo": 1.14,
+   "minimo": 1.075,
+   "ultimoValore": 1.08,
+   "variazionePercentuale": -0.92,
+   "variazione": -0.02499999999999991
+  },
+  "2023-02-11": {
+   "data": "2023-02-11",
+   "apertura": 1.105,
+   "massimo": 1.14,
+   "minimo": 1.075,
+   "ultimoValore": 1.08,
+   "variazionePercentuale": -0.92,
+   "variazione": -0.02499999999999991
+  },
+  "2023-02-12": {
+   "data": "2023-02-12",
+   "apertura": 1.105,
+   "massimo": 1.14,
+   "minimo": 1.075,
+   "ultimoValore": 1.08,
+   "variazionePercentuale": -0.92,
+   "variazione": -0.02499999999999991
+  },
+  "2023-02-13": {
+   "data": "2023-02-13",
+   "apertura": 1.08,
+   "massimo": 1.115,
+   "minimo": 1.08,
+   "ultimoValore": 1.115,
+   "variazionePercentuale": 3.24,
+   "variazione": 0.03499999999999992
+  },
+  "2023-02-14": {
+   "data": "2023-02-14",
+   "ultimoValore": 1.08,
+   "variazionePercentuale": -3.14,
+   "variazione": null
+  },
+  "2023-02-15": {
+   "data": "2023-02-15",
+   "apertura": 1.1,
+   "massimo": 1.1,
+   "minimo": 1.1,
+   "ultimoValore": 1.1,
+   "variazionePercentuale": 1.85,
+   "variazione": 0
+  },
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "apertura": 1.11,
+   "variazionePercentuale": 0.45,
+   "ultimoValore": 1.115,
+   "minimo": 1.11,
+   "massimo": 1.115
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "apertura": 1.11,
+   "variazionePercentuale": 0.45,
+   "ultimoValore": 1.115,
+   "minimo": 1.11,
+   "massimo": 1.115
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 1.11,
+   "variazionePercentuale": 0.45,
+   "ultimoValore": 1.115,
+   "minimo": 1.11,
+   "massimo": 1.115
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 1.115,
+   "variazionePercentuale": 0.45,
+   "ultimoValore": 1.12,
+   "minimo": 1.115,
+   "massimo": 1.12
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 1.09,
+   "variazionePercentuale": -4.02,
+   "ultimoValore": 1.075,
+   "minimo": 1.075,
+   "massimo": 1.1
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 1.07,
+   "variazionePercentuale": -2.79,
+   "ultimoValore": 1.045,
+   "minimo": 1.02,
+   "massimo": 1.07
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 1.02,
+   "variazionePercentuale": -2.87,
+   "ultimoValore": 1.015,
+   "minimo": 1.015,
+   "massimo": 1.04
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 1.015,
+   "variazionePercentuale": -1.48,
+   "ultimoValore": 1,
+   "minimo": 1,
+   "massimo": 1.015
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 1.015,
+   "variazionePercentuale": -1.48,
+   "ultimoValore": 1,
+   "minimo": 1,
+   "massimo": 1.015
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "azienda": "Warr Deodato.Gallery 2023-2028",
+ "dati": {
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 0.3141,
+   "variazionePercentuale": -7.45,
+   "ultimoValore": 0.3054,
+   "minimo": 0.26,
+   "massimo": 0.3508
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 0.3055,
+   "variazionePercentuale": -0.46,
+   "ultimoValore": 0.304,
+   "minimo": 0.304,
+   "massimo": 0.3055
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 0.303,
+   "variazionePercentuale": -12.8,
+   "ultimoValore": 0.2651,
+   "minimo": 0.2651,
+   "massimo": 0.303
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 0.29,
+   "variazionePercentuale": 9.39,
+   "ultimoValore": 0.29,
+   "minimo": 0.29,
+   "massimo": 0.29
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 0.29,
+   "variazionePercentuale": 9.39,
+   "ultimoValore": 0.29,
+   "minimo": 0.29,
+   "massimo": 0.29
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "azienda": "Eurogroup Laminations",
+ "dati": {
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 5.5,
+   "variazionePercentuale": -1.13,
+   "ultimoValore": 5.438,
+   "minimo": 5.411,
+   "massimo": 5.5
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "variazionePercentuale": -1.07,
+   "ultimoValore": 5.38,
+   "minimo": 5.35,
+   "massimo": 5.468
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 5.42,
+   "variazionePercentuale": -2.23,
+   "ultimoValore": 5.26,
+   "minimo": 5.26,
+   "massimo": 5.42
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 5.35,
+   "variazionePercentuale": -1.33,
+   "ultimoValore": 5.19,
+   "minimo": 5.15,
+   "massimo": 5.35
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "variazionePercentuale": 0.39,
+   "ultimoValore": 5.21,
+   "minimo": 5.2,
+   "massimo": 5.26
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "variazionePercentuale": 0.39,
+   "ultimoValore": 5.21,
+   "minimo": 5.2,
+   "massimo": 5.26
+  }
+ }
+}

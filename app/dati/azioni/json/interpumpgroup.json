@@ -1,0 +1,124 @@
+{
+ "azienda": "Interpump Group",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 50.95,
+   "massimo": 52.15,
+   "minimo": 50.65,
+   "ultimoValore": 52.1,
+   "variazionePercentuale": 1.17,
+   "variazione": 1.1499999999999986
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 50.95,
+   "massimo": 52.15,
+   "minimo": 50.65,
+   "ultimoValore": 52.1,
+   "variazionePercentuale": 1.17,
+   "variazione": 1.1499999999999986
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 50.95,
+   "massimo": 52.15,
+   "minimo": 50.65,
+   "ultimoValore": 52.1,
+   "variazionePercentuale": 1.17,
+   "variazione": 1.1499999999999986
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 51.5,
+   "massimo": 51.75,
+   "minimo": 50.35,
+   "ultimoValore": 51.4,
+   "variazionePercentuale": -1.34,
+   "variazione": -0.10000000000000142
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 51.3,
+   "massimo": 51.5,
+   "minimo": 50.4,
+   "ultimoValore": 50.65,
+   "variazionePercentuale": -1.46,
+   "variazione": -0.6499999999999986
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 51,
+   "massimo": 51.55,
+   "minimo": 50.75,
+   "ultimoValore": 51,
+   "variazionePercentuale": 0.69,
+   "variazione": 0
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 51.6,
+   "massimo": 51.95,
+   "minimo": 50.95,
+   "ultimoValore": 51.1,
+   "variazionePercentuale": 0.2,
+   "variazione": -0.5
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 51.4,
+   "variazionePercentuale": 0.48,
+   "ultimoValore": 51.85,
+   "minimo": 50.5,
+   "massimo": 52.05
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 52,
+   "variazionePercentuale": -0.67,
+   "ultimoValore": 51.5,
+   "minimo": 51.25,
+   "massimo": 52
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 51.2,
+   "variazionePercentuale": -0.97,
+   "ultimoValore": 51,
+   "minimo": 50.7,
+   "massimo": 51.7
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 50.6,
+   "variazionePercentuale": 1.67,
+   "ultimoValore": 51.85,
+   "minimo": 50.3,
+   "massimo": 52.45
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 52,
+   "variazionePercentuale": 2.12,
+   "ultimoValore": 52.95,
+   "minimo": 52,
+   "massimo": 53.3
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 53.15,
+   "variazionePercentuale": -3.59,
+   "ultimoValore": 51.05,
+   "minimo": 51,
+   "massimo": 53.35
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 53.15,
+   "variazionePercentuale": -3.59,
+   "ultimoValore": 51.05,
+   "minimo": 51,
+   "massimo": 53.35
+  }
+ }
+}

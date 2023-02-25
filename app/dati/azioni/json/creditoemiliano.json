@@ -1,0 +1,123 @@
+{
+ "azienda": "Credito Emiliano",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 7.76,
+   "massimo": 7.93,
+   "minimo": 7.75,
+   "ultimoValore": 7.9,
+   "variazionePercentuale": 1.02,
+   "variazione": 0.14000000000000057
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 7.76,
+   "massimo": 7.93,
+   "minimo": 7.75,
+   "ultimoValore": 7.9,
+   "variazionePercentuale": 1.02,
+   "variazione": 0.14000000000000057
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 7.76,
+   "massimo": 7.93,
+   "minimo": 7.75,
+   "ultimoValore": 7.9,
+   "variazionePercentuale": 1.02,
+   "variazione": 0.14000000000000057
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 7.95,
+   "massimo": 8.02,
+   "minimo": 7.86,
+   "ultimoValore": 7.97,
+   "variazionePercentuale": 0.89,
+   "variazione": 0.019999999999999574
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 7.8,
+   "massimo": 8.1,
+   "minimo": 7.78,
+   "ultimoValore": 7.98,
+   "variazionePercentuale": 0.13,
+   "variazione": 0.1800000000000006
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 7.91,
+   "massimo": 7.98,
+   "minimo": 7.84,
+   "ultimoValore": 7.89,
+   "variazionePercentuale": -1.13,
+   "variazione": -0.020000000000000462
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "massimo": 8.01,
+   "minimo": 7.85,
+   "ultimoValore": 7.95,
+   "variazionePercentuale": 0.76,
+   "variazione": null
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 8.12,
+   "variazionePercentuale": 2.36,
+   "ultimoValore": 8.23,
+   "minimo": 8.05,
+   "massimo": 8.29
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 8.27,
+   "variazionePercentuale": -0.85,
+   "ultimoValore": 8.16,
+   "minimo": 8.14,
+   "massimo": 8.31
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 8.15,
+   "variazionePercentuale": -0.73,
+   "ultimoValore": 8.1,
+   "minimo": 8.08,
+   "massimo": 8.23
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 8.11,
+   "variazionePercentuale": -2.22,
+   "ultimoValore": 7.92,
+   "minimo": 7.85,
+   "massimo": 8.11
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 7.85,
+   "variazionePercentuale": 1.26,
+   "ultimoValore": 8.02,
+   "minimo": 7.85,
+   "massimo": 8.02
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 8.04,
+   "variazionePercentuale": 0.37,
+   "ultimoValore": 8.05,
+   "minimo": 7.99,
+   "massimo": 8.08
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 8.04,
+   "variazionePercentuale": 0.37,
+   "ultimoValore": 8.05,
+   "minimo": 7.99,
+   "massimo": 8.08
+  }
+ }
+}

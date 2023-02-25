@@ -1,0 +1,21 @@
+{
+ "azienda": "Vivendi",
+ "dati": {
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 9.836,
+   "variazionePercentuale": -0.08,
+   "ultimoValore": 9.836,
+   "minimo": 9.836,
+   "massimo": 9.836
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 9.85,
+   "variazionePercentuale": 0.14,
+   "ultimoValore": 9.85,
+   "minimo": 9.85,
+   "massimo": 9.85
+  }
+ }
+}

@@ -1,0 +1,170 @@
+{
+ "azienda": "Medica",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 22.1,
+   "massimo": 22.25,
+   "minimo": 21.3,
+   "ultimoValore": 22.25,
+   "variazionePercentuale": 0.91,
+   "variazione": 0.14999999999999858
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 22.1,
+   "massimo": 22.25,
+   "minimo": 21.3,
+   "ultimoValore": 22.25,
+   "variazionePercentuale": 0.91,
+   "variazione": 0.14999999999999858
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 22.1,
+   "massimo": 22.25,
+   "minimo": 21.3,
+   "ultimoValore": 22.25,
+   "variazionePercentuale": 0.91,
+   "variazione": 0.14999999999999858
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 22.65,
+   "massimo": 23.45,
+   "minimo": 22.65,
+   "ultimoValore": 23.3,
+   "variazionePercentuale": 4.72,
+   "variazione": 0.6500000000000021
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 23,
+   "massimo": 23.75,
+   "minimo": 22.6,
+   "ultimoValore": 23.75,
+   "variazionePercentuale": 1.93,
+   "variazione": 0.75
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 23.55,
+   "massimo": 24.15,
+   "minimo": 23.3,
+   "ultimoValore": 24,
+   "variazionePercentuale": 1.05,
+   "variazione": 0.4499999999999993
+  },
+  "2023-02-10": {
+   "data": "2023-02-10",
+   "apertura": 23.6,
+   "massimo": 23.6,
+   "minimo": 23.6,
+   "ultimoValore": 23.6,
+   "variazionePercentuale": -1.67,
+   "variazione": 0
+  },
+  "2023-02-11": {
+   "data": "2023-02-11",
+   "apertura": 23.6,
+   "massimo": 23.6,
+   "minimo": 23.6,
+   "ultimoValore": 23.6,
+   "variazionePercentuale": -1.67,
+   "variazione": 0
+  },
+  "2023-02-12": {
+   "data": "2023-02-12",
+   "apertura": 23.6,
+   "massimo": 23.6,
+   "minimo": 23.6,
+   "ultimoValore": 23.6,
+   "variazionePercentuale": -1.67,
+   "variazione": 0
+  },
+  "2023-02-13": {
+   "data": "2023-02-13",
+   "apertura": 23.5,
+   "massimo": 24.05,
+   "minimo": 23.5,
+   "ultimoValore": 24.3,
+   "variazionePercentuale": 2.97,
+   "variazione": 0.8000000000000007
+  },
+  "2023-02-14": {
+   "data": "2023-02-14",
+   "apertura": 24.3,
+   "massimo": 24.3,
+   "minimo": 24.3,
+   "ultimoValore": 24,
+   "variazionePercentuale": -1.23,
+   "variazione": -0.3000000000000007
+  },
+  "2023-02-15": {
+   "data": "2023-02-15",
+   "apertura": 23.6,
+   "massimo": 24.2,
+   "minimo": 23.6,
+   "ultimoValore": 23.65,
+   "variazionePercentuale": -1.46,
+   "variazione": 0.04999999999999716
+  },
+  "2023-02-16": {
+   "data": "2023-02-16",
+   "apertura": 23.5,
+   "massimo": 23.6,
+   "minimo": 23.5,
+   "ultimoValore": 23.5,
+   "variazionePercentuale": -0.63,
+   "variazione": 0
+  },
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "apertura": 23.5,
+   "variazionePercentuale": 1.7,
+   "ultimoValore": 23.9,
+   "minimo": 23.5,
+   "massimo": 23.9
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "apertura": 23.5,
+   "variazionePercentuale": 1.7,
+   "ultimoValore": 23.9,
+   "minimo": 23.5,
+   "massimo": 23.9
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 23.5,
+   "variazionePercentuale": 1.7,
+   "ultimoValore": 23.9,
+   "minimo": 23.5,
+   "massimo": 23.9
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 23.55,
+   "variazionePercentuale": -1.67,
+   "ultimoValore": 23.5,
+   "minimo": 23.5,
+   "massimo": 23.55
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 23.85,
+   "variazionePercentuale": 1.49,
+   "ultimoValore": 23.85,
+   "minimo": 23.85,
+   "massimo": 23.85
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 23.85,
+   "variazionePercentuale": 1.49,
+   "ultimoValore": 23.85,
+   "minimo": 23.85,
+   "massimo": 23.85
+  }
+ }
+}

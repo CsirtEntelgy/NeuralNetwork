@@ -1,0 +1,164 @@
+{
+ "azienda": "Edison Rsp",
+ "dati": {
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 1.58,
+   "massimo": 1.58,
+   "minimo": 1.555,
+   "ultimoValore": 1.56,
+   "variazionePercentuale": -0.32,
+   "variazione": -0.020000000000000018
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 1.58,
+   "massimo": 1.58,
+   "minimo": 1.555,
+   "ultimoValore": 1.57,
+   "variazionePercentuale": 0.64,
+   "variazione": -0.010000000000000009
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 1.56,
+   "massimo": 1.57,
+   "minimo": 1.555,
+   "ultimoValore": 1.56,
+   "variazionePercentuale": -0.64,
+   "variazione": 0
+  },
+  "2023-02-10": {
+   "data": "2023-02-10",
+   "apertura": 1.575,
+   "massimo": 1.575,
+   "minimo": 1.535,
+   "ultimoValore": 1.54,
+   "variazionePercentuale": -1.28,
+   "variazione": -0.03499999999999992
+  },
+  "2023-02-11": {
+   "data": "2023-02-11",
+   "apertura": 1.575,
+   "massimo": 1.575,
+   "minimo": 1.535,
+   "ultimoValore": 1.54,
+   "variazionePercentuale": -1.28,
+   "variazione": -0.03499999999999992
+  },
+  "2023-02-12": {
+   "data": "2023-02-12",
+   "apertura": 1.575,
+   "massimo": 1.575,
+   "minimo": 1.535,
+   "ultimoValore": 1.54,
+   "variazionePercentuale": -1.28,
+   "variazione": -0.03499999999999992
+  },
+  "2023-02-13": {
+   "data": "2023-02-13",
+   "apertura": 1.55,
+   "massimo": 1.55,
+   "minimo": 1.515,
+   "ultimoValore": 1.52,
+   "variazionePercentuale": -1.3,
+   "variazione": -0.030000000000000027
+  },
+  "2023-02-14": {
+   "data": "2023-02-14",
+   "apertura": 1.525,
+   "massimo": 1.53,
+   "minimo": 1.525,
+   "ultimoValore": 1.54,
+   "variazionePercentuale": 1.32,
+   "variazione": 0.015000000000000124
+  },
+  "2023-02-15": {
+   "data": "2023-02-15",
+   "apertura": 1.54,
+   "massimo": 1.57,
+   "minimo": 1.54,
+   "ultimoValore": 1.55,
+   "variazionePercentuale": 0.65,
+   "variazione": 0.010000000000000009
+  },
+  "2023-02-16": {
+   "data": "2023-02-16",
+   "apertura": 1.535,
+   "massimo": 1.535,
+   "minimo": 1.475,
+   "ultimoValore": 1.505,
+   "variazionePercentuale": -2.9,
+   "variazione": -0.030000000000000027
+  },
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "variazionePercentuale": -1.66,
+   "ultimoValore": 1.48,
+   "minimo": 1.465,
+   "massimo": 1.51
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "variazionePercentuale": -1.66,
+   "ultimoValore": 1.48,
+   "minimo": 1.465,
+   "massimo": 1.51
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "variazionePercentuale": -1.66,
+   "ultimoValore": 1.48,
+   "minimo": 1.465,
+   "massimo": 1.51
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 1.48,
+   "variazionePercentuale": 0.68,
+   "ultimoValore": 1.49,
+   "minimo": 1.475,
+   "massimo": 1.49
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 1.485,
+   "variazionePercentuale": -2.02,
+   "ultimoValore": 1.455,
+   "minimo": 1.455,
+   "massimo": 1.49
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 1.47,
+   "variazionePercentuale": -1.37,
+   "ultimoValore": 1.435,
+   "minimo": 1.415,
+   "massimo": 1.47
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 1.43,
+   "variazionePercentuale": 1.39,
+   "ultimoValore": 1.455,
+   "minimo": 1.43,
+   "massimo": 1.47
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 1.46,
+   "variazionePercentuale": -1.03,
+   "ultimoValore": 1.44,
+   "minimo": 1.43,
+   "massimo": 1.46
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 1.46,
+   "variazionePercentuale": -1.03,
+   "ultimoValore": 1.44,
+   "minimo": 1.43,
+   "massimo": 1.46
+  }
+ }
+}

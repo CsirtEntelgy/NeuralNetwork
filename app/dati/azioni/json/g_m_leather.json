@@ -1,0 +1,37 @@
+{
+ "azienda": "G.M. Leather",
+ "dati": {
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 1.7,
+   "variazionePercentuale": -2.86,
+   "ultimoValore": 1.695,
+   "minimo": 1.695,
+   "massimo": 1.7
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 1.695,
+   "variazionePercentuale": 0.89,
+   "ultimoValore": 1.71,
+   "minimo": 1.695,
+   "massimo": 1.715
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 1.75,
+   "variazionePercentuale": 2.34,
+   "ultimoValore": 1.75,
+   "minimo": 1.75,
+   "massimo": 1.77
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 1.75,
+   "variazionePercentuale": 2.34,
+   "ultimoValore": 1.75,
+   "minimo": 1.75,
+   "massimo": 1.77
+  }
+ }
+}

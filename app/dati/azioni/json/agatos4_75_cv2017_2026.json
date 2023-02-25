@@ -1,0 +1,45 @@
+{
+ "azienda": "Agatos 4,75% Cv 2017-2026",
+ "dati": {
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 83.01,
+   "variazionePercentuale": -4.59,
+   "ultimoValore": 83.01,
+   "minimo": 83.01,
+   "massimo": 83.01
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 83.12,
+   "variazionePercentuale": 0.12,
+   "ultimoValore": 83.11,
+   "minimo": 83.11,
+   "massimo": 83.12
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 85.16,
+   "variazionePercentuale": 3.18,
+   "ultimoValore": 85.75,
+   "minimo": 85.16,
+   "massimo": 85.75
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 85.74,
+   "variazionePercentuale": 0.29,
+   "ultimoValore": 86,
+   "minimo": 85.74,
+   "massimo": 86
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 85.74,
+   "variazionePercentuale": 0.29,
+   "ultimoValore": 86,
+   "minimo": 85.74,
+   "massimo": 86
+  }
+ }
+}

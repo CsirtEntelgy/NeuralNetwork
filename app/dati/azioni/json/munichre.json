@@ -1,0 +1,53 @@
+{
+ "azienda": "Munich Re",
+ "dati": {
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 330.7,
+   "variazionePercentuale": 1.35,
+   "ultimoValore": 330.7,
+   "minimo": 330.7,
+   "massimo": 330.7
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 327.8,
+   "variazionePercentuale": -0.88,
+   "ultimoValore": 327.8,
+   "minimo": 327.8,
+   "massimo": 327.8
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 323.7,
+   "variazionePercentuale": -1.86,
+   "ultimoValore": 321.7,
+   "minimo": 321.7,
+   "massimo": 323.7
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 311.6,
+   "variazionePercentuale": -1.03,
+   "ultimoValore": 318.4,
+   "minimo": 307.9,
+   "massimo": 318.7
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 319.3,
+   "variazionePercentuale": 1.19,
+   "ultimoValore": 322.2,
+   "minimo": 319.3,
+   "massimo": 322.2
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 319.3,
+   "variazionePercentuale": 1.19,
+   "ultimoValore": 322.2,
+   "minimo": 319.3,
+   "massimo": 322.2
+  }
+ }
+}

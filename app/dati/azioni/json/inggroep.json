@@ -1,0 +1,115 @@
+{
+ "azienda": "Ing Groep",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 12.732,
+   "massimo": 12.732,
+   "minimo": 12.368,
+   "ultimoValore": 12.54,
+   "variazionePercentuale": -1.89,
+   "variazione": -0.19200000000000017
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 12.732,
+   "massimo": 12.732,
+   "minimo": 12.368,
+   "ultimoValore": 12.54,
+   "variazionePercentuale": -1.89,
+   "variazione": -0.19200000000000017
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 12.732,
+   "massimo": 12.732,
+   "minimo": 12.368,
+   "ultimoValore": 12.54,
+   "variazionePercentuale": -1.89,
+   "variazione": -0.19200000000000017
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 12.33,
+   "massimo": 12.378,
+   "minimo": 12.322,
+   "ultimoValore": 12.378,
+   "variazionePercentuale": -1.29,
+   "variazione": 0.04800000000000004
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 12.536,
+   "massimo": 12.73,
+   "minimo": 12.536,
+   "ultimoValore": 12.73,
+   "variazionePercentuale": 2.84,
+   "variazione": 0.19400000000000084
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 12.9,
+   "massimo": 13.31,
+   "minimo": 12.9,
+   "ultimoValore": 13.156,
+   "variazionePercentuale": 3.35,
+   "variazione": 0.2560000000000002
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 13.144,
+   "variazionePercentuale": -1.25,
+   "ultimoValore": 13.116,
+   "minimo": 13.064,
+   "massimo": 13.15
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 13.246,
+   "variazionePercentuale": 0.78,
+   "ultimoValore": 13.218,
+   "minimo": 13.218,
+   "massimo": 13.258
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 13.162,
+   "variazionePercentuale": -1.26,
+   "ultimoValore": 13.052,
+   "minimo": 13,
+   "massimo": 13.162
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 12.928,
+   "variazionePercentuale": -2.39,
+   "ultimoValore": 12.74,
+   "minimo": 12.74,
+   "massimo": 12.928
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 12.876,
+   "variazionePercentuale": 2.12,
+   "ultimoValore": 13.01,
+   "minimo": 12.876,
+   "massimo": 13.01
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 13.092,
+   "variazionePercentuale": -0.03,
+   "ultimoValore": 13.006,
+   "minimo": 13.006,
+   "massimo": 13.092
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 13.092,
+   "variazionePercentuale": -0.03,
+   "ultimoValore": 13.006,
+   "minimo": 13.006,
+   "massimo": 13.092
+  }
+ }
+}

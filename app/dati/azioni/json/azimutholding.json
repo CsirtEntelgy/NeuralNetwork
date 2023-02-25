@@ -1,0 +1,124 @@
+{
+ "azienda": "Azimut Holding",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 23.34,
+   "massimo": 23.6,
+   "minimo": 23.28,
+   "ultimoValore": 23.6,
+   "variazionePercentuale": 0.43,
+   "variazione": 0.26000000000000156
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 23.34,
+   "massimo": 23.6,
+   "minimo": 23.28,
+   "ultimoValore": 23.6,
+   "variazionePercentuale": 0.43,
+   "variazione": 0.26000000000000156
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 23.34,
+   "massimo": 23.6,
+   "minimo": 23.28,
+   "ultimoValore": 23.6,
+   "variazionePercentuale": 0.43,
+   "variazione": 0.26000000000000156
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 23.43,
+   "massimo": 23.65,
+   "minimo": 23.29,
+   "ultimoValore": 23.65,
+   "variazionePercentuale": 0.21,
+   "variazione": 0.21999999999999886
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 23.53,
+   "massimo": 23.65,
+   "minimo": 23.47,
+   "ultimoValore": 23.64,
+   "variazionePercentuale": -0.04,
+   "variazione": 0.10999999999999943
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 23.69,
+   "massimo": 23.8,
+   "minimo": 23.58,
+   "ultimoValore": 23.59,
+   "variazionePercentuale": -0.21,
+   "variazione": -0.10000000000000142
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 23.7,
+   "massimo": 23.84,
+   "minimo": 23.52,
+   "ultimoValore": 23.52,
+   "variazionePercentuale": -0.3,
+   "variazione": -0.17999999999999972
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 22.51,
+   "variazionePercentuale": 0.62,
+   "ultimoValore": 22.78,
+   "minimo": 22.36,
+   "massimo": 22.82
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 22.81,
+   "variazionePercentuale": -0.79,
+   "ultimoValore": 22.6,
+   "minimo": 22.57,
+   "massimo": 22.94
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 22.45,
+   "variazionePercentuale": -0.35,
+   "ultimoValore": 22.52,
+   "minimo": 22.35,
+   "massimo": 22.69
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 22.42,
+   "variazionePercentuale": -1.95,
+   "ultimoValore": 22.08,
+   "minimo": 21.91,
+   "massimo": 22.48
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 22.08,
+   "variazionePercentuale": 1.86,
+   "ultimoValore": 22.49,
+   "minimo": 22.08,
+   "massimo": 22.55
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 22.48,
+   "variazionePercentuale": -1.82,
+   "ultimoValore": 22.08,
+   "minimo": 22.01,
+   "massimo": 22.64
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 22.48,
+   "variazionePercentuale": -1.82,
+   "ultimoValore": 22.08,
+   "minimo": 22.01,
+   "massimo": 22.64
+  }
+ }
+}

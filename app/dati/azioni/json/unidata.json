@@ -1,0 +1,160 @@
+{
+ "azienda": "Unidata",
+ "dati": {
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 49.6,
+   "massimo": 49.8,
+   "minimo": 48.3,
+   "ultimoValore": 48.7,
+   "variazionePercentuale": -0.2,
+   "variazione": -0.8999999999999986
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 49.5,
+   "massimo": 49.5,
+   "minimo": 48.8,
+   "ultimoValore": 48.8,
+   "variazionePercentuale": 0.21,
+   "variazione": -0.7000000000000028
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 48.8,
+   "massimo": 51.8,
+   "minimo": 48.8,
+   "ultimoValore": 49,
+   "variazionePercentuale": 0.41,
+   "variazione": 0.20000000000000284
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 49.1,
+   "massimo": 49.1,
+   "minimo": 49,
+   "ultimoValore": 49.1,
+   "variazionePercentuale": 0.2,
+   "variazione": 0
+  },
+  "2023-02-10": {
+   "data": "2023-02-10",
+   "apertura": 49.2,
+   "massimo": 49.2,
+   "minimo": 49.2,
+   "ultimoValore": 49.2,
+   "variazionePercentuale": 0.2,
+   "variazione": 0
+  },
+  "2023-02-11": {
+   "data": "2023-02-11",
+   "apertura": 49.2,
+   "massimo": 49.2,
+   "minimo": 49.2,
+   "ultimoValore": 49.2,
+   "variazionePercentuale": 0.2,
+   "variazione": 0
+  },
+  "2023-02-12": {
+   "data": "2023-02-12",
+   "apertura": 49.2,
+   "massimo": 49.2,
+   "minimo": 49.2,
+   "ultimoValore": 49.2,
+   "variazionePercentuale": 0.2,
+   "variazione": 0
+  },
+  "2023-02-13": {
+   "data": "2023-02-13",
+   "apertura": 49.5,
+   "massimo": 50,
+   "minimo": 49.5,
+   "ultimoValore": 50,
+   "variazionePercentuale": 1.63,
+   "variazione": 0.5
+  },
+  "2023-02-14": {
+   "data": "2023-02-14",
+   "apertura": 51.2,
+   "massimo": 52,
+   "minimo": 50,
+   "ultimoValore": 49.8,
+   "variazionePercentuale": -0.4,
+   "variazione": -1.4000000000000057
+  },
+  "2023-02-15": {
+   "data": "2023-02-15",
+   "apertura": 50.2,
+   "massimo": 50.2,
+   "minimo": 45.7,
+   "ultimoValore": 48,
+   "variazionePercentuale": -3.61,
+   "variazione": -2.200000000000003
+  },
+  "2023-02-16": {
+   "data": "2023-02-16",
+   "apertura": 48.5,
+   "massimo": 48.9,
+   "minimo": 47.9,
+   "ultimoValore": 48.1,
+   "variazionePercentuale": 0.21,
+   "variazione": -0.3999999999999986
+  },
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "apertura": 48,
+   "variazionePercentuale": 0.62,
+   "ultimoValore": 48.4,
+   "minimo": 48,
+   "massimo": 48.4
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "apertura": 48,
+   "variazionePercentuale": 0.62,
+   "ultimoValore": 48.4,
+   "minimo": 48,
+   "massimo": 48.4
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 48,
+   "variazionePercentuale": 0.62,
+   "ultimoValore": 48.4,
+   "minimo": 48,
+   "massimo": 48.4
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 48.5,
+   "variazionePercentuale": -1.86,
+   "ultimoValore": 47.5,
+   "minimo": 47.5,
+   "massimo": 48.9
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 43.3,
+   "variazionePercentuale": -10.95,
+   "ultimoValore": 42.3,
+   "minimo": 42.3,
+   "massimo": 43.3
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 42.9,
+   "variazionePercentuale": 1.18,
+   "ultimoValore": 42.8,
+   "minimo": 42.6,
+   "massimo": 43.7
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 43.3,
+   "variazionePercentuale": -1.17,
+   "ultimoValore": 42.3,
+   "minimo": 42.3,
+   "massimo": 43.3
+  }
+ }
+}

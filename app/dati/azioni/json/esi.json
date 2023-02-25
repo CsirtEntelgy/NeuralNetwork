@@ -1,0 +1,82 @@
+{
+ "azienda": "Esi",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 2.47,
+   "massimo": 2.57,
+   "minimo": 2.47,
+   "ultimoValore": 2.5,
+   "variazionePercentuale": 2.04,
+   "variazione": 0.029999999999999805
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 2.47,
+   "massimo": 2.57,
+   "minimo": 2.47,
+   "ultimoValore": 2.5,
+   "variazionePercentuale": 2.04,
+   "variazione": 0.029999999999999805
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 2.47,
+   "massimo": 2.57,
+   "minimo": 2.47,
+   "ultimoValore": 2.5,
+   "variazionePercentuale": 2.04,
+   "variazione": 0.029999999999999805
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 2.51,
+   "massimo": 2.53,
+   "minimo": 2.51,
+   "ultimoValore": 2.52,
+   "variazionePercentuale": 0.8,
+   "variazione": 0.010000000000000231
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 2.53,
+   "massimo": 2.53,
+   "minimo": 2.51,
+   "ultimoValore": 2.53,
+   "variazionePercentuale": 0.4,
+   "variazione": 0
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 2.52,
+   "variazionePercentuale": -0.39,
+   "ultimoValore": 2.52,
+   "minimo": 2.52,
+   "massimo": 2.56
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 2.52,
+   "variazionePercentuale": -0.4,
+   "ultimoValore": 2.51,
+   "minimo": 2.51,
+   "massimo": 2.53
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 2.53,
+   "variazionePercentuale": -0.4,
+   "ultimoValore": 2.5,
+   "minimo": 2.5,
+   "massimo": 2.53
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 2.49,
+   "variazionePercentuale": -0.4,
+   "ultimoValore": 2.49,
+   "minimo": 2.49,
+   "massimo": 2.49
+  }
+ }
+}

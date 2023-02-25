@@ -1,0 +1,58 @@
+{
+ "azienda": "Igd - Siiq",
+ "dati": {
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 2.78,
+   "variazionePercentuale": 1.26,
+   "ultimoValore": 2.805,
+   "minimo": 2.735,
+   "massimo": 2.81
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "variazionePercentuale": 0.36,
+   "ultimoValore": 2.815,
+   "minimo": 2.805,
+   "massimo": 2.85
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 2.835,
+   "variazionePercentuale": -1.24,
+   "ultimoValore": 2.78,
+   "minimo": 2.76,
+   "massimo": 2.835
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 2.78,
+   "variazionePercentuale": -0.72,
+   "ultimoValore": 2.76,
+   "minimo": 2.75,
+   "massimo": 2.78
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 2.785,
+   "variazionePercentuale": 4.17,
+   "ultimoValore": 2.875,
+   "minimo": 2.745,
+   "massimo": 2.88
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "variazionePercentuale": -0.35,
+   "ultimoValore": 2.865,
+   "minimo": 2.865,
+   "massimo": 2.98
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "variazionePercentuale": -0.35,
+   "ultimoValore": 2.865,
+   "minimo": 2.865,
+   "massimo": 2.98
+  }
+ }
+}

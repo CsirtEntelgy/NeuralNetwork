@@ -1,0 +1,63 @@
+{
+ "azienda": "High Quality Food",
+ "dati": {
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "variazionePercentuale": -2.48,
+   "ultimoValore": 1.18,
+   "minimo": 1.15,
+   "massimo": 1.18
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "variazionePercentuale": -2.48,
+   "ultimoValore": 1.18,
+   "minimo": 1.15,
+   "massimo": 1.18
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "variazionePercentuale": -2.48,
+   "ultimoValore": 1.18,
+   "minimo": 1.15,
+   "massimo": 1.18
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "variazionePercentuale": -2.54,
+   "ultimoValore": 1.15,
+   "minimo": 1.15,
+   "massimo": 1.18
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "variazionePercentuale": -3.91,
+   "ultimoValore": 1.105,
+   "minimo": 1.105,
+   "massimo": 1.105
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "variazionePercentuale": -4.07,
+   "ultimoValore": 1.06,
+   "minimo": 1.05,
+   "massimo": 1.11
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 1.08,
+   "variazionePercentuale": 1.89,
+   "ultimoValore": 1.08,
+   "minimo": 1.08,
+   "massimo": 1.08
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 1.08,
+   "variazionePercentuale": 1.89,
+   "ultimoValore": 1.08,
+   "minimo": 1.08,
+   "massimo": 1.08
+  }
+ }
+}

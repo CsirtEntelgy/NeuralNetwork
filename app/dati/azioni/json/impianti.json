@@ -1,0 +1,37 @@
+{
+ "azienda": "Impianti",
+ "dati": {
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "apertura": 1.23,
+   "variazionePercentuale": -4.76,
+   "ultimoValore": 1.2,
+   "minimo": 1.2,
+   "massimo": 1.23
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "apertura": 1.23,
+   "variazionePercentuale": -4.76,
+   "ultimoValore": 1.2,
+   "minimo": 1.2,
+   "massimo": 1.23
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 1.23,
+   "variazionePercentuale": -4.76,
+   "ultimoValore": 1.2,
+   "minimo": 1.2,
+   "massimo": 1.23
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 1.22,
+   "variazionePercentuale": -0.42,
+   "ultimoValore": 1.195,
+   "minimo": 1.195,
+   "massimo": 1.22
+  }
+ }
+}

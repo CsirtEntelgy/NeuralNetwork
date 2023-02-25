@@ -1,0 +1,21 @@
+{
+ "azienda": "Warr Cyberoo 2019-2023",
+ "dati": {
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 2.824,
+   "variazionePercentuale": -0.35,
+   "ultimoValore": 2.9495,
+   "minimo": 2.82,
+   "massimo": 2.9495
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 3.2,
+   "variazionePercentuale": 8.49,
+   "ultimoValore": 3.2,
+   "minimo": 3.2,
+   "massimo": 3.2
+  }
+ }
+}

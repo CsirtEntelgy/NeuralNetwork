@@ -1,0 +1,37 @@
+{
+ "azienda": "Lyft",
+ "dati": {
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 10.46,
+   "variazionePercentuale": -2.65,
+   "ultimoValore": 10.3,
+   "minimo": 10.3,
+   "massimo": 10.46
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 9.95,
+   "variazionePercentuale": -3.4,
+   "ultimoValore": 9.95,
+   "minimo": 9.95,
+   "massimo": 9.95
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 9.944,
+   "variazionePercentuale": -0.5,
+   "ultimoValore": 9.9,
+   "minimo": 9.9,
+   "massimo": 10.346
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 9.944,
+   "variazionePercentuale": -0.5,
+   "ultimoValore": 9.9,
+   "minimo": 9.9,
+   "massimo": 10.346
+  }
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "azienda": "Repsol",
+ "dati": {
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 15.04,
+   "variazionePercentuale": -2.67,
+   "ultimoValore": 14.95,
+   "minimo": 14.95,
+   "massimo": 15.04
+  }
+ }
+}

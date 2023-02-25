@@ -1,0 +1,124 @@
+{
+ "azienda": "Equita Group",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 3.84,
+   "massimo": 3.84,
+   "minimo": 3.75,
+   "ultimoValore": 3.8,
+   "variazionePercentuale": -0.52,
+   "variazione": -0.040000000000000036
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 3.84,
+   "massimo": 3.84,
+   "minimo": 3.75,
+   "ultimoValore": 3.8,
+   "variazionePercentuale": -0.52,
+   "variazione": -0.040000000000000036
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 3.84,
+   "massimo": 3.84,
+   "minimo": 3.75,
+   "ultimoValore": 3.8,
+   "variazionePercentuale": -0.52,
+   "variazione": -0.040000000000000036
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 3.82,
+   "massimo": 3.94,
+   "minimo": 3.75,
+   "ultimoValore": 3.78,
+   "variazionePercentuale": -0.53,
+   "variazione": -0.040000000000000036
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 3.82,
+   "massimo": 3.9,
+   "minimo": 3.82,
+   "ultimoValore": 3.9,
+   "variazionePercentuale": 3.18,
+   "variazione": 0.08000000000000007
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 3.91,
+   "massimo": 3.91,
+   "minimo": 3.84,
+   "ultimoValore": 3.85,
+   "variazionePercentuale": -1.28,
+   "variazione": -0.06000000000000005
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 3.87,
+   "massimo": 3.9,
+   "minimo": 3.83,
+   "ultimoValore": 3.9,
+   "variazionePercentuale": 1.3,
+   "variazione": 0.029999999999999805
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 3.88,
+   "variazionePercentuale": 1.8,
+   "ultimoValore": 3.95,
+   "minimo": 3.87,
+   "massimo": 3.95
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 3.97,
+   "variazionePercentuale": -1.27,
+   "ultimoValore": 3.9,
+   "minimo": 3.88,
+   "massimo": 3.98
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 3.9,
+   "variazionePercentuale": -1.28,
+   "ultimoValore": 3.85,
+   "minimo": 3.85,
+   "massimo": 3.91
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 3.84,
+   "variazionePercentuale": -0.26,
+   "ultimoValore": 3.84,
+   "minimo": 3.83,
+   "massimo": 3.89
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 3.85,
+   "variazionePercentuale": 0.78,
+   "ultimoValore": 3.87,
+   "minimo": 3.84,
+   "massimo": 3.89
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 3.87,
+   "variazionePercentuale": -1.29,
+   "ultimoValore": 3.82,
+   "minimo": 3.81,
+   "massimo": 3.91
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 3.87,
+   "variazionePercentuale": -1.29,
+   "ultimoValore": 3.82,
+   "minimo": 3.81,
+   "massimo": 3.91
+  }
+ }
+}

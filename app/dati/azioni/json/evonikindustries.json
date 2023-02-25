@@ -1,0 +1,21 @@
+{
+ "azienda": "Evonik Industries",
+ "dati": {
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 19.9,
+   "variazionePercentuale": -1.82,
+   "ultimoValore": 19.9,
+   "minimo": 19.9,
+   "massimo": 19.9
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 20.23,
+   "variazionePercentuale": 1.66,
+   "ultimoValore": 20.23,
+   "minimo": 20.23,
+   "massimo": 20.23
+  }
+ }
+}

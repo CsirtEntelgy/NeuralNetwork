@@ -1,0 +1,13 @@
+{
+ "azienda": "G Rent",
+ "dati": {
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 2.38,
+   "variazionePercentuale": 0.42,
+   "ultimoValore": 2.39,
+   "minimo": 2.38,
+   "massimo": 2.39
+  }
+ }
+}

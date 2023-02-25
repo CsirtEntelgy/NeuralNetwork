@@ -1,0 +1,5242 @@
+[
+ {
+  "azienda": "A.B.P. Nocivelli",
+  "dettaglio": "A.B.P. Nocivelli",
+  "sigla": "ABP.MI",
+  "filejson": "dati/azioni/json/a_b_p_nocivelli.json",
+  "filecsv": "dati/azioni/csv/a_b_p_nocivelli.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 142
+ },
+ {
+  "azienda": "A2a",
+  "dettaglio": "A2a",
+  "sigla": "A2A.MI",
+  "filejson": "dati/azioni/json/a2a.json",
+  "filecsv": "dati/azioni/csv/a2a.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 201
+ },
+ {
+  "azienda": "Aegon",
+  "dettaglio": "Aegon",
+  "sigla": "AGN.MI",
+  "filejson": "dati/azioni/json/aegon.json",
+  "filecsv": "dati/azioni/csv/aegon.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 89
+ },
+ {
+  "azienda": "Cir",
+  "dettaglio": "Cir",
+  "sigla": "",
+  "filejson": "dati/azioni/json/cir.json",
+  "filecsv": "dati/azioni/csv/cir.csv",
+  "dataAggiornamento": "25-02-2023 08:36:03",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Circle",
+  "dettaglio": "Circle",
+  "sigla": "CIRC.MI",
+  "filejson": "dati/azioni/json/circle.json",
+  "filecsv": "dati/azioni/csv/circle.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 128
+ },
+ {
+  "azienda": "Civitanavi Systems",
+  "dettaglio": "Civitanavi Systems",
+  "sigla": "CNS.MI",
+  "filejson": "dati/azioni/json/civitanavisystems.json",
+  "filecsv": "dati/azioni/csv/civitanavisystems.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 189
+ },
+ {
+  "azienda": "Clabo",
+  "dettaglio": "Clabo",
+  "sigla": "CLA.MI",
+  "filejson": "dati/azioni/json/clabo.json",
+  "filecsv": "dati/azioni/csv/clabo.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 193
+ },
+ {
+  "azienda": "Class Editori",
+  "dettaglio": "Class Editori",
+  "sigla": "CLE.MI",
+  "filejson": "dati/azioni/json/classeditori.json",
+  "filecsv": "dati/azioni/csv/classeditori.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 205
+ },
+ {
+  "azienda": "Cleanbnb",
+  "dettaglio": "Cleanbnb",
+  "sigla": "CBB.MI",
+  "filejson": "dati/azioni/json/cleanbnb.json",
+  "filecsv": "dati/azioni/csv/cleanbnb.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 165
+ },
+ {
+  "azienda": "Cnh Industrial",
+  "dettaglio": "Cnh Industrial",
+  "sigla": "CNHI.MI",
+  "filejson": "dati/azioni/json/cnhindustrial.json",
+  "filecsv": "dati/azioni/csv/cnhindustrial.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 208
+ },
+ {
+  "azienda": "Cofle",
+  "dettaglio": "Cofle",
+  "sigla": "CFL.MI",
+  "filejson": "dati/azioni/json/cofle.json",
+  "filecsv": "dati/azioni/csv/cofle.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 70
+ },
+ {
+  "azienda": "Coinbase Global",
+  "dettaglio": "Coinbase Global",
+  "sigla": "",
+  "filejson": "dati/azioni/json/coinbaseglobal.json",
+  "filecsv": "dati/azioni/csv/coinbaseglobal.csv",
+  "dataAggiornamento": "25-02-2023 08:36:03",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Comal",
+  "dettaglio": "Comal",
+  "sigla": "CML.MI",
+  "filejson": "dati/azioni/json/comal.json",
+  "filecsv": "dati/azioni/csv/comal.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 202
+ },
+ {
+  "azienda": "Aeroporto Guglielmo Marconi Di Bologna",
+  "dettaglio": "Aeroporto Guglielmo Marconi Di Bologna",
+  "sigla": "ADB.MI",
+  "filejson": "dati/azioni/json/aeroportoguglielmomarconidibologna.json",
+  "filecsv": "dati/azioni/csv/aeroportoguglielmomarconidibologna.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 188
+ },
+ {
+  "azienda": "Comer Industries",
+  "dettaglio": "Comer Industries",
+  "sigla": "COM.MI",
+  "filejson": "dati/azioni/json/comerindustries.json",
+  "filecsv": "dati/azioni/csv/comerindustries.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 174
+ },
+ {
+  "azienda": "Commerzbank",
+  "dettaglio": "Commerzbank",
+  "sigla": "",
+  "filejson": "dati/azioni/json/commerzbank.json",
+  "filecsv": "dati/azioni/csv/commerzbank.csv",
+  "dataAggiornamento": "25-02-2023 08:36:03",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Compagnia Dei Caraibi",
+  "dettaglio": "Compagnia Dei Caraibi",
+  "sigla": "1TIME.MI",
+  "filejson": "dati/azioni/json/compagniadeicaraibi.json",
+  "filecsv": "dati/azioni/csv/compagniadeicaraibi.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 7
+ },
+ {
+  "azienda": "Conafi",
+  "dettaglio": "Conafi",
+  "sigla": "CNF.MI",
+  "filejson": "dati/azioni/json/conafi.json",
+  "filecsv": "dati/azioni/csv/conafi.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 206
+ },
+ {
+  "azienda": "Confinvest",
+  "dettaglio": "Confinvest",
+  "sigla": "CFV.MI",
+  "filejson": "dati/azioni/json/confinvest.json",
+  "filecsv": "dati/azioni/csv/confinvest.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 126
+ },
+ {
+  "azienda": "Continental",
+  "dettaglio": "Continental",
+  "sigla": "",
+  "filejson": "dati/azioni/json/continental.json",
+  "filecsv": "dati/azioni/csv/continental.csv",
+  "dataAggiornamento": "22-02-2023 21:00:30",
+  "abilitata": true,
+  "records": 12
+ },
+ {
+  "azienda": "Convergenze",
+  "dettaglio": "Convergenze",
+  "sigla": "CVG.MI",
+  "filejson": "dati/azioni/json/convergenze.json",
+  "filecsv": "dati/azioni/csv/convergenze.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 98
+ },
+ {
+  "azienda": "Copernico",
+  "dettaglio": "Copernico",
+  "sigla": "COP.MI",
+  "filejson": "dati/azioni/json/copernico.json",
+  "filecsv": "dati/azioni/csv/copernico.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Cover 50",
+  "dettaglio": "Cover 50",
+  "sigla": "COV.MI",
+  "filejson": "dati/azioni/json/cover50.json",
+  "filecsv": "dati/azioni/csv/cover50.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 160
+ },
+ {
+  "azienda": "Covivio",
+  "dettaglio": "Covivio",
+  "sigla": "CVO.MI",
+  "filejson": "dati/azioni/json/covivio.json",
+  "filecsv": "dati/azioni/csv/covivio.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 196
+ },
+ {
+  "azienda": "Agatos",
+  "dettaglio": "Agatos",
+  "sigla": "AGA.MI",
+  "filejson": "dati/azioni/json/agatos.json",
+  "filecsv": "dati/azioni/csv/agatos.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 226
+ },
+ {
+  "azienda": "Credit Agricole",
+  "dettaglio": "Credit Agricole",
+  "sigla": "ACA.MI",
+  "filejson": "dati/azioni/json/creditagricole.json",
+  "filecsv": "dati/azioni/csv/creditagricole.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 173
+ },
+ {
+  "azienda": "Credito Emiliano",
+  "dettaglio": "Credito Emiliano",
+  "sigla": "",
+  "filejson": "dati/azioni/json/creditoemiliano.json",
+  "filecsv": "dati/azioni/csv/creditoemiliano.csv",
+  "dataAggiornamento": "25-02-2023 08:36:03",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Crowdfundme",
+  "dettaglio": "Crowdfundme",
+  "sigla": "CFM.MI",
+  "filejson": "dati/azioni/json/crowdfundme.json",
+  "filecsv": "dati/azioni/csv/crowdfundme.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 97
+ },
+ {
+  "azienda": "Csp Int Ind Calze",
+  "dettaglio": "Csp Int Ind Calze",
+  "sigla": "CSP.MI",
+  "filejson": "dati/azioni/json/cspintindcalze.json",
+  "filecsv": "dati/azioni/csv/cspintindcalze.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 189
+ },
+ {
+  "azienda": "Culti Milano",
+  "dettaglio": "Culti Milano",
+  "sigla": "CULT.MI",
+  "filejson": "dati/azioni/json/cultimilano.json",
+  "filecsv": "dati/azioni/csv/cultimilano.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 170
+ },
+ {
+  "azienda": "Cy4gate",
+  "dettaglio": "Cy4gate",
+  "sigla": "CY4.MI",
+  "filejson": "dati/azioni/json/cy4gate.json",
+  "filecsv": "dati/azioni/csv/cy4gate.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 201
+ },
+ {
+  "azienda": "Cyberoo",
+  "dettaglio": "Cyberoo",
+  "sigla": "CYB.MI",
+  "filejson": "dati/azioni/json/cyberoo.json",
+  "filecsv": "dati/azioni/csv/cyberoo.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 199
+ },
+ {
+  "azienda": "D'Amico",
+  "dettaglio": "D'Amico",
+  "sigla": "DIS.MI",
+  "filejson": "dati/azioni/json/d_amico.json",
+  "filecsv": "dati/azioni/csv/d_amico.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 231
+ },
+ {
+  "azienda": "Danieli & C",
+  "dettaglio": "Danieli & C",
+  "sigla": "DAN.MI",
+  "filejson": "dati/azioni/json/danieli_c.json",
+  "filecsv": "dati/azioni/csv/danieli_c.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 200
+ },
+ {
+  "azienda": "Danieli & C Rsp",
+  "dettaglio": "Danieli & C Rsp",
+  "sigla": "",
+  "filejson": "dati/azioni/json/danieli_crsp.json",
+  "filecsv": "dati/azioni/csv/danieli_crsp.csv",
+  "dataAggiornamento": "25-02-2023 08:36:04",
+  "abilitata": true,
+  "records": 21
+ },
+ {
+  "azienda": "Agatos 4,75% Cv 2017-2026",
+  "dettaglio": "Agatos 4,75% Cv 2017-2026",
+  "sigla": "",
+  "filejson": "dati/azioni/json/agatos4_75_cv2017_2026.json",
+  "filecsv": "dati/azioni/csv/agatos4_75_cv2017_2026.csv",
+  "dataAggiornamento": "25-02-2023 08:35:59",
+  "abilitata": true,
+  "records": 6
+ },
+ {
+  "azienda": "Datalogic",
+  "dettaglio": "Datalogic",
+  "sigla": "DAL.MI",
+  "filejson": "dati/azioni/json/datalogic.json",
+  "filecsv": "dati/azioni/csv/datalogic.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 222
+ },
+ {
+  "azienda": "Datrix",
+  "dettaglio": "Datrix",
+  "sigla": "DATA.MI",
+  "filejson": "dati/azioni/json/datrix.json",
+  "filecsv": "dati/azioni/csv/datrix.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 141
+ },
+ {
+  "azienda": "Dba Group",
+  "dettaglio": "Dba Group",
+  "sigla": "DBA.MI",
+  "filejson": "dati/azioni/json/dbagroup.json",
+  "filecsv": "dati/azioni/csv/dbagroup.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 143
+ },
+ {
+  "azienda": "De'Longhi",
+  "dettaglio": "De'Longhi",
+  "sigla": "DLG.MI",
+  "filejson": "dati/azioni/json/de_longhi.json",
+  "filecsv": "dati/azioni/csv/de_longhi.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 212
+ },
+ {
+  "azienda": "Dea Capital",
+  "dettaglio": "Dea Capital",
+  "sigla": "DEA.MI",
+  "filejson": "dati/azioni/json/deacapital.json",
+  "filecsv": "dati/azioni/csv/deacapital.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 153
+ },
+ {
+  "azienda": "Defence Tech Holding",
+  "dettaglio": "Defence Tech Holding",
+  "sigla": "DTH.MI",
+  "filejson": "dati/azioni/json/defencetechholding.json",
+  "filecsv": "dati/azioni/csv/defencetechholding.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 207
+ },
+ {
+  "azienda": "Deodato.Gallery",
+  "dettaglio": "Deodato.Gallery",
+  "sigla": "ART.MI",
+  "filejson": "dati/azioni/json/deodato_gallery.json",
+  "filecsv": "dati/azioni/csv/deodato_gallery.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 16
+ },
+ {
+  "azienda": "Destination Italia",
+  "dettaglio": "Destination Italia",
+  "sigla": "DIT.MI",
+  "filejson": "dati/azioni/json/destinationitalia.json",
+  "filecsv": "dati/azioni/csv/destinationitalia.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 144
+ },
+ {
+  "azienda": "Deutsche Bank",
+  "dettaglio": "Deutsche Bank",
+  "sigla": "",
+  "filejson": "dati/azioni/json/deutschebank.json",
+  "filecsv": "dati/azioni/csv/deutschebank.csv",
+  "dataAggiornamento": "25-02-2023 08:36:04",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Deutsche Boerse",
+  "dettaglio": "Deutsche Boerse",
+  "sigla": "",
+  "filejson": "dati/azioni/json/deutscheboerse.json",
+  "filecsv": "dati/azioni/csv/deutscheboerse.csv",
+  "dataAggiornamento": "23-02-2023 21:00:26",
+  "abilitata": true,
+  "records": 2
+ },
+ {
+  "azienda": "Ageas",
+  "dettaglio": "Ageas",
+  "sigla": "AGS.MI",
+  "filejson": "dati/azioni/json/ageas.json",
+  "filecsv": "dati/azioni/csv/ageas.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 88
+ },
+ {
+  "azienda": "Deutsche Lufthansa",
+  "dettaglio": "Deutsche Lufthansa",
+  "sigla": "LHA.DE",
+  "filejson": "dati/azioni/json/deutschelufthansa.json",
+  "filecsv": "dati/azioni/csv/deutschelufthansa.csv",
+  "dataAggiornamento": "25-02-2023 09:48:20",
+  "abilitata": true,
+  "records": 193
+ },
+ {
+  "azienda": "Deutsche Post",
+  "dettaglio": "Deutsche Post",
+  "sigla": "",
+  "filejson": "dati/azioni/json/deutschepost.json",
+  "filecsv": "dati/azioni/csv/deutschepost.csv",
+  "dataAggiornamento": "25-02-2023 08:36:04",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Deutsche Telekom",
+  "dettaglio": "Deutsche Telekom",
+  "sigla": "DTE.DE",
+  "filejson": "dati/azioni/json/deutschetelekom.json",
+  "filecsv": "dati/azioni/csv/deutschetelekom.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 164
+ },
+ {
+  "azienda": "Dhh",
+  "dettaglio": "Dhh",
+  "sigla": "DHH.MI",
+  "filejson": "dati/azioni/json/dhh.json",
+  "filecsv": "dati/azioni/csv/dhh.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 130
+ },
+ {
+  "azienda": "Diasorin",
+  "dettaglio": "Diasorin",
+  "sigla": "DIA.MI",
+  "filejson": "dati/azioni/json/diasorin.json",
+  "filecsv": "dati/azioni/csv/diasorin.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 206
+ },
+ {
+  "azienda": "Digital Bros",
+  "dettaglio": "Digital Bros",
+  "sigla": "DIB.MI",
+  "filejson": "dati/azioni/json/digitalbros.json",
+  "filecsv": "dati/azioni/csv/digitalbros.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 217
+ },
+ {
+  "azienda": "Digital Magics",
+  "dettaglio": "Digital Magics",
+  "sigla": "DM.MI",
+  "filejson": "dati/azioni/json/digitalmagics.json",
+  "filecsv": "dati/azioni/csv/digitalmagics.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 160
+ },
+ {
+  "azienda": "Digital Value",
+  "dettaglio": "Digital Value",
+  "sigla": "DGV.MI",
+  "filejson": "dati/azioni/json/digitalvalue.json",
+  "filecsv": "dati/azioni/csv/digitalvalue.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 207
+ },
+ {
+  "azienda": "Digital360",
+  "dettaglio": "Digital360",
+  "sigla": "DIG.MI",
+  "filejson": "dati/azioni/json/digital360.json",
+  "filecsv": "dati/azioni/csv/digital360.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 155
+ },
+ {
+  "azienda": "Digitouch",
+  "dettaglio": "Digitouch",
+  "sigla": "DGT.MI",
+  "filejson": "dati/azioni/json/digitouch.json",
+  "filecsv": "dati/azioni/csv/digitouch.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 173
+ },
+ {
+  "azienda": "Ahold Del",
+  "dettaglio": "Ahold Del",
+  "sigla": "ADB.MI",
+  "filejson": "dati/azioni/json/aholddel.json",
+  "filecsv": "dati/azioni/csv/aholddel.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 188
+ },
+ {
+  "azienda": "Directa Sim",
+  "dettaglio": "Directa Sim",
+  "sigla": "D.MI",
+  "filejson": "dati/azioni/json/directasim.json",
+  "filecsv": "dati/azioni/csv/directasim.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 137
+ },
+ {
+  "azienda": "Dotstay",
+  "dettaglio": "Dotstay",
+  "sigla": "DOT.MI",
+  "filejson": "dati/azioni/json/dotstay.json",
+  "filecsv": "dati/azioni/csv/dotstay.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 2
+ },
+ {
+  "azienda": "Dovalue",
+  "dettaglio": "Dovalue",
+  "sigla": "DOV.MI",
+  "filejson": "dati/azioni/json/dovalue.json",
+  "filecsv": "dati/azioni/csv/dovalue.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 219
+ },
+ {
+  "azienda": "Doxee",
+  "dettaglio": "Doxee",
+  "sigla": "",
+  "filejson": "dati/azioni/json/doxee.json",
+  "filecsv": "dati/azioni/csv/doxee.csv",
+  "dataAggiornamento": "25-02-2023 08:36:04",
+  "abilitata": true,
+  "records": 11
+ },
+ {
+  "azienda": "E.On",
+  "dettaglio": "E.On",
+  "sigla": "",
+  "filejson": "dati/azioni/json/e_on.json",
+  "filecsv": "dati/azioni/csv/e_on.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 21
+ },
+ {
+  "azienda": "Ecosuntek",
+  "dettaglio": "Ecosuntek",
+  "sigla": "",
+  "filejson": "dati/azioni/json/ecosuntek.json",
+  "filecsv": "dati/azioni/csv/ecosuntek.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 21
+ },
+ {
+  "azienda": "Ediliziacrobatica",
+  "dettaglio": "Ediliziacrobatica",
+  "sigla": "",
+  "filejson": "dati/azioni/json/ediliziacrobatica.json",
+  "filecsv": "dati/azioni/csv/ediliziacrobatica.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Edison Rsp",
+  "dettaglio": "Edison Rsp",
+  "sigla": "",
+  "filejson": "dati/azioni/json/edisonrsp.json",
+  "filecsv": "dati/azioni/csv/edisonrsp.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 20
+ },
+ {
+  "azienda": "Eems",
+  "dettaglio": "Eems",
+  "sigla": "",
+  "filejson": "dati/azioni/json/eems.json",
+  "filecsv": "dati/azioni/csv/eems.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "El.En.",
+  "dettaglio": "El.En.",
+  "sigla": "",
+  "filejson": "dati/azioni/json/el_en_.json",
+  "filecsv": "dati/azioni/csv/el_en_.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Air France-Klm",
+  "dettaglio": "Air France-Klm",
+  "sigla": "AF.MI",
+  "filejson": "dati/azioni/json/airfrance_klm.json",
+  "filecsv": "dati/azioni/csv/airfrance_klm.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 9
+ },
+ {
+  "azienda": "Eles",
+  "dettaglio": "Eles",
+  "sigla": "",
+  "filejson": "dati/azioni/json/eles.json",
+  "filecsv": "dati/azioni/csv/eles.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Elica",
+  "dettaglio": "Elica",
+  "sigla": "",
+  "filejson": "dati/azioni/json/elica.json",
+  "filecsv": "dati/azioni/csv/elica.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Emak",
+  "dettaglio": "Emak",
+  "sigla": "",
+  "filejson": "dati/azioni/json/emak.json",
+  "filecsv": "dati/azioni/csv/emak.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Enav",
+  "dettaglio": "Enav",
+  "sigla": "",
+  "filejson": "dati/azioni/json/enav.json",
+  "filecsv": "dati/azioni/csv/enav.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Enel",
+  "dettaglio": "Enel",
+  "sigla": "ENEL.MI",
+  "filejson": "dati/azioni/json/enel.json",
+  "filecsv": "dati/azioni/csv/enel.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 195
+ },
+ {
+  "azienda": "Energy",
+  "dettaglio": "Energy",
+  "sigla": "",
+  "filejson": "dati/azioni/json/energy.json",
+  "filecsv": "dati/azioni/csv/energy.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Enervit",
+  "dettaglio": "Enervit",
+  "sigla": "",
+  "filejson": "dati/azioni/json/enervit.json",
+  "filecsv": "dati/azioni/csv/enervit.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 18
+ },
+ {
+  "azienda": "Engie",
+  "dettaglio": "Engie",
+  "sigla": "",
+  "filejson": "dati/azioni/json/engie.json",
+  "filecsv": "dati/azioni/csv/engie.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Eni",
+  "dettaglio": "Eni",
+  "sigla": "ENI.MI",
+  "filejson": "dati/azioni/json/eni.json",
+  "filecsv": "dati/azioni/csv/eni.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 191
+ },
+ {
+  "azienda": "Eprice",
+  "dettaglio": "Eprice",
+  "sigla": "",
+  "filejson": "dati/azioni/json/eprice.json",
+  "filecsv": "dati/azioni/csv/eprice.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 16
+ },
+ {
+  "azienda": "Airbus",
+  "dettaglio": "Airbus",
+  "sigla": "AIR.MI",
+  "filejson": "dati/azioni/json/airbus.json",
+  "filecsv": "dati/azioni/csv/airbus.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 191
+ },
+ {
+  "azienda": "Equita Group",
+  "dettaglio": "Equita Group",
+  "sigla": "",
+  "filejson": "dati/azioni/json/equitagroup.json",
+  "filecsv": "dati/azioni/csv/equitagroup.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Erg",
+  "dettaglio": "Erg",
+  "sigla": "",
+  "filejson": "dati/azioni/json/erg.json",
+  "filecsv": "dati/azioni/csv/erg.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 14
+ },
+ {
+  "azienda": "Erredue",
+  "dettaglio": "Erredue",
+  "sigla": "",
+  "filejson": "dati/azioni/json/erredue.json",
+  "filecsv": "dati/azioni/csv/erredue.csv",
+  "dataAggiornamento": "23-02-2023 21:00:28",
+  "abilitata": true,
+  "records": 9
+ },
+ {
+  "azienda": "Esautomotion",
+  "dettaglio": "Esautomotion",
+  "sigla": "",
+  "filejson": "dati/azioni/json/esautomotion.json",
+  "filecsv": "dati/azioni/csv/esautomotion.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 13
+ },
+ {
+  "azienda": "Esi",
+  "dettaglio": "Esi",
+  "sigla": "",
+  "filejson": "dati/azioni/json/esi.json",
+  "filecsv": "dati/azioni/csv/esi.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 10
+ },
+ {
+  "azienda": "Esprinet",
+  "dettaglio": "Esprinet",
+  "sigla": "",
+  "filejson": "dati/azioni/json/esprinet.json",
+  "filecsv": "dati/azioni/csv/esprinet.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Essilorluxottica",
+  "dettaglio": "Essilorluxottica",
+  "sigla": "",
+  "filejson": "dati/azioni/json/essilorluxottica.json",
+  "filecsv": "dati/azioni/csv/essilorluxottica.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Estrima",
+  "dettaglio": "Estrima",
+  "sigla": "",
+  "filejson": "dati/azioni/json/estrima.json",
+  "filecsv": "dati/azioni/csv/estrima.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 14
+ },
+ {
+  "azienda": "Eukedos",
+  "dettaglio": "Eukedos",
+  "sigla": "",
+  "filejson": "dati/azioni/json/eukedos.json",
+  "filecsv": "dati/azioni/csv/eukedos.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 13
+ },
+ {
+  "azienda": "Eurogroup Laminations",
+  "dettaglio": "Eurogroup Laminations",
+  "sigla": "",
+  "filejson": "dati/azioni/json/eurogrouplaminations.json",
+  "filecsv": "dati/azioni/csv/eurogrouplaminations.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 7
+ },
+ {
+  "azienda": "Ala",
+  "dettaglio": "Ala",
+  "sigla": "",
+  "filejson": "dati/azioni/json/ala.json",
+  "filecsv": "dati/azioni/csv/ala.csv",
+  "dataAggiornamento": "23-02-2023 21:00:21",
+  "abilitata": true,
+  "records": 19
+ },
+ {
+  "azienda": "Eurotech",
+  "dettaglio": "Eurotech",
+  "sigla": "",
+  "filejson": "dati/azioni/json/eurotech.json",
+  "filecsv": "dati/azioni/csv/eurotech.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Eviso",
+  "dettaglio": "Eviso",
+  "sigla": "",
+  "filejson": "dati/azioni/json/eviso.json",
+  "filecsv": "dati/azioni/csv/eviso.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 14
+ },
+ {
+  "azienda": "Evonik Industries",
+  "dettaglio": "Evonik Industries",
+  "sigla": "",
+  "filejson": "dati/azioni/json/evonikindustries.json",
+  "filecsv": "dati/azioni/csv/evonikindustries.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 3
+ },
+ {
+  "azienda": "Expert.Ai",
+  "dettaglio": "Expert.Ai",
+  "sigla": "",
+  "filejson": "dati/azioni/json/expert_ai.json",
+  "filecsv": "dati/azioni/csv/expert_ai.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Exprivia",
+  "dettaglio": "Exprivia",
+  "sigla": "",
+  "filejson": "dati/azioni/json/exprivia.json",
+  "filecsv": "dati/azioni/csv/exprivia.csv",
+  "dataAggiornamento": "25-02-2023 08:36:06",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Fae Technology",
+  "dettaglio": "Fae Technology",
+  "sigla": "",
+  "filejson": "dati/azioni/json/faetechnology.json",
+  "filecsv": "dati/azioni/csv/faetechnology.csv",
+  "dataAggiornamento": "25-02-2023 08:36:08",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Farmacosmo",
+  "dettaglio": "Farmacosmo",
+  "sigla": "",
+  "filejson": "dati/azioni/json/farmacosmo.json",
+  "filecsv": "dati/azioni/csv/farmacosmo.csv",
+  "dataAggiornamento": "25-02-2023 08:36:08",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Farmae",
+  "dettaglio": "Farmae",
+  "sigla": "",
+  "filejson": "dati/azioni/json/farmae.json",
+  "filecsv": "dati/azioni/csv/farmae.csv",
+  "dataAggiornamento": "25-02-2023 08:36:08",
+  "abilitata": true,
+  "records": 22
+ },
+ {
+  "azienda": "Faurecia",
+  "dettaglio": "Faurecia",
+  "sigla": "",
+  "filejson": "dati/azioni/json/faurecia.json",
+  "filecsv": "dati/azioni/csv/faurecia.csv",
+  "dataAggiornamento": "25-02-2023 08:36:08",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Fenix Entertainment",
+  "dettaglio": "Fenix Entertainment",
+  "sigla": "",
+  "filejson": "dati/azioni/json/fenixentertainment.json",
+  "filecsv": "dati/azioni/csv/fenixentertainment.csv",
+  "dataAggiornamento": "25-02-2023 08:36:08",
+  "abilitata": true,
+  "records": 20
+ },
+ {
+  "azienda": "Alerion Cleanpower",
+  "dettaglio": "Alerion Cleanpower",
+  "sigla": "ARN.MI",
+  "filejson": "dati/azioni/json/alerioncleanpower.json",
+  "filecsv": "dati/azioni/csv/alerioncleanpower.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 227
+ },
+ {
+  "azienda": "Ferrari",
+  "dettaglio": "Ferrari",
+  "sigla": "",
+  "filejson": "dati/azioni/json/ferrari.json",
+  "filecsv": "dati/azioni/csv/ferrari.csv",
+  "dataAggiornamento": "25-02-2023 08:36:08",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Fervi",
+  "dettaglio": "Fervi",
+  "sigla": "",
+  "filejson": "dati/azioni/json/fervi.json",
+  "filecsv": "dati/azioni/csv/fervi.csv",
+  "dataAggiornamento": "25-02-2023 08:36:08",
+  "abilitata": true,
+  "records": 5
+ },
+ {
+  "azienda": "Fidia",
+  "dettaglio": "Fidia",
+  "sigla": "",
+  "filejson": "dati/azioni/json/fidia.json",
+  "filecsv": "dati/azioni/csv/fidia.csv",
+  "dataAggiornamento": "25-02-2023 08:36:08",
+  "abilitata": true,
+  "records": 9
+ },
+ {
+  "azienda": "Fiera Milano",
+  "dettaglio": "Fiera Milano",
+  "sigla": "",
+  "filejson": "dati/azioni/json/fieramilano.json",
+  "filecsv": "dati/azioni/csv/fieramilano.csv",
+  "dataAggiornamento": "25-02-2023 08:36:08",
+  "abilitata": true,
+  "records": 22
+ },
+ {
+  "azienda": "Fila",
+  "dettaglio": "Fila",
+  "sigla": "",
+  "filejson": "dati/azioni/json/fila.json",
+  "filecsv": "dati/azioni/csv/fila.csv",
+  "dataAggiornamento": "25-02-2023 08:36:08",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Finanza.Tech",
+  "dettaglio": "Finanza.Tech",
+  "sigla": "",
+  "filejson": "dati/azioni/json/finanza_tech.json",
+  "filecsv": "dati/azioni/csv/finanza_tech.csv",
+  "dataAggiornamento": "25-02-2023 08:36:08",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Fincantieri",
+  "dettaglio": "Fincantieri",
+  "sigla": "",
+  "filejson": "dati/azioni/json/fincantieri.json",
+  "filecsv": "dati/azioni/csv/fincantieri.csv",
+  "dataAggiornamento": "25-02-2023 08:36:08",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Fine Foods & Pharmaceuticals Ntm",
+  "dettaglio": "Fine Foods & Pharmaceuticals Ntm",
+  "sigla": "",
+  "filejson": "dati/azioni/json/finefoods_pharmaceuticalsntm.json",
+  "filecsv": "dati/azioni/csv/finefoods_pharmaceuticalsntm.csv",
+  "dataAggiornamento": "25-02-2023 08:36:08",
+  "abilitata": true,
+  "records": 21
+ },
+ {
+  "azienda": "Finecobank",
+  "dettaglio": "Finecobank",
+  "sigla": "",
+  "filejson": "dati/azioni/json/finecobank.json",
+  "filecsv": "dati/azioni/csv/finecobank.csv",
+  "dataAggiornamento": "25-02-2023 08:36:08",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Finlogic",
+  "dettaglio": "Finlogic",
+  "sigla": "",
+  "filejson": "dati/azioni/json/finlogic.json",
+  "filecsv": "dati/azioni/csv/finlogic.csv",
+  "dataAggiornamento": "25-02-2023 08:36:08",
+  "abilitata": true,
+  "records": 7
+ },
+ {
+  "azienda": "ABC Company S.p.A.",
+  "dettaglio": "ABC Company S.p.A.",
+  "sigla": "ABC.MI",
+  "filejson": "dati/azioni/json/abccompany.json",
+  "filecsv": "dati/azioni/csv/abccompany.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 2
+ },
+ {
+  "azienda": "Alfio Bardolla",
+  "dettaglio": "Alfio Bardolla",
+  "sigla": "ABTG.MI",
+  "filejson": "dati/azioni/json/alfiobardolla.json",
+  "filecsv": "dati/azioni/csv/alfiobardolla.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 169
+ },
+ {
+  "azienda": "First Capital",
+  "dettaglio": "First Capital",
+  "sigla": "",
+  "filejson": "dati/azioni/json/firstcapital.json",
+  "filecsv": "dati/azioni/csv/firstcapital.csv",
+  "dataAggiornamento": "25-02-2023 08:36:08",
+  "abilitata": true,
+  "records": 20
+ },
+ {
+  "azienda": "First Capital 3,75% Cv 2019-2026",
+  "dettaglio": "First Capital 3,75% Cv 2019-2026",
+  "sigla": "",
+  "filejson": "dati/azioni/json/firstcapital3_75_cv2019_2026.json",
+  "filecsv": "dati/azioni/csv/firstcapital3_75_cv2019_2026.csv",
+  "dataAggiornamento": "21-02-2023 21:00:29",
+  "abilitata": true,
+  "records": 2
+ },
+ {
+  "azienda": "Fnm",
+  "dettaglio": "Fnm",
+  "sigla": "",
+  "filejson": "dati/azioni/json/fnm.json",
+  "filecsv": "dati/azioni/csv/fnm.csv",
+  "dataAggiornamento": "25-02-2023 08:36:08",
+  "abilitata": true,
+  "records": 20
+ },
+ {
+  "azienda": "Fope",
+  "dettaglio": "Fope",
+  "sigla": "",
+  "filejson": "dati/azioni/json/fope.json",
+  "filecsv": "dati/azioni/csv/fope.csv",
+  "dataAggiornamento": "25-02-2023 08:36:08",
+  "abilitata": true,
+  "records": 9
+ },
+ {
+  "azienda": "Fos",
+  "dettaglio": "Fos",
+  "sigla": "",
+  "filejson": "dati/azioni/json/fos.json",
+  "filecsv": "dati/azioni/csv/fos.csv",
+  "dataAggiornamento": "25-02-2023 08:36:08",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Franchetti",
+  "dettaglio": "Franchetti",
+  "sigla": "",
+  "filejson": "dati/azioni/json/franchetti.json",
+  "filecsv": "dati/azioni/csv/franchetti.csv",
+  "dataAggiornamento": "25-02-2023 08:36:08",
+  "abilitata": true,
+  "records": 5
+ },
+ {
+  "azienda": "Franchi Umberto Marmi",
+  "dettaglio": "Franchi Umberto Marmi",
+  "sigla": "",
+  "filejson": "dati/azioni/json/franchiumbertomarmi.json",
+  "filecsv": "dati/azioni/csv/franchiumbertomarmi.csv",
+  "dataAggiornamento": "25-02-2023 08:36:08",
+  "abilitata": true,
+  "records": 14
+ },
+ {
+  "azienda": "Frendy Energy",
+  "dettaglio": "Frendy Energy",
+  "sigla": "",
+  "filejson": "dati/azioni/json/frendyenergy.json",
+  "filecsv": "dati/azioni/csv/frendyenergy.csv",
+  "dataAggiornamento": "25-02-2023 08:36:08",
+  "abilitata": true,
+  "records": 14
+ },
+ {
+  "azienda": "Fresenius",
+  "dettaglio": "Fresenius",
+  "sigla": "",
+  "filejson": "dati/azioni/json/fresenius.json",
+  "filecsv": "dati/azioni/csv/fresenius.csv",
+  "dataAggiornamento": "25-02-2023 08:36:08",
+  "abilitata": true,
+  "records": 8
+ },
+ {
+  "azienda": "Fresenius Medical Care",
+  "dettaglio": "Fresenius Medical Care",
+  "sigla": "",
+  "filejson": "dati/azioni/json/freseniusmedicalcare.json",
+  "filecsv": "dati/azioni/csv/freseniusmedicalcare.csv",
+  "dataAggiornamento": "25-02-2023 08:36:08",
+  "abilitata": true,
+  "records": 7
+ },
+ {
+  "azienda": "Alfonsino",
+  "dettaglio": "Alfonsino",
+  "sigla": "ALF.MI",
+  "filejson": "dati/azioni/json/alfonsino.json",
+  "filecsv": "dati/azioni/csv/alfonsino.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 188
+ },
+ {
+  "azienda": "Friulchem",
+  "dettaglio": "Friulchem",
+  "sigla": "",
+  "filejson": "dati/azioni/json/friulchem.json",
+  "filecsv": "dati/azioni/csv/friulchem.csv",
+  "dataAggiornamento": "23-02-2023 21:00:31",
+  "abilitata": true,
+  "records": 4
+ },
+ {
+  "azienda": "G Rent",
+  "dettaglio": "G Rent",
+  "sigla": "",
+  "filejson": "dati/azioni/json/grent.json",
+  "filecsv": "dati/azioni/csv/grent.csv",
+  "dataAggiornamento": "22-02-2023 21:00:37",
+  "abilitata": true,
+  "records": 2
+ },
+ {
+  "azienda": "G.M. Leather",
+  "dettaglio": "G.M. Leather",
+  "sigla": "",
+  "filejson": "dati/azioni/json/g_m_leather.json",
+  "filecsv": "dati/azioni/csv/g_m_leather.csv",
+  "dataAggiornamento": "25-02-2023 08:36:09",
+  "abilitata": true,
+  "records": 5
+ },
+ {
+  "azienda": "Gabetti",
+  "dettaglio": "Gabetti",
+  "sigla": "",
+  "filejson": "dati/azioni/json/gabetti.json",
+  "filecsv": "dati/azioni/csv/gabetti.csv",
+  "dataAggiornamento": "25-02-2023 08:36:09",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Gambero Rosso",
+  "dettaglio": "Gambero Rosso",
+  "sigla": "",
+  "filejson": "dati/azioni/json/gamberorosso.json",
+  "filecsv": "dati/azioni/csv/gamberorosso.csv",
+  "dataAggiornamento": "25-02-2023 08:36:09",
+  "abilitata": true,
+  "records": 6
+ },
+ {
+  "azienda": "Garofalo Health Care",
+  "dettaglio": "Garofalo Health Care",
+  "sigla": "",
+  "filejson": "dati/azioni/json/garofalohealthcare.json",
+  "filecsv": "dati/azioni/csv/garofalohealthcare.csv",
+  "dataAggiornamento": "25-02-2023 08:36:09",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Gas Plus",
+  "dettaglio": "Gas Plus",
+  "sigla": "",
+  "filejson": "dati/azioni/json/gasplus.json",
+  "filecsv": "dati/azioni/csv/gasplus.csv",
+  "dataAggiornamento": "25-02-2023 08:36:09",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Gefran",
+  "dettaglio": "Gefran",
+  "sigla": "",
+  "filejson": "dati/azioni/json/gefran.json",
+  "filecsv": "dati/azioni/csv/gefran.csv",
+  "dataAggiornamento": "25-02-2023 08:36:09",
+  "abilitata": true,
+  "records": 22
+ },
+ {
+  "azienda": "Gel",
+  "dettaglio": "Gel",
+  "sigla": "",
+  "filejson": "dati/azioni/json/gel.json",
+  "filecsv": "dati/azioni/csv/gel.csv",
+  "dataAggiornamento": "25-02-2023 08:36:09",
+  "abilitata": true,
+  "records": 16
+ },
+ {
+  "azienda": "Generalfinance",
+  "dettaglio": "Generalfinance",
+  "sigla": "",
+  "filejson": "dati/azioni/json/generalfinance.json",
+  "filecsv": "dati/azioni/csv/generalfinance.csv",
+  "dataAggiornamento": "25-02-2023 08:36:09",
+  "abilitata": true,
+  "records": 21
+ },
+ {
+  "azienda": "Algowatt",
+  "dettaglio": "Algowatt",
+  "sigla": "ALW.MI",
+  "filejson": "dati/azioni/json/algowatt.json",
+  "filecsv": "dati/azioni/csv/algowatt.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 7
+ },
+ {
+  "azienda": "Generali Ass",
+  "dettaglio": "Generali Ass",
+  "sigla": "G.MI",
+  "filejson": "dati/azioni/json/generaliass.json",
+  "filecsv": "dati/azioni/csv/generaliass.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 170
+ },
+ {
+  "azienda": "Gentili Mosconi",
+  "dettaglio": "Gentili Mosconi",
+  "sigla": "",
+  "filejson": "dati/azioni/json/gentilimosconi.json",
+  "filecsv": "dati/azioni/csv/gentilimosconi.csv",
+  "dataAggiornamento": "25-02-2023 08:36:09",
+  "abilitata": true,
+  "records": 19
+ },
+ {
+  "azienda": "Geox",
+  "dettaglio": "Geox",
+  "sigla": "",
+  "filejson": "dati/azioni/json/geox.json",
+  "filecsv": "dati/azioni/csv/geox.csv",
+  "dataAggiornamento": "25-02-2023 08:36:09",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Gequity",
+  "dettaglio": "Gequity",
+  "sigla": "",
+  "filejson": "dati/azioni/json/gequity.json",
+  "filecsv": "dati/azioni/csv/gequity.csv",
+  "dataAggiornamento": "25-02-2023 08:36:09",
+  "abilitata": true,
+  "records": 11
+ },
+ {
+  "azienda": "Gibus",
+  "dettaglio": "Gibus",
+  "sigla": "",
+  "filejson": "dati/azioni/json/gibus.json",
+  "filecsv": "dati/azioni/csv/gibus.csv",
+  "dataAggiornamento": "25-02-2023 08:36:09",
+  "abilitata": true,
+  "records": 21
+ },
+ {
+  "azienda": "Giglio Group",
+  "dettaglio": "Giglio Group",
+  "sigla": "",
+  "filejson": "dati/azioni/json/gigliogroup.json",
+  "filecsv": "dati/azioni/csv/gigliogroup.csv",
+  "dataAggiornamento": "25-02-2023 08:36:09",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Giglio.Com",
+  "dettaglio": "Giglio.Com",
+  "sigla": "",
+  "filejson": "dati/azioni/json/giglio_com.json",
+  "filecsv": "dati/azioni/csv/giglio_com.csv",
+  "dataAggiornamento": "25-02-2023 08:36:09",
+  "abilitata": true,
+  "records": 10
+ },
+ {
+  "azienda": "Gilead Sciences",
+  "dettaglio": "Gilead Sciences",
+  "sigla": "",
+  "filejson": "dati/azioni/json/gileadsciences.json",
+  "filecsv": "dati/azioni/csv/gileadsciences.csv",
+  "dataAggiornamento": "23-02-2023 21:00:33",
+  "abilitata": true,
+  "records": 8
+ },
+ {
+  "azienda": "Gismondi 1754",
+  "dettaglio": "Gismondi 1754",
+  "sigla": "",
+  "filejson": "dati/azioni/json/gismondi1754.json",
+  "filecsv": "dati/azioni/csv/gismondi1754.csv",
+  "dataAggiornamento": "21-02-2023 21:00:30",
+  "abilitata": true,
+  "records": 16
+ },
+ {
+  "azienda": "Go Internet",
+  "dettaglio": "Go Internet",
+  "sigla": "",
+  "filejson": "dati/azioni/json/gointernet.json",
+  "filecsv": "dati/azioni/csv/gointernet.csv",
+  "dataAggiornamento": "25-02-2023 08:36:09",
+  "abilitata": true,
+  "records": 10
+ },
+ {
+  "azienda": "Alkemy",
+  "dettaglio": "Alkemy",
+  "sigla": "ALK.MI",
+  "filejson": "dati/azioni/json/alkemy.json",
+  "filecsv": "dati/azioni/csv/alkemy.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 216
+ },
+ {
+  "azienda": "Gpi",
+  "dettaglio": "Gpi",
+  "sigla": "",
+  "filejson": "dati/azioni/json/gpi.json",
+  "filecsv": "dati/azioni/csv/gpi.csv",
+  "dataAggiornamento": "25-02-2023 08:36:09",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Greenthesis",
+  "dettaglio": "Greenthesis",
+  "sigla": "",
+  "filejson": "dati/azioni/json/greenthesis.json",
+  "filecsv": "dati/azioni/csv/greenthesis.csv",
+  "dataAggiornamento": "25-02-2023 08:36:09",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Grifal",
+  "dettaglio": "Grifal",
+  "sigla": "",
+  "filejson": "dati/azioni/json/grifal.json",
+  "filecsv": "dati/azioni/csv/grifal.csv",
+  "dataAggiornamento": "25-02-2023 08:36:09",
+  "abilitata": true,
+  "records": 14
+ },
+ {
+  "azienda": "Growens",
+  "dettaglio": "Growens",
+  "sigla": "",
+  "filejson": "dati/azioni/json/growens.json",
+  "filecsv": "dati/azioni/csv/growens.csv",
+  "dataAggiornamento": "25-02-2023 08:36:09",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Gvs",
+  "dettaglio": "Gvs",
+  "sigla": "",
+  "filejson": "dati/azioni/json/gvs.json",
+  "filecsv": "dati/azioni/csv/gvs.csv",
+  "dataAggiornamento": "25-02-2023 08:36:09",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "H-Farm",
+  "dettaglio": "H-Farm",
+  "sigla": "FARM.MI",
+  "filejson": "dati/azioni/json/h_farm.json",
+  "filecsv": "dati/azioni/csv/h_farm.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 155
+ },
+ {
+  "azienda": "Health Italia",
+  "dettaglio": "Health Italia",
+  "sigla": "",
+  "filejson": "dati/azioni/json/healthitalia.json",
+  "filecsv": "dati/azioni/csv/healthitalia.csv",
+  "dataAggiornamento": "25-02-2023 08:36:10",
+  "abilitata": true,
+  "records": 22
+ },
+ {
+  "azienda": "Heidelberg Cement",
+  "dettaglio": "Heidelberg Cement",
+  "sigla": "",
+  "filejson": "dati/azioni/json/heidelbergcement.json",
+  "filecsv": "dati/azioni/csv/heidelbergcement.csv",
+  "dataAggiornamento": "25-02-2023 08:36:10",
+  "abilitata": true,
+  "records": 20
+ },
+ {
+  "azienda": "Henkel Vz",
+  "dettaglio": "Henkel Vz",
+  "sigla": "",
+  "filejson": "dati/azioni/json/henkelvz.json",
+  "filecsv": "dati/azioni/csv/henkelvz.csv",
+  "dataAggiornamento": "25-02-2023 08:36:10",
+  "abilitata": true,
+  "records": 6
+ },
+ {
+  "azienda": "Hera",
+  "dettaglio": "Hera",
+  "sigla": "",
+  "filejson": "dati/azioni/json/hera.json",
+  "filecsv": "dati/azioni/csv/hera.csv",
+  "dataAggiornamento": "25-02-2023 08:36:10",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Allcore",
+  "dettaglio": "Allcore",
+  "sigla": "CORE.MI",
+  "filejson": "dati/azioni/json/allcore.json",
+  "filecsv": "dati/azioni/csv/allcore.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 7
+ },
+ {
+  "azienda": "High Quality Food",
+  "dettaglio": "High Quality Food",
+  "sigla": "",
+  "filejson": "dati/azioni/json/highqualityfood.json",
+  "filecsv": "dati/azioni/csv/highqualityfood.csv",
+  "dataAggiornamento": "25-02-2023 08:36:10",
+  "abilitata": true,
+  "records": 9
+ },
+ {
+  "azienda": "I Grandi Viaggi",
+  "dettaglio": "I Grandi Viaggi",
+  "sigla": "",
+  "filejson": "dati/azioni/json/igrandiviaggi.json",
+  "filecsv": "dati/azioni/csv/igrandiviaggi.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 19
+ },
+ {
+  "azienda": "Iberdrola",
+  "dettaglio": "Iberdrola",
+  "sigla": "",
+  "filejson": "dati/azioni/json/iberdrola.json",
+  "filecsv": "dati/azioni/csv/iberdrola.csv",
+  "dataAggiornamento": "23-02-2023 21:00:36",
+  "abilitata": true,
+  "records": 21
+ },
+ {
+  "azienda": "Idntt",
+  "dettaglio": "Idntt",
+  "sigla": "",
+  "filejson": "dati/azioni/json/idntt.json",
+  "filecsv": "dati/azioni/csv/idntt.csv",
+  "dataAggiornamento": "23-02-2023 21:00:36",
+  "abilitata": true,
+  "records": 7
+ },
+ {
+  "azienda": "Iervolino & Lady Bacardi Entertainment",
+  "dettaglio": "Iervolino & Lady Bacardi Entertainment",
+  "sigla": "",
+  "filejson": "dati/azioni/json/iervolino_ladybacardientertainment.json",
+  "filecsv": "dati/azioni/csv/iervolino_ladybacardientertainment.csv",
+  "dataAggiornamento": "23-02-2023 21:00:36",
+  "abilitata": true,
+  "records": 17
+ },
+ {
+  "azienda": "Igd - Siiq",
+  "dettaglio": "Igd - Siiq",
+  "sigla": "",
+  "filejson": "dati/azioni/json/igd_siiq.json",
+  "filecsv": "dati/azioni/csv/igd_siiq.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 8
+ },
+ {
+  "azienda": "Il Sole 24 Ore",
+  "dettaglio": "Il Sole 24 Ore",
+  "sigla": "",
+  "filejson": "dati/azioni/json/ilsole24ore.json",
+  "filecsv": "dati/azioni/csv/ilsole24ore.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Illa",
+  "dettaglio": "Illa",
+  "sigla": "",
+  "filejson": "dati/azioni/json/illa.json",
+  "filecsv": "dati/azioni/csv/illa.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 13
+ },
+ {
+  "azienda": "Illimity Bank",
+  "dettaglio": "Illimity Bank",
+  "sigla": "",
+  "filejson": "dati/azioni/json/illimitybank.json",
+  "filecsv": "dati/azioni/csv/illimitybank.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Ilpra",
+  "dettaglio": "Ilpra",
+  "sigla": "",
+  "filejson": "dati/azioni/json/ilpra.json",
+  "filecsv": "dati/azioni/csv/ilpra.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 22
+ },
+ {
+  "azienda": "Allianz",
+  "dettaglio": "Allianz",
+  "sigla": "ALV.DE",
+  "filejson": "dati/azioni/json/allianz.json",
+  "filecsv": "dati/azioni/csv/allianz.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 151
+ },
+ {
+  "azienda": "Immsi",
+  "dettaglio": "Immsi",
+  "sigla": "",
+  "filejson": "dati/azioni/json/immsi.json",
+  "filecsv": "dati/azioni/csv/immsi.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Impianti",
+  "dettaglio": "Impianti",
+  "sigla": "",
+  "filejson": "dati/azioni/json/impianti.json",
+  "filecsv": "dati/azioni/csv/impianti.csv",
+  "dataAggiornamento": "23-02-2023 21:00:36",
+  "abilitata": true,
+  "records": 5
+ },
+ {
+  "azienda": "Imprendiroma",
+  "dettaglio": "Imprendiroma",
+  "sigla": "",
+  "filejson": "dati/azioni/json/imprendiroma.json",
+  "filecsv": "dati/azioni/csv/imprendiroma.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 8
+ },
+ {
+  "azienda": "Imvest",
+  "dettaglio": "Imvest",
+  "sigla": "",
+  "filejson": "dati/azioni/json/imvest.json",
+  "filecsv": "dati/azioni/csv/imvest.csv",
+  "dataAggiornamento": "23-02-2023 21:00:36",
+  "abilitata": true,
+  "records": 22
+ },
+ {
+  "azienda": "Indel B",
+  "dettaglio": "Indel B",
+  "sigla": "",
+  "filejson": "dati/azioni/json/indelb.json",
+  "filecsv": "dati/azioni/csv/indelb.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Inditex",
+  "dettaglio": "Inditex",
+  "sigla": "",
+  "filejson": "dati/azioni/json/inditex.json",
+  "filecsv": "dati/azioni/csv/inditex.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 9
+ },
+ {
+  "azienda": "Industrie Chimiche Forestali",
+  "dettaglio": "Industrie Chimiche Forestali",
+  "sigla": "",
+  "filejson": "dati/azioni/json/industriechimicheforestali.json",
+  "filecsv": "dati/azioni/csv/industriechimicheforestali.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 20
+ },
+ {
+  "azienda": "Industrie De Nora",
+  "dettaglio": "Industrie De Nora",
+  "sigla": "",
+  "filejson": "dati/azioni/json/industriedenora.json",
+  "filecsv": "dati/azioni/csv/industriedenora.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Infineon Technologies",
+  "dettaglio": "Infineon Technologies",
+  "sigla": "",
+  "filejson": "dati/azioni/json/infineontechnologies.json",
+  "filecsv": "dati/azioni/csv/infineontechnologies.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Ing Groep",
+  "dettaglio": "Ing Groep",
+  "sigla": "",
+  "filejson": "dati/azioni/json/inggroep.json",
+  "filecsv": "dati/azioni/csv/inggroep.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 14
+ },
+ {
+  "azienda": "Almawave",
+  "dettaglio": "Almawave",
+  "sigla": "AIW.MI",
+  "filejson": "dati/azioni/json/almawave.json",
+  "filecsv": "dati/azioni/csv/almawave.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 171
+ },
+ {
+  "azienda": "Iniziative Bresciane",
+  "dettaglio": "Iniziative Bresciane",
+  "sigla": "",
+  "filejson": "dati/azioni/json/iniziativebresciane.json",
+  "filecsv": "dati/azioni/csv/iniziativebresciane.csv",
+  "dataAggiornamento": "20-02-2023 21:41:43",
+  "abilitata": true,
+  "records": 3
+ },
+ {
+  "azienda": "Innovatec",
+  "dettaglio": "Innovatec",
+  "sigla": "",
+  "filejson": "dati/azioni/json/innovatec.json",
+  "filecsv": "dati/azioni/csv/innovatec.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Intel",
+  "dettaglio": "Intel",
+  "sigla": "",
+  "filejson": "dati/azioni/json/intel.json",
+  "filecsv": "dati/azioni/csv/intel.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Intercos",
+  "dettaglio": "Intercos",
+  "sigla": "",
+  "filejson": "dati/azioni/json/intercos.json",
+  "filecsv": "dati/azioni/csv/intercos.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Intermonte Partners Sim",
+  "dettaglio": "Intermonte Partners Sim",
+  "sigla": "",
+  "filejson": "dati/azioni/json/intermontepartnerssim.json",
+  "filecsv": "dati/azioni/csv/intermontepartnerssim.csv",
+  "dataAggiornamento": "23-02-2023 21:00:36",
+  "abilitata": true,
+  "records": 12
+ },
+ {
+  "azienda": "International Care Company",
+  "dettaglio": "International Care Company",
+  "sigla": "",
+  "filejson": "dati/azioni/json/internationalcarecompany.json",
+  "filecsv": "dati/azioni/csv/internationalcarecompany.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 5
+ },
+ {
+  "azienda": "Interpump Group",
+  "dettaglio": "Interpump Group",
+  "sigla": "",
+  "filejson": "dati/azioni/json/interpumpgroup.json",
+  "filecsv": "dati/azioni/csv/interpumpgroup.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Intesa Sanpaolo",
+  "dettaglio": "Intesa Sanpaolo",
+  "sigla": "ISP.MI",
+  "filejson": "dati/azioni/json/intesasanpaolo.json",
+  "filecsv": "dati/azioni/csv/intesasanpaolo.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 199
+ },
+ {
+  "azienda": "Intred",
+  "dettaglio": "Intred",
+  "sigla": "",
+  "filejson": "dati/azioni/json/intred.json",
+  "filecsv": "dati/azioni/csv/intred.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 13
+ },
+ {
+  "azienda": "Inwit",
+  "dettaglio": "Inwit",
+  "sigla": "",
+  "filejson": "dati/azioni/json/inwit.json",
+  "filecsv": "dati/azioni/csv/inwit.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 14
+ },
+ {
+  "azienda": "Alphabet Classe A",
+  "dettaglio": "Alphabet Classe A",
+  "sigla": "GOOGL.MI",
+  "filejson": "dati/azioni/json/alphabetclassea.json",
+  "filecsv": "dati/azioni/csv/alphabetclassea.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 204
+ },
+ {
+  "azienda": "Irce",
+  "dettaglio": "Irce",
+  "sigla": "",
+  "filejson": "dati/azioni/json/irce.json",
+  "filecsv": "dati/azioni/csv/irce.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 13
+ },
+ {
+  "azienda": "Iren",
+  "dettaglio": "Iren",
+  "sigla": "",
+  "filejson": "dati/azioni/json/iren.json",
+  "filecsv": "dati/azioni/csv/iren.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Iscc Fintech",
+  "dettaglio": "Iscc Fintech",
+  "sigla": "",
+  "filejson": "dati/azioni/json/isccfintech.json",
+  "filecsv": "dati/azioni/csv/isccfintech.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "It Way",
+  "dettaglio": "It Way",
+  "sigla": "",
+  "filejson": "dati/azioni/json/itway.json",
+  "filecsv": "dati/azioni/csv/itway.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 14
+ },
+ {
+  "azienda": "Italgas",
+  "dettaglio": "Italgas",
+  "sigla": "",
+  "filejson": "dati/azioni/json/italgas.json",
+  "filecsv": "dati/azioni/csv/italgas.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Italia Independent",
+  "dettaglio": "Italia Independent",
+  "sigla": "",
+  "filejson": "dati/azioni/json/italiaindependent.json",
+  "filecsv": "dati/azioni/csv/italiaindependent.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 7
+ },
+ {
+  "azienda": "Italian Exhibition Group",
+  "dettaglio": "Italian Exhibition Group",
+  "sigla": "",
+  "filejson": "dati/azioni/json/italianexhibitiongroup.json",
+  "filecsv": "dati/azioni/csv/italianexhibitiongroup.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 12
+ },
+ {
+  "azienda": "Italian Wine Brands",
+  "dettaglio": "Italian Wine Brands",
+  "sigla": "",
+  "filejson": "dati/azioni/json/italianwinebrands.json",
+  "filecsv": "dati/azioni/csv/italianwinebrands.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Italmobiliare",
+  "dettaglio": "Italmobiliare",
+  "sigla": "",
+  "filejson": "dati/azioni/json/italmobiliare.json",
+  "filecsv": "dati/azioni/csv/italmobiliare.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Iveco Group",
+  "dettaglio": "Iveco Group",
+  "sigla": "",
+  "filejson": "dati/azioni/json/ivecogroup.json",
+  "filecsv": "dati/azioni/csv/ivecogroup.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Alphabet Classe C",
+  "dettaglio": "Alphabet Classe C",
+  "sigla": "GOOGL.MI",
+  "filejson": "dati/azioni/json/alphabetclassec.json",
+  "filecsv": "dati/azioni/csv/alphabetclassec.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 204
+ },
+ {
+  "azienda": "Ivs Group",
+  "dettaglio": "Ivs Group",
+  "sigla": "",
+  "filejson": "dati/azioni/json/ivsgroup.json",
+  "filecsv": "dati/azioni/csv/ivsgroup.csv",
+  "dataAggiornamento": "25-02-2023 08:36:12",
+  "abilitata": true,
+  "records": 14
+ },
+ {
+  "azienda": "Jonix",
+  "dettaglio": "Jonix",
+  "sigla": "",
+  "filejson": "dati/azioni/json/jonix.json",
+  "filecsv": "dati/azioni/csv/jonix.csv",
+  "dataAggiornamento": "25-02-2023 08:36:13",
+  "abilitata": true,
+  "records": 22
+ },
+ {
+  "azienda": "Juventus Football Club",
+  "dettaglio": "Juventus Football Club",
+  "sigla": "",
+  "filejson": "dati/azioni/json/juventusfootballclub.json",
+  "filecsv": "dati/azioni/csv/juventusfootballclub.csv",
+  "dataAggiornamento": "25-02-2023 08:36:13",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "K+S",
+  "dettaglio": "K+S",
+  "sigla": "",
+  "filejson": "dati/azioni/json/k+s.json",
+  "filecsv": "dati/azioni/csv/k+s.csv",
+  "dataAggiornamento": "25-02-2023 08:36:14",
+  "abilitata": true,
+  "records": 4
+ },
+ {
+  "azienda": "Kering",
+  "dettaglio": "Kering",
+  "sigla": "",
+  "filejson": "dati/azioni/json/kering.json",
+  "filecsv": "dati/azioni/csv/kering.csv",
+  "dataAggiornamento": "25-02-2023 08:36:14",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Kme Group",
+  "dettaglio": "Kme Group",
+  "sigla": "",
+  "filejson": "dati/azioni/json/kmegroup.json",
+  "filecsv": "dati/azioni/csv/kmegroup.csv",
+  "dataAggiornamento": "25-02-2023 08:36:14",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Kme Group Rsp",
+  "dettaglio": "Kme Group Rsp",
+  "sigla": "",
+  "filejson": "dati/azioni/json/kmegrouprsp.json",
+  "filecsv": "dati/azioni/csv/kmegrouprsp.csv",
+  "dataAggiornamento": "25-02-2023 08:36:14",
+  "abilitata": true,
+  "records": 18
+ },
+ {
+  "azienda": "Kolinpharma",
+  "dettaglio": "Kolinpharma",
+  "sigla": "",
+  "filejson": "dati/azioni/json/kolinpharma.json",
+  "filecsv": "dati/azioni/csv/kolinpharma.csv",
+  "dataAggiornamento": "25-02-2023 08:36:14",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Labomar",
+  "dettaglio": "Labomar",
+  "sigla": "",
+  "filejson": "dati/azioni/json/labomar.json",
+  "filecsv": "dati/azioni/csv/labomar.csv",
+  "dataAggiornamento": "25-02-2023 08:36:16",
+  "abilitata": true,
+  "records": 21
+ },
+ {
+  "azienda": "Laboratorio Farmaceutico Erfo",
+  "dettaglio": "Laboratorio Farmaceutico Erfo",
+  "sigla": "",
+  "filejson": "dati/azioni/json/laboratoriofarmaceuticoerfo.json",
+  "filecsv": "dati/azioni/csv/laboratoriofarmaceuticoerfo.csv",
+  "dataAggiornamento": "25-02-2023 08:36:16",
+  "abilitata": true,
+  "records": 16
+ },
+ {
+  "azienda": "Altea Green Power",
+  "dettaglio": "Altea Green Power",
+  "sigla": "AGP.MI",
+  "filejson": "dati/azioni/json/alteagreenpower.json",
+  "filecsv": "dati/azioni/csv/alteagreenpower.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 209
+ },
+ {
+  "azienda": "Landi Renzo",
+  "dettaglio": "Landi Renzo",
+  "sigla": "",
+  "filejson": "dati/azioni/json/landirenzo.json",
+  "filecsv": "dati/azioni/csv/landirenzo.csv",
+  "dataAggiornamento": "25-02-2023 08:36:16",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Leonardo",
+  "dettaglio": "Leonardo",
+  "sigla": "",
+  "filejson": "dati/azioni/json/leonardo.json",
+  "filecsv": "dati/azioni/csv/leonardo.csv",
+  "dataAggiornamento": "25-02-2023 08:36:16",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Leone Film Group",
+  "dettaglio": "Leone Film Group",
+  "sigla": "",
+  "filejson": "dati/azioni/json/leonefilmgroup.json",
+  "filecsv": "dati/azioni/csv/leonefilmgroup.csv",
+  "dataAggiornamento": "25-02-2023 08:36:16",
+  "abilitata": true,
+  "records": 5
+ },
+ {
+  "azienda": "Lindbergh",
+  "dettaglio": "Lindbergh",
+  "sigla": "",
+  "filejson": "dati/azioni/json/lindbergh.json",
+  "filecsv": "dati/azioni/csv/lindbergh.csv",
+  "dataAggiornamento": "25-02-2023 08:36:16",
+  "abilitata": true,
+  "records": 8
+ },
+ {
+  "azienda": "Longino&Cardenal",
+  "dettaglio": "Longino&Cardenal",
+  "sigla": "",
+  "filejson": "dati/azioni/json/longino_cardenal.json",
+  "filecsv": "dati/azioni/csv/longino_cardenal.csv",
+  "dataAggiornamento": "23-02-2023 21:00:40",
+  "abilitata": true,
+  "records": 4
+ },
+ {
+  "azienda": "Lucisano Media Group",
+  "dettaglio": "Lucisano Media Group",
+  "sigla": "",
+  "filejson": "dati/azioni/json/lucisanomediagroup.json",
+  "filecsv": "dati/azioni/csv/lucisanomediagroup.csv",
+  "dataAggiornamento": "23-02-2023 21:00:40",
+  "abilitata": true,
+  "records": 3
+ },
+ {
+  "azienda": "Luve",
+  "dettaglio": "Luve",
+  "sigla": "",
+  "filejson": "dati/azioni/json/luve.json",
+  "filecsv": "dati/azioni/csv/luve.csv",
+  "dataAggiornamento": "25-02-2023 08:36:16",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Lventure Group",
+  "dettaglio": "Lventure Group",
+  "sigla": "",
+  "filejson": "dati/azioni/json/lventuregroup.json",
+  "filecsv": "dati/azioni/csv/lventuregroup.csv",
+  "dataAggiornamento": "25-02-2023 08:36:16",
+  "abilitata": true,
+  "records": 9
+ },
+ {
+  "azienda": "Lvmh",
+  "dettaglio": "Lvmh",
+  "sigla": "",
+  "filejson": "dati/azioni/json/lvmh.json",
+  "filecsv": "dati/azioni/csv/lvmh.csv",
+  "dataAggiornamento": "25-02-2023 08:36:16",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Lyft",
+  "dettaglio": "Lyft",
+  "sigla": "",
+  "filejson": "dati/azioni/json/lyft.json",
+  "filecsv": "dati/azioni/csv/lyft.csv",
+  "dataAggiornamento": "25-02-2023 08:36:16",
+  "abilitata": true,
+  "records": 5
+ },
+ {
+  "azienda": "Abitare In",
+  "dettaglio": "Abitare In",
+  "sigla": "ABT.MI",
+  "filejson": "dati/azioni/json/abitarein.json",
+  "filecsv": "dati/azioni/csv/abitarein.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 190
+ },
+ {
+  "azienda": "Amazon",
+  "dettaglio": "Amazon",
+  "sigla": "AMZN.MI",
+  "filejson": "dati/azioni/json/amazon.json",
+  "filecsv": "dati/azioni/csv/amazon.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 135
+ },
+ {
+  "azienda": "Magis",
+  "dettaglio": "Magis",
+  "sigla": "",
+  "filejson": "dati/azioni/json/magis.json",
+  "filecsv": "dati/azioni/csv/magis.csv",
+  "dataAggiornamento": "20-02-2023 21:41:48",
+  "abilitata": true,
+  "records": 5
+ },
+ {
+  "azienda": "Maire Tecnimont",
+  "dettaglio": "Maire Tecnimont",
+  "sigla": "",
+  "filejson": "dati/azioni/json/mairetecnimont.json",
+  "filecsv": "dati/azioni/csv/mairetecnimont.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Maps",
+  "dettaglio": "Maps",
+  "sigla": "",
+  "filejson": "dati/azioni/json/maps.json",
+  "filecsv": "dati/azioni/csv/maps.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 21
+ },
+ {
+  "azienda": "Marr",
+  "dettaglio": "Marr",
+  "sigla": "",
+  "filejson": "dati/azioni/json/marr.json",
+  "filecsv": "dati/azioni/csv/marr.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Marzocchi Pompe",
+  "dettaglio": "Marzocchi Pompe",
+  "sigla": "",
+  "filejson": "dati/azioni/json/marzocchipompe.json",
+  "filecsv": "dati/azioni/csv/marzocchipompe.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 6
+ },
+ {
+  "azienda": "Masi Agricola",
+  "dettaglio": "Masi Agricola",
+  "sigla": "",
+  "filejson": "dati/azioni/json/masiagricola.json",
+  "filecsv": "dati/azioni/csv/masiagricola.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 22
+ },
+ {
+  "azienda": "Matica Fintec",
+  "dettaglio": "Matica Fintec",
+  "sigla": "",
+  "filejson": "dati/azioni/json/maticafintec.json",
+  "filecsv": "dati/azioni/csv/maticafintec.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 21
+ },
+ {
+  "azienda": "Medica",
+  "dettaglio": "Medica",
+  "sigla": "",
+  "filejson": "dati/azioni/json/medica.json",
+  "filecsv": "dati/azioni/csv/medica.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 20
+ },
+ {
+  "azienda": "Mediobanca",
+  "dettaglio": "Mediobanca",
+  "sigla": "",
+  "filejson": "dati/azioni/json/mediobanca.json",
+  "filecsv": "dati/azioni/csv/mediobanca.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Meglioquesto",
+  "dettaglio": "Meglioquesto",
+  "sigla": "",
+  "filejson": "dati/azioni/json/meglioquesto.json",
+  "filecsv": "dati/azioni/csv/meglioquesto.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Ambromobiliare",
+  "dettaglio": "Ambromobiliare",
+  "sigla": "AMB.MI",
+  "filejson": "dati/azioni/json/ambromobiliare.json",
+  "filecsv": "dati/azioni/csv/ambromobiliare.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 90
+ },
+ {
+  "azienda": "Mercedes-Benz Group",
+  "dettaglio": "Mercedes-Benz Group",
+  "sigla": "",
+  "filejson": "dati/azioni/json/mercedes_benzgroup.json",
+  "filecsv": "dati/azioni/csv/mercedes_benzgroup.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 8
+ },
+ {
+  "azienda": "Merck",
+  "dettaglio": "Merck",
+  "sigla": "",
+  "filejson": "dati/azioni/json/merck.json",
+  "filecsv": "dati/azioni/csv/merck.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 10
+ },
+ {
+  "azienda": "Met.Extra Group",
+  "dettaglio": "Met.Extra Group",
+  "sigla": "",
+  "filejson": "dati/azioni/json/met_extragroup.json",
+  "filecsv": "dati/azioni/csv/met_extragroup.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 19
+ },
+ {
+  "azienda": "Meta Platforms",
+  "dettaglio": "Meta Platforms",
+  "sigla": "",
+  "filejson": "dati/azioni/json/metaplatforms.json",
+  "filecsv": "dati/azioni/csv/metaplatforms.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Mfe A",
+  "dettaglio": "Mfe A",
+  "sigla": "",
+  "filejson": "dati/azioni/json/mfea.json",
+  "filecsv": "dati/azioni/csv/mfea.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Mfe B",
+  "dettaglio": "Mfe B",
+  "sigla": "",
+  "filejson": "dati/azioni/json/mfeb.json",
+  "filecsv": "dati/azioni/csv/mfeb.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 22
+ },
+ {
+  "azienda": "Micron Technology",
+  "dettaglio": "Micron Technology",
+  "sigla": "",
+  "filejson": "dati/azioni/json/microntechnology.json",
+  "filecsv": "dati/azioni/csv/microntechnology.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Microsoft Corp",
+  "dettaglio": "Microsoft Corp",
+  "sigla": "",
+  "filejson": "dati/azioni/json/microsoftcorp.json",
+  "filecsv": "dati/azioni/csv/microsoftcorp.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Mit Sim",
+  "dettaglio": "Mit Sim",
+  "sigla": "",
+  "filejson": "dati/azioni/json/mitsim.json",
+  "filecsv": "dati/azioni/csv/mitsim.csv",
+  "dataAggiornamento": "22-02-2023 21:00:47",
+  "abilitata": true,
+  "records": 2
+ },
+ {
+  "azienda": "Mittel",
+  "dettaglio": "Mittel",
+  "sigla": "",
+  "filejson": "dati/azioni/json/mittel.json",
+  "filecsv": "dati/azioni/csv/mittel.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 16
+ },
+ {
+  "azienda": "Amgen",
+  "dettaglio": "Amgen",
+  "sigla": "AMGN",
+  "filejson": "dati/azioni/json/amgen.json",
+  "filecsv": "dati/azioni/csv/amgen.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 160
+ },
+ {
+  "azienda": "Moderna",
+  "dettaglio": "Moderna",
+  "sigla": "",
+  "filejson": "dati/azioni/json/moderna.json",
+  "filecsv": "dati/azioni/csv/moderna.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 8
+ },
+ {
+  "azienda": "Moncler",
+  "dettaglio": "Moncler",
+  "sigla": "",
+  "filejson": "dati/azioni/json/moncler.json",
+  "filecsv": "dati/azioni/csv/moncler.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Mondadori Editore",
+  "dettaglio": "Mondadori Editore",
+  "sigla": "",
+  "filejson": "dati/azioni/json/mondadorieditore.json",
+  "filecsv": "dati/azioni/csv/mondadorieditore.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Mondo Tv",
+  "dettaglio": "Mondo Tv",
+  "sigla": "",
+  "filejson": "dati/azioni/json/mondotv.json",
+  "filecsv": "dati/azioni/csv/mondotv.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Mondo Tv France",
+  "dettaglio": "Mondo Tv France",
+  "sigla": "",
+  "filejson": "dati/azioni/json/mondotvfrance.json",
+  "filecsv": "dati/azioni/csv/mondotvfrance.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 13
+ },
+ {
+  "azienda": "Mondo Tv Suisse",
+  "dettaglio": "Mondo Tv Suisse",
+  "sigla": "",
+  "filejson": "dati/azioni/json/mondotvsuisse.json",
+  "filecsv": "dati/azioni/csv/mondotvsuisse.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 5
+ },
+ {
+  "azienda": "Monnalisa",
+  "dettaglio": "Monnalisa",
+  "sigla": "",
+  "filejson": "dati/azioni/json/monnalisa.json",
+  "filecsv": "dati/azioni/csv/monnalisa.csv",
+  "dataAggiornamento": "23-02-2023 21:00:41",
+  "abilitata": true,
+  "records": 4
+ },
+ {
+  "azienda": "Monrif",
+  "dettaglio": "Monrif",
+  "sigla": "",
+  "filejson": "dati/azioni/json/monrif.json",
+  "filecsv": "dati/azioni/csv/monrif.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 11
+ },
+ {
+  "azienda": "Munich Re",
+  "dettaglio": "Munich Re",
+  "sigla": "",
+  "filejson": "dati/azioni/json/munichre.json",
+  "filecsv": "dati/azioni/csv/munichre.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 7
+ },
+ {
+  "azienda": "Mutuionline",
+  "dettaglio": "Mutuionline",
+  "sigla": "",
+  "filejson": "dati/azioni/json/mutuionline.json",
+  "filecsv": "dati/azioni/csv/mutuionline.csv",
+  "dataAggiornamento": "25-02-2023 08:36:17",
+  "abilitata": true,
+  "records": 14
+ },
+ {
+  "azienda": "Amplifon",
+  "dettaglio": "Amplifon",
+  "sigla": "AMP.MI",
+  "filejson": "dati/azioni/json/amplifon.json",
+  "filecsv": "dati/azioni/csv/amplifon.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 220
+ },
+ {
+  "azienda": "Nb Aurora",
+  "dettaglio": "Nb Aurora",
+  "sigla": "",
+  "filejson": "dati/azioni/json/nbaurora.json",
+  "filecsv": "dati/azioni/csv/nbaurora.csv",
+  "dataAggiornamento": "22-02-2023 21:00:49",
+  "abilitata": true,
+  "records": 2
+ },
+ {
+  "azienda": "Neodecortech",
+  "dettaglio": "Neodecortech",
+  "sigla": "",
+  "filejson": "dati/azioni/json/neodecortech.json",
+  "filecsv": "dati/azioni/csv/neodecortech.csv",
+  "dataAggiornamento": "25-02-2023 08:36:18",
+  "abilitata": true,
+  "records": 21
+ },
+ {
+  "azienda": "Neosperience",
+  "dettaglio": "Neosperience",
+  "sigla": "",
+  "filejson": "dati/azioni/json/neosperience.json",
+  "filecsv": "dati/azioni/csv/neosperience.csv",
+  "dataAggiornamento": "25-02-2023 08:36:18",
+  "abilitata": true,
+  "records": 20
+ },
+ {
+  "azienda": "Net Insurance",
+  "dettaglio": "Net Insurance",
+  "sigla": "",
+  "filejson": "dati/azioni/json/netinsurance.json",
+  "filecsv": "dati/azioni/csv/netinsurance.csv",
+  "dataAggiornamento": "25-02-2023 08:36:18",
+  "abilitata": true,
+  "records": 12
+ },
+ {
+  "azienda": "Netflix",
+  "dettaglio": "Netflix",
+  "sigla": "",
+  "filejson": "dati/azioni/json/netflix.json",
+  "filecsv": "dati/azioni/csv/netflix.csv",
+  "dataAggiornamento": "25-02-2023 08:36:18",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Netweek",
+  "dettaglio": "Netweek",
+  "sigla": "",
+  "filejson": "dati/azioni/json/netweek.json",
+  "filecsv": "dati/azioni/csv/netweek.csv",
+  "dataAggiornamento": "25-02-2023 08:36:18",
+  "abilitata": true,
+  "records": 21
+ },
+ {
+  "azienda": "Neurosoft",
+  "dettaglio": "Neurosoft",
+  "sigla": "",
+  "filejson": "dati/azioni/json/neurosoft.json",
+  "filecsv": "dati/azioni/csv/neurosoft.csv",
+  "dataAggiornamento": "25-02-2023 08:36:18",
+  "abilitata": true,
+  "records": 4
+ },
+ {
+  "azienda": "Newlat Food",
+  "dettaglio": "Newlat Food",
+  "sigla": "",
+  "filejson": "dati/azioni/json/newlatfood.json",
+  "filecsv": "dati/azioni/csv/newlatfood.csv",
+  "dataAggiornamento": "25-02-2023 08:36:18",
+  "abilitata": true,
+  "records": 21
+ },
+ {
+  "azienda": "Nexi",
+  "dettaglio": "Nexi",
+  "sigla": "",
+  "filejson": "dati/azioni/json/nexi.json",
+  "filecsv": "dati/azioni/csv/nexi.csv",
+  "dataAggiornamento": "25-02-2023 08:36:18",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Next Re",
+  "dettaglio": "Next Re",
+  "sigla": "",
+  "filejson": "dati/azioni/json/nextre.json",
+  "filecsv": "dati/azioni/csv/nextre.csv",
+  "dataAggiornamento": "25-02-2023 08:36:18",
+  "abilitata": true,
+  "records": 21
+ },
+ {
+  "azienda": "Anheuser-Busch",
+  "dettaglio": "Anheuser-Busch",
+  "sigla": "ABI.MI",
+  "filejson": "dati/azioni/json/anheuser_busch.json",
+  "filecsv": "dati/azioni/csv/anheuser_busch.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 70
+ },
+ {
+  "azienda": "Nice Footwear",
+  "dettaglio": "Nice Footwear",
+  "sigla": "",
+  "filejson": "dati/azioni/json/nicefootwear.json",
+  "filecsv": "dati/azioni/csv/nicefootwear.csv",
+  "dataAggiornamento": "23-02-2023 21:00:43",
+  "abilitata": true,
+  "records": 8
+ },
+ {
+  "azienda": "Nokia Corporation",
+  "dettaglio": "Nokia Corporation",
+  "sigla": "",
+  "filejson": "dati/azioni/json/nokiacorporation.json",
+  "filecsv": "dati/azioni/csv/nokiacorporation.csv",
+  "dataAggiornamento": "25-02-2023 08:36:18",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Notorious Pictures",
+  "dettaglio": "Notorious Pictures",
+  "sigla": "",
+  "filejson": "dati/azioni/json/notoriouspictures.json",
+  "filecsv": "dati/azioni/csv/notoriouspictures.csv",
+  "dataAggiornamento": "25-02-2023 08:36:18",
+  "abilitata": true,
+  "records": 3
+ },
+ {
+  "azienda": "Nusco",
+  "dettaglio": "Nusco",
+  "sigla": "",
+  "filejson": "dati/azioni/json/nusco.json",
+  "filecsv": "dati/azioni/csv/nusco.csv",
+  "dataAggiornamento": "25-02-2023 08:36:18",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Nvidia Corp",
+  "dettaglio": "Nvidia Corp",
+  "sigla": "",
+  "filejson": "dati/azioni/json/nvidiacorp.json",
+  "filecsv": "dati/azioni/csv/nvidiacorp.csv",
+  "dataAggiornamento": "25-02-2023 08:36:18",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Nvp",
+  "dettaglio": "Nvp",
+  "sigla": "",
+  "filejson": "dati/azioni/json/nvp.json",
+  "filecsv": "dati/azioni/csv/nvp.csv",
+  "dataAggiornamento": "23-02-2023 21:00:43",
+  "abilitata": true,
+  "records": 8
+ },
+ {
+  "azienda": "Officina Stellare",
+  "dettaglio": "Officina Stellare",
+  "sigla": "",
+  "filejson": "dati/azioni/json/officinastellare.json",
+  "filecsv": "dati/azioni/csv/officinastellare.csv",
+  "dataAggiornamento": "25-02-2023 08:36:20",
+  "abilitata": true,
+  "records": 6
+ },
+ {
+  "azienda": "Omer",
+  "dettaglio": "Omer",
+  "sigla": "",
+  "filejson": "dati/azioni/json/omer.json",
+  "filecsv": "dati/azioni/csv/omer.csv",
+  "dataAggiornamento": "25-02-2023 08:36:20",
+  "abilitata": true,
+  "records": 22
+ },
+ {
+  "azienda": "Openjobmetis",
+  "dettaglio": "Openjobmetis",
+  "sigla": "",
+  "filejson": "dati/azioni/json/openjobmetis.json",
+  "filecsv": "dati/azioni/csv/openjobmetis.csv",
+  "dataAggiornamento": "25-02-2023 08:36:20",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Orange",
+  "dettaglio": "Orange",
+  "sigla": "",
+  "filejson": "dati/azioni/json/orange.json",
+  "filecsv": "dati/azioni/csv/orange.csv",
+  "dataAggiornamento": "25-02-2023 08:36:20",
+  "abilitata": true,
+  "records": 21
+ },
+ {
+  "azienda": "Anima Holding",
+  "dettaglio": "Anima Holding",
+  "sigla": "ANIM.MI",
+  "filejson": "dati/azioni/json/animaholding.json",
+  "filecsv": "dati/azioni/csv/animaholding.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 210
+ },
+ {
+  "azienda": "Orsero",
+  "dettaglio": "Orsero",
+  "sigla": "",
+  "filejson": "dati/azioni/json/orsero.json",
+  "filecsv": "dati/azioni/csv/orsero.csv",
+  "dataAggiornamento": "25-02-2023 08:36:20",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Osai Automation System",
+  "dettaglio": "Osai Automation System",
+  "sigla": "",
+  "filejson": "dati/azioni/json/osaiautomationsystem.json",
+  "filecsv": "dati/azioni/csv/osaiautomationsystem.csv",
+  "dataAggiornamento": "25-02-2023 08:36:20",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Ovs",
+  "dettaglio": "Ovs",
+  "sigla": "",
+  "filejson": "dati/azioni/json/ovs.json",
+  "filecsv": "dati/azioni/csv/ovs.csv",
+  "dataAggiornamento": "25-02-2023 08:36:20",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Pattern",
+  "dettaglio": "Pattern",
+  "sigla": "",
+  "filejson": "dati/azioni/json/pattern.json",
+  "filecsv": "dati/azioni/csv/pattern.csv",
+  "dataAggiornamento": "25-02-2023 08:36:22",
+  "abilitata": true,
+  "records": 19
+ },
+ {
+  "azienda": "Pharmanutra",
+  "dettaglio": "Pharmanutra",
+  "sigla": "",
+  "filejson": "dati/azioni/json/pharmanutra.json",
+  "filecsv": "dati/azioni/csv/pharmanutra.csv",
+  "dataAggiornamento": "25-02-2023 08:36:22",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Philips",
+  "dettaglio": "Philips",
+  "sigla": "",
+  "filejson": "dati/azioni/json/philips.json",
+  "filecsv": "dati/azioni/csv/philips.csv",
+  "dataAggiornamento": "25-02-2023 08:36:22",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Philogen",
+  "dettaglio": "Philogen",
+  "sigla": "",
+  "filejson": "dati/azioni/json/philogen.json",
+  "filecsv": "dati/azioni/csv/philogen.csv",
+  "dataAggiornamento": "25-02-2023 08:36:22",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Piaggio & C",
+  "dettaglio": "Piaggio & C",
+  "sigla": "",
+  "filejson": "dati/azioni/json/piaggio_c.json",
+  "filecsv": "dati/azioni/csv/piaggio_c.csv",
+  "dataAggiornamento": "25-02-2023 08:36:22",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Pierrel",
+  "dettaglio": "Pierrel",
+  "sigla": "",
+  "filejson": "dati/azioni/json/pierrel.json",
+  "filecsv": "dati/azioni/csv/pierrel.csv",
+  "dataAggiornamento": "25-02-2023 08:36:22",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Pininfarina",
+  "dettaglio": "Pininfarina",
+  "sigla": "",
+  "filejson": "dati/azioni/json/pininfarina.json",
+  "filecsv": "dati/azioni/csv/pininfarina.csv",
+  "dataAggiornamento": "25-02-2023 08:36:22",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Antares Vision",
+  "dettaglio": "Antares Vision",
+  "sigla": "AV.MI",
+  "filejson": "dati/azioni/json/antaresvision.json",
+  "filecsv": "dati/azioni/csv/antaresvision.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 215
+ },
+ {
+  "azienda": "Piovan",
+  "dettaglio": "Piovan",
+  "sigla": "",
+  "filejson": "dati/azioni/json/piovan.json",
+  "filecsv": "dati/azioni/csv/piovan.csv",
+  "dataAggiornamento": "25-02-2023 08:36:22",
+  "abilitata": true,
+  "records": 22
+ },
+ {
+  "azienda": "Piquadro",
+  "dettaglio": "Piquadro",
+  "sigla": "",
+  "filejson": "dati/azioni/json/piquadro.json",
+  "filecsv": "dati/azioni/csv/piquadro.csv",
+  "dataAggiornamento": "25-02-2023 08:36:22",
+  "abilitata": true,
+  "records": 19
+ },
+ {
+  "azienda": "Pirelli & C",
+  "dettaglio": "Pirelli & C",
+  "sigla": "",
+  "filejson": "dati/azioni/json/pirelli_c.json",
+  "filecsv": "dati/azioni/csv/pirelli_c.csv",
+  "dataAggiornamento": "25-02-2023 08:36:22",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Planetel",
+  "dettaglio": "Planetel",
+  "sigla": "",
+  "filejson": "dati/azioni/json/planetel.json",
+  "filecsv": "dati/azioni/csv/planetel.csv",
+  "dataAggiornamento": "20-02-2023 21:41:52",
+  "abilitata": true,
+  "records": 2
+ },
+ {
+  "azienda": "Plc",
+  "dettaglio": "Plc",
+  "sigla": "",
+  "filejson": "dati/azioni/json/plc.json",
+  "filecsv": "dati/azioni/csv/plc.csv",
+  "dataAggiornamento": "25-02-2023 08:36:22",
+  "abilitata": true,
+  "records": 20
+ },
+ {
+  "azienda": "Poligrafici Printing",
+  "dettaglio": "Poligrafici Printing",
+  "sigla": "",
+  "filejson": "dati/azioni/json/poligraficiprinting.json",
+  "filecsv": "dati/azioni/csv/poligraficiprinting.csv",
+  "dataAggiornamento": "20-02-2023 21:41:52",
+  "abilitata": true,
+  "records": 2
+ },
+ {
+  "azienda": "Portale Sardegna",
+  "dettaglio": "Portale Sardegna",
+  "sigla": "",
+  "filejson": "dati/azioni/json/portalesardegna.json",
+  "filecsv": "dati/azioni/csv/portalesardegna.csv",
+  "dataAggiornamento": "25-02-2023 08:36:22",
+  "abilitata": true,
+  "records": 4
+ },
+ {
+  "azienda": "Portobello",
+  "dettaglio": "Portobello",
+  "sigla": "",
+  "filejson": "dati/azioni/json/portobello.json",
+  "filecsv": "dati/azioni/csv/portobello.csv",
+  "dataAggiornamento": "25-02-2023 08:36:22",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Poste Italiane",
+  "dettaglio": "Poste Italiane",
+  "sigla": "",
+  "filejson": "dati/azioni/json/posteitaliane.json",
+  "filecsv": "dati/azioni/csv/posteitaliane.csv",
+  "dataAggiornamento": "25-02-2023 08:36:22",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Powersoft",
+  "dettaglio": "Powersoft",
+  "sigla": "",
+  "filejson": "dati/azioni/json/powersoft.json",
+  "filecsv": "dati/azioni/csv/powersoft.csv",
+  "dataAggiornamento": "25-02-2023 08:36:22",
+  "abilitata": true,
+  "records": 8
+ },
+ {
+  "azienda": "Apple",
+  "dettaglio": "Apple",
+  "sigla": "AAPL.MI",
+  "filejson": "dati/azioni/json/apple.json",
+  "filecsv": "dati/azioni/csv/apple.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 185
+ },
+ {
+  "azienda": "Pozzi Milano",
+  "dettaglio": "Pozzi Milano",
+  "sigla": "",
+  "filejson": "dati/azioni/json/pozzimilano.json",
+  "filecsv": "dati/azioni/csv/pozzimilano.csv",
+  "dataAggiornamento": "25-02-2023 08:36:22",
+  "abilitata": true,
+  "records": 21
+ },
+ {
+  "azienda": "Prima Industrie",
+  "dettaglio": "Prima Industrie",
+  "sigla": "",
+  "filejson": "dati/azioni/json/primaindustrie.json",
+  "filecsv": "dati/azioni/csv/primaindustrie.csv",
+  "dataAggiornamento": "25-02-2023 08:36:22",
+  "abilitata": true,
+  "records": 7
+ },
+ {
+  "azienda": "Prismi",
+  "dettaglio": "Prismi",
+  "sigla": "PRM.MI",
+  "filejson": "dati/azioni/json/prismi.json",
+  "filecsv": "dati/azioni/csv/prismi.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 208
+ },
+ {
+  "azienda": "Promotica",
+  "dettaglio": "Promotica",
+  "sigla": "",
+  "filejson": "dati/azioni/json/promotica.json",
+  "filecsv": "dati/azioni/csv/promotica.csv",
+  "dataAggiornamento": "25-02-2023 08:36:22",
+  "abilitata": true,
+  "records": 7
+ },
+ {
+  "azienda": "Prosiebensat1 Media",
+  "dettaglio": "Prosiebensat1 Media",
+  "sigla": "",
+  "filejson": "dati/azioni/json/prosiebensat1media.json",
+  "filecsv": "dati/azioni/csv/prosiebensat1media.csv",
+  "dataAggiornamento": "23-02-2023 21:00:46",
+  "abilitata": true,
+  "records": 3
+ },
+ {
+  "azienda": "Prysmian",
+  "dettaglio": "Prysmian",
+  "sigla": "",
+  "filejson": "dati/azioni/json/prysmian.json",
+  "filecsv": "dati/azioni/csv/prysmian.csv",
+  "dataAggiornamento": "25-02-2023 08:36:22",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Puma",
+  "dettaglio": "Puma",
+  "sigla": "",
+  "filejson": "dati/azioni/json/puma.json",
+  "filecsv": "dati/azioni/csv/puma.csv",
+  "dataAggiornamento": "25-02-2023 08:36:22",
+  "abilitata": true,
+  "records": 6
+ },
+ {
+  "azienda": "Racing Force",
+  "dettaglio": "Racing Force",
+  "sigla": "",
+  "filejson": "dati/azioni/json/racingforce.json",
+  "filecsv": "dati/azioni/csv/racingforce.csv",
+  "dataAggiornamento": "25-02-2023 08:36:24",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Radici",
+  "dettaglio": "Radici",
+  "sigla": "",
+  "filejson": "dati/azioni/json/radici.json",
+  "filecsv": "dati/azioni/csv/radici.csv",
+  "dataAggiornamento": "25-02-2023 08:36:24",
+  "abilitata": true,
+  "records": 7
+ },
+ {
+  "azienda": "Rai Way",
+  "dettaglio": "Rai Way",
+  "sigla": "",
+  "filejson": "dati/azioni/json/raiway.json",
+  "filecsv": "dati/azioni/csv/raiway.csv",
+  "dataAggiornamento": "25-02-2023 08:36:24",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Aquafil",
+  "dettaglio": "Aquafil",
+  "sigla": "ECNL.MI",
+  "filejson": "dati/azioni/json/aquafil.json",
+  "filecsv": "dati/azioni/csv/aquafil.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 229
+ },
+ {
+  "azienda": "Ratti",
+  "dettaglio": "Ratti",
+  "sigla": "",
+  "filejson": "dati/azioni/json/ratti.json",
+  "filecsv": "dati/azioni/csv/ratti.csv",
+  "dataAggiornamento": "25-02-2023 08:36:24",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Rcs Mediagroup",
+  "dettaglio": "Rcs Mediagroup",
+  "sigla": "",
+  "filejson": "dati/azioni/json/rcsmediagroup.json",
+  "filecsv": "dati/azioni/csv/rcsmediagroup.csv",
+  "dataAggiornamento": "25-02-2023 08:36:24",
+  "abilitata": true,
+  "records": 18
+ },
+ {
+  "azienda": "Recordati Ord",
+  "dettaglio": "Recordati Ord",
+  "sigla": "",
+  "filejson": "dati/azioni/json/recordatiord.json",
+  "filecsv": "dati/azioni/csv/recordatiord.csv",
+  "dataAggiornamento": "25-02-2023 08:36:24",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Redelfi",
+  "dettaglio": "Redelfi",
+  "sigla": "",
+  "filejson": "dati/azioni/json/redelfi.json",
+  "filecsv": "dati/azioni/csv/redelfi.csv",
+  "dataAggiornamento": "25-02-2023 08:36:24",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Reevo",
+  "dettaglio": "Reevo",
+  "sigla": "",
+  "filejson": "dati/azioni/json/reevo.json",
+  "filecsv": "dati/azioni/csv/reevo.csv",
+  "dataAggiornamento": "25-02-2023 08:36:24",
+  "abilitata": true,
+  "records": 22
+ },
+ {
+  "azienda": "Relatech",
+  "dettaglio": "Relatech",
+  "sigla": "",
+  "filejson": "dati/azioni/json/relatech.json",
+  "filecsv": "dati/azioni/csv/relatech.csv",
+  "dataAggiornamento": "25-02-2023 08:36:24",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Renault",
+  "dettaglio": "Renault",
+  "sigla": "",
+  "filejson": "dati/azioni/json/renault.json",
+  "filecsv": "dati/azioni/csv/renault.csv",
+  "dataAggiornamento": "25-02-2023 08:36:24",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Renergetica",
+  "dettaglio": "Renergetica",
+  "sigla": "",
+  "filejson": "dati/azioni/json/renergetica.json",
+  "filecsv": "dati/azioni/csv/renergetica.csv",
+  "dataAggiornamento": "23-02-2023 21:00:48",
+  "abilitata": true,
+  "records": 3
+ },
+ {
+  "azienda": "Reply",
+  "dettaglio": "Reply",
+  "sigla": "",
+  "filejson": "dati/azioni/json/reply.json",
+  "filecsv": "dati/azioni/csv/reply.csv",
+  "dataAggiornamento": "25-02-2023 08:36:24",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Repsol",
+  "dettaglio": "Repsol",
+  "sigla": "",
+  "filejson": "dati/azioni/json/repsol.json",
+  "filecsv": "dati/azioni/csv/repsol.csv",
+  "dataAggiornamento": "20-02-2023 21:41:54",
+  "abilitata": true,
+  "records": 2
+ },
+ {
+  "azienda": "Ariston Holding",
+  "dettaglio": "Ariston Holding",
+  "sigla": "ARIS.MI",
+  "filejson": "dati/azioni/json/aristonholding.json",
+  "filecsv": "dati/azioni/csv/aristonholding.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 221
+ },
+ {
+  "azienda": "Restart",
+  "dettaglio": "Restart",
+  "sigla": "",
+  "filejson": "dati/azioni/json/restart.json",
+  "filecsv": "dati/azioni/csv/restart.csv",
+  "dataAggiornamento": "25-02-2023 08:36:24",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Reti",
+  "dettaglio": "Reti",
+  "sigla": "",
+  "filejson": "dati/azioni/json/reti.json",
+  "filecsv": "dati/azioni/csv/reti.csv",
+  "dataAggiornamento": "25-02-2023 08:36:24",
+  "abilitata": true,
+  "records": 21
+ },
+ {
+  "azienda": "Revo Insurance",
+  "dettaglio": "Revo Insurance",
+  "sigla": "",
+  "filejson": "dati/azioni/json/revoinsurance.json",
+  "filecsv": "dati/azioni/csv/revoinsurance.csv",
+  "dataAggiornamento": "25-02-2023 08:36:24",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Risanamento",
+  "dettaglio": "Risanamento",
+  "sigla": "",
+  "filejson": "dati/azioni/json/risanamento.json",
+  "filecsv": "dati/azioni/csv/risanamento.csv",
+  "dataAggiornamento": "25-02-2023 08:36:24",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Rocket Sharing Company",
+  "dettaglio": "Rocket Sharing Company",
+  "sigla": "",
+  "filejson": "dati/azioni/json/rocketsharingcompany.json",
+  "filecsv": "dati/azioni/csv/rocketsharingcompany.csv",
+  "dataAggiornamento": "25-02-2023 08:36:24",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Rosetti Marino",
+  "dettaglio": "Rosetti Marino",
+  "sigla": "",
+  "filejson": "dati/azioni/json/rosettimarino.json",
+  "filecsv": "dati/azioni/csv/rosettimarino.csv",
+  "dataAggiornamento": "22-02-2023 21:00:55",
+  "abilitata": true,
+  "records": 2
+ },
+ {
+  "azienda": "Rwe",
+  "dettaglio": "Rwe",
+  "sigla": "",
+  "filejson": "dati/azioni/json/rwe.json",
+  "filecsv": "dati/azioni/csv/rwe.csv",
+  "dataAggiornamento": "25-02-2023 08:36:24",
+  "abilitata": true,
+  "records": 14
+ },
+ {
+  "azienda": "S.I.F. Italia",
+  "dettaglio": "S.I.F. Italia",
+  "sigla": "",
+  "filejson": "dati/azioni/json/s_i_f_italia.json",
+  "filecsv": "dati/azioni/csv/s_i_f_italia.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "S.S. Lazio",
+  "dettaglio": "S.S. Lazio",
+  "sigla": "",
+  "filejson": "dati/azioni/json/s_s_lazio.json",
+  "filecsv": "dati/azioni/csv/s_s_lazio.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Sababa Security",
+  "dettaglio": "Sababa Security",
+  "sigla": "",
+  "filejson": "dati/azioni/json/sababasecurity.json",
+  "filecsv": "dati/azioni/csv/sababasecurity.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 22
+ },
+ {
+  "azienda": "Acea",
+  "dettaglio": "Acea",
+  "sigla": "ACE.MI",
+  "filejson": "dati/azioni/json/acea.json",
+  "filecsv": "dati/azioni/csv/acea.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 195
+ },
+ {
+  "azienda": "Arterra Bioscience",
+  "dettaglio": "Arterra Bioscience",
+  "sigla": "ABS.MI",
+  "filejson": "dati/azioni/json/arterrabioscience.json",
+  "filecsv": "dati/azioni/csv/arterrabioscience.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 156
+ },
+ {
+  "azienda": "Sabaf",
+  "dettaglio": "Sabaf",
+  "sigla": "",
+  "filejson": "dati/azioni/json/sabaf.json",
+  "filecsv": "dati/azioni/csv/sabaf.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 20
+ },
+ {
+  "azienda": "Saccheria F.Lli Franceschetti",
+  "dettaglio": "Saccheria F.Lli Franceschetti",
+  "sigla": "",
+  "filejson": "dati/azioni/json/saccheriaf_llifranceschetti.json",
+  "filecsv": "dati/azioni/csv/saccheriaf_llifranceschetti.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 20
+ },
+ {
+  "azienda": "Saes Getters",
+  "dettaglio": "Saes Getters",
+  "sigla": "",
+  "filejson": "dati/azioni/json/saesgetters.json",
+  "filecsv": "dati/azioni/csv/saesgetters.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 21
+ },
+ {
+  "azienda": "Saes Getters Rsp",
+  "dettaglio": "Saes Getters Rsp",
+  "sigla": "",
+  "filejson": "dati/azioni/json/saesgettersrsp.json",
+  "filecsv": "dati/azioni/csv/saesgettersrsp.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 17
+ },
+ {
+  "azienda": "Safilo Group",
+  "dettaglio": "Safilo Group",
+  "sigla": "",
+  "filejson": "dati/azioni/json/safilogroup.json",
+  "filecsv": "dati/azioni/csv/safilogroup.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Saipem",
+  "dettaglio": "Saipem",
+  "sigla": "",
+  "filejson": "dati/azioni/json/saipem.json",
+  "filecsv": "dati/azioni/csv/saipem.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Salcef Group",
+  "dettaglio": "Salcef Group",
+  "sigla": "",
+  "filejson": "dati/azioni/json/salcefgroup.json",
+  "filecsv": "dati/azioni/csv/salcefgroup.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Salvatore Ferragamo",
+  "dettaglio": "Salvatore Ferragamo",
+  "sigla": "",
+  "filejson": "dati/azioni/json/salvatoreferragamo.json",
+  "filecsv": "dati/azioni/csv/salvatoreferragamo.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Sanlorenzo",
+  "dettaglio": "Sanlorenzo",
+  "sigla": "",
+  "filejson": "dati/azioni/json/sanlorenzo.json",
+  "filecsv": "dati/azioni/csv/sanlorenzo.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Sanofi",
+  "dettaglio": "Sanofi",
+  "sigla": "",
+  "filejson": "dati/azioni/json/sanofi.json",
+  "filecsv": "dati/azioni/csv/sanofi.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Ascopiave",
+  "dettaglio": "Ascopiave",
+  "sigla": "ASC.MI",
+  "filejson": "dati/azioni/json/ascopiave.json",
+  "filecsv": "dati/azioni/csv/ascopiave.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 208
+ },
+ {
+  "azienda": "Sap",
+  "dettaglio": "Sap",
+  "sigla": "",
+  "filejson": "dati/azioni/json/sap.json",
+  "filecsv": "dati/azioni/csv/sap.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 22
+ },
+ {
+  "azienda": "Saras",
+  "dettaglio": "Saras",
+  "sigla": "",
+  "filejson": "dati/azioni/json/saras.json",
+  "filecsv": "dati/azioni/csv/saras.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 22
+ },
+ {
+  "azienda": "Sciuker Frames",
+  "dettaglio": "Sciuker Frames",
+  "sigla": "",
+  "filejson": "dati/azioni/json/sciukerframes.json",
+  "filecsv": "dati/azioni/csv/sciukerframes.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Sebino",
+  "dettaglio": "Sebino",
+  "sigla": "",
+  "filejson": "dati/azioni/json/sebino.json",
+  "filecsv": "dati/azioni/csv/sebino.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Seco",
+  "dettaglio": "Seco",
+  "sigla": "",
+  "filejson": "dati/azioni/json/seco.json",
+  "filecsv": "dati/azioni/csv/seco.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Seri Industrial",
+  "dettaglio": "Seri Industrial",
+  "sigla": "",
+  "filejson": "dati/azioni/json/seriindustrial.json",
+  "filecsv": "dati/azioni/csv/seriindustrial.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 22
+ },
+ {
+  "azienda": "Servizi Italia",
+  "dettaglio": "Servizi Italia",
+  "sigla": "",
+  "filejson": "dati/azioni/json/serviziitalia.json",
+  "filecsv": "dati/azioni/csv/serviziitalia.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 13
+ },
+ {
+  "azienda": "Sesa",
+  "dettaglio": "Sesa",
+  "sigla": "",
+  "filejson": "dati/azioni/json/sesa.json",
+  "filecsv": "dati/azioni/csv/sesa.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Sg Company",
+  "dettaglio": "Sg Company",
+  "sigla": "",
+  "filejson": "dati/azioni/json/sgcompany.json",
+  "filecsv": "dati/azioni/csv/sgcompany.csv",
+  "dataAggiornamento": "23-02-2023 21:00:50",
+  "abilitata": true,
+  "records": 3
+ },
+ {
+  "azienda": "Shedir Pharma Group",
+  "dettaglio": "Shedir Pharma Group",
+  "sigla": "",
+  "filejson": "dati/azioni/json/shedirpharmagroup.json",
+  "filecsv": "dati/azioni/csv/shedirpharmagroup.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 5
+ },
+ {
+  "azienda": "Askoll Eva",
+  "dettaglio": "Askoll Eva",
+  "sigla": "EVA.MI",
+  "filejson": "dati/azioni/json/askolleva.json",
+  "filecsv": "dati/azioni/csv/askolleva.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 212
+ },
+ {
+  "azienda": "Siav",
+  "dettaglio": "Siav",
+  "sigla": "",
+  "filejson": "dati/azioni/json/siav.json",
+  "filecsv": "dati/azioni/csv/siav.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 4
+ },
+ {
+  "azienda": "Siemens",
+  "dettaglio": "Siemens",
+  "sigla": "",
+  "filejson": "dati/azioni/json/siemens.json",
+  "filecsv": "dati/azioni/csv/siemens.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 14
+ },
+ {
+  "azienda": "Siemens Energy",
+  "dettaglio": "Siemens Energy",
+  "sigla": "",
+  "filejson": "dati/azioni/json/siemensenergy.json",
+  "filecsv": "dati/azioni/csv/siemensenergy.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 14
+ },
+ {
+  "azienda": "Sit",
+  "dettaglio": "Sit",
+  "sigla": "",
+  "filejson": "dati/azioni/json/sit.json",
+  "filecsv": "dati/azioni/csv/sit.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 14
+ },
+ {
+  "azienda": "Snam",
+  "dettaglio": "Snam",
+  "sigla": "",
+  "filejson": "dati/azioni/json/snam.json",
+  "filecsv": "dati/azioni/csv/snam.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 14
+ },
+ {
+  "azienda": "Snowflake",
+  "dettaglio": "Snowflake",
+  "sigla": "",
+  "filejson": "dati/azioni/json/snowflake.json",
+  "filecsv": "dati/azioni/csv/snowflake.csv",
+  "dataAggiornamento": "23-02-2023 21:00:50",
+  "abilitata": true,
+  "records": 11
+ },
+ {
+  "azienda": "Societa' Editoriale Il Fatto",
+  "dettaglio": "Societa' Editoriale Il Fatto",
+  "sigla": "",
+  "filejson": "dati/azioni/json/societa_editorialeilfatto.json",
+  "filecsv": "dati/azioni/csv/societa_editorialeilfatto.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 12
+ },
+ {
+  "azienda": "Societe Generale",
+  "dettaglio": "Societe Generale",
+  "sigla": "",
+  "filejson": "dati/azioni/json/societegenerale.json",
+  "filecsv": "dati/azioni/csv/societegenerale.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 14
+ },
+ {
+  "azienda": "Softec",
+  "dettaglio": "Softec",
+  "sigla": "",
+  "filejson": "dati/azioni/json/softec.json",
+  "filecsv": "dati/azioni/csv/softec.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 4
+ },
+ {
+  "azienda": "Softlab",
+  "dettaglio": "Softlab",
+  "sigla": "",
+  "filejson": "dati/azioni/json/softlab.json",
+  "filecsv": "dati/azioni/csv/softlab.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 7
+ },
+ {
+  "azienda": "Asml",
+  "dettaglio": "Asml",
+  "sigla": "ASML.MI",
+  "filejson": "dati/azioni/json/asml.json",
+  "filecsv": "dati/azioni/csv/asml.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 220
+ },
+ {
+  "azienda": "Sogefi",
+  "dettaglio": "Sogefi",
+  "sigla": "",
+  "filejson": "dati/azioni/json/sogefi.json",
+  "filecsv": "dati/azioni/csv/sogefi.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 14
+ },
+ {
+  "azienda": "Sol",
+  "dettaglio": "Sol",
+  "sigla": "",
+  "filejson": "dati/azioni/json/sol.json",
+  "filecsv": "dati/azioni/csv/sol.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Solid World Group",
+  "dettaglio": "Solid World Group",
+  "sigla": "",
+  "filejson": "dati/azioni/json/solidworldgroup.json",
+  "filecsv": "dati/azioni/csv/solidworldgroup.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 14
+ },
+ {
+  "azienda": "Solutions Capital Management Sim",
+  "dettaglio": "Solutions Capital Management Sim",
+  "sigla": "",
+  "filejson": "dati/azioni/json/solutionscapitalmanagementsim.json",
+  "filecsv": "dati/azioni/csv/solutionscapitalmanagementsim.csv",
+  "dataAggiornamento": "23-02-2023 21:00:50",
+  "abilitata": true,
+  "records": 4
+ },
+ {
+  "azienda": "Somec",
+  "dettaglio": "Somec",
+  "sigla": "",
+  "filejson": "dati/azioni/json/somec.json",
+  "filecsv": "dati/azioni/csv/somec.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 14
+ },
+ {
+  "azienda": "Sostravel.Com",
+  "dettaglio": "Sostravel.Com",
+  "sigla": "",
+  "filejson": "dati/azioni/json/sostravel_com.json",
+  "filecsv": "dati/azioni/csv/sostravel_com.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 14
+ },
+ {
+  "azienda": "Spindox",
+  "dettaglio": "Spindox",
+  "sigla": "",
+  "filejson": "dati/azioni/json/spindox.json",
+  "filecsv": "dati/azioni/csv/spindox.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 6
+ },
+ {
+  "azienda": "Star7",
+  "dettaglio": "Star7",
+  "sigla": "",
+  "filejson": "dati/azioni/json/star7.json",
+  "filecsv": "dati/azioni/csv/star7.csv",
+  "dataAggiornamento": "22-02-2023 21:00:57",
+  "abilitata": true,
+  "records": 2
+ },
+ {
+  "azienda": "Starbucks Corp",
+  "dettaglio": "Starbucks Corp",
+  "sigla": "",
+  "filejson": "dati/azioni/json/starbuckscorp.json",
+  "filecsv": "dati/azioni/csv/starbuckscorp.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 7
+ },
+ {
+  "azienda": "Stellantis",
+  "dettaglio": "Stellantis",
+  "sigla": "",
+  "filejson": "dati/azioni/json/stellantis.json",
+  "filecsv": "dati/azioni/csv/stellantis.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Aton Green Storage",
+  "dettaglio": "Aton Green Storage",
+  "sigla": "ATON.MI",
+  "filejson": "dati/azioni/json/atongreenstorage.json",
+  "filecsv": "dati/azioni/csv/atongreenstorage.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 149
+ },
+ {
+  "azienda": "Stmicroelectronics",
+  "dettaglio": "Stmicroelectronics",
+  "sigla": "",
+  "filejson": "dati/azioni/json/stmicroelectronics.json",
+  "filecsv": "dati/azioni/csv/stmicroelectronics.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Svas Biosana",
+  "dettaglio": "Svas Biosana",
+  "sigla": "",
+  "filejson": "dati/azioni/json/svasbiosana.json",
+  "filecsv": "dati/azioni/csv/svasbiosana.csv",
+  "dataAggiornamento": "25-02-2023 08:36:26",
+  "abilitata": true,
+  "records": 14
+ },
+ {
+  "azienda": "Take Off",
+  "dettaglio": "Take Off",
+  "sigla": "",
+  "filejson": "dati/azioni/json/takeoff.json",
+  "filecsv": "dati/azioni/csv/takeoff.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 21
+ },
+ {
+  "azienda": "Tamburi Investment Partners",
+  "dettaglio": "Tamburi Investment Partners",
+  "sigla": "",
+  "filejson": "dati/azioni/json/tamburiinvestmentpartners.json",
+  "filecsv": "dati/azioni/csv/tamburiinvestmentpartners.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Technogym",
+  "dettaglio": "Technogym",
+  "sigla": "",
+  "filejson": "dati/azioni/json/technogym.json",
+  "filecsv": "dati/azioni/csv/technogym.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Technoprobe",
+  "dettaglio": "Technoprobe",
+  "sigla": "",
+  "filejson": "dati/azioni/json/technoprobe.json",
+  "filecsv": "dati/azioni/csv/technoprobe.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 21
+ },
+ {
+  "azienda": "Tecma Solutions",
+  "dettaglio": "Tecma Solutions",
+  "sigla": "",
+  "filejson": "dati/azioni/json/tecmasolutions.json",
+  "filecsv": "dati/azioni/csv/tecmasolutions.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 4
+ },
+ {
+  "azienda": "Telecom Italia",
+  "dettaglio": "Telecom Italia",
+  "sigla": "TIT.MI",
+  "filejson": "dati/azioni/json/telecomitalia.json",
+  "filecsv": "dati/azioni/csv/telecomitalia.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 224
+ },
+ {
+  "azienda": "Telecom Italia Rsp",
+  "dettaglio": "Telecom Italia Rsp",
+  "sigla": "",
+  "filejson": "dati/azioni/json/telecomitaliarsp.json",
+  "filecsv": "dati/azioni/csv/telecomitaliarsp.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Telefonica",
+  "dettaglio": "Telefonica",
+  "sigla": "",
+  "filejson": "dati/azioni/json/telefonica.json",
+  "filecsv": "dati/azioni/csv/telefonica.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Autogrill",
+  "dettaglio": "Autogrill",
+  "sigla": "AGL.MI",
+  "filejson": "dati/azioni/json/autogrill.json",
+  "filecsv": "dati/azioni/csv/autogrill.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 156
+ },
+ {
+  "azienda": "Telesia",
+  "dettaglio": "Telesia",
+  "sigla": "",
+  "filejson": "dati/azioni/json/telesia.json",
+  "filecsv": "dati/azioni/csv/telesia.csv",
+  "dataAggiornamento": "23-02-2023 21:00:51",
+  "abilitata": true,
+  "records": 8
+ },
+ {
+  "azienda": "Tenaris",
+  "dettaglio": "Tenaris",
+  "sigla": "",
+  "filejson": "dati/azioni/json/tenaris.json",
+  "filecsv": "dati/azioni/csv/tenaris.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Tenax International",
+  "dettaglio": "Tenax International",
+  "sigla": "",
+  "filejson": "dati/azioni/json/tenaxinternational.json",
+  "filecsv": "dati/azioni/csv/tenaxinternational.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 10
+ },
+ {
+  "azienda": "Terna",
+  "dettaglio": "Terna",
+  "sigla": "",
+  "filejson": "dati/azioni/json/terna.json",
+  "filecsv": "dati/azioni/csv/terna.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Tesla",
+  "dettaglio": "Tesla",
+  "sigla": "",
+  "filejson": "dati/azioni/json/tesla.json",
+  "filecsv": "dati/azioni/csv/tesla.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Tesmec",
+  "dettaglio": "Tesmec",
+  "sigla": "",
+  "filejson": "dati/azioni/json/tesmec.json",
+  "filecsv": "dati/azioni/csv/tesmec.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Tessellis",
+  "dettaglio": "Tessellis",
+  "sigla": "",
+  "filejson": "dati/azioni/json/tessellis.json",
+  "filecsv": "dati/azioni/csv/tessellis.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "The Italian Sea Group",
+  "dettaglio": "The Italian Sea Group",
+  "sigla": "",
+  "filejson": "dati/azioni/json/theitalianseagroup.json",
+  "filecsv": "dati/azioni/csv/theitalianseagroup.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "The Lifestyle Group",
+  "dettaglio": "The Lifestyle Group",
+  "sigla": "",
+  "filejson": "dati/azioni/json/thelifestylegroup.json",
+  "filecsv": "dati/azioni/csv/thelifestylegroup.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 19
+ },
+ {
+  "azienda": "Thyssenkrupp",
+  "dettaglio": "Thyssenkrupp",
+  "sigla": "",
+  "filejson": "dati/azioni/json/thyssenkrupp.json",
+  "filecsv": "dati/azioni/csv/thyssenkrupp.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Autostrade Merid",
+  "dettaglio": "Autostrade Merid",
+  "sigla": "AUTME.MI",
+  "filejson": "dati/azioni/json/autostrademerid.json",
+  "filecsv": "dati/azioni/csv/autostrademerid.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 184
+ },
+ {
+  "azienda": "Tinexta",
+  "dettaglio": "Tinexta",
+  "sigla": "",
+  "filejson": "dati/azioni/json/tinexta.json",
+  "filecsv": "dati/azioni/csv/tinexta.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 22
+ },
+ {
+  "azienda": "Tmp Group",
+  "dettaglio": "Tmp Group",
+  "sigla": "",
+  "filejson": "dati/azioni/json/tmpgroup.json",
+  "filecsv": "dati/azioni/csv/tmpgroup.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 21
+ },
+ {
+  "azienda": "Tod'S",
+  "dettaglio": "Tod'S",
+  "sigla": "",
+  "filejson": "dati/azioni/json/tod_s.json",
+  "filecsv": "dati/azioni/csv/tod_s.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Toscana Aeroporti",
+  "dettaglio": "Toscana Aeroporti",
+  "sigla": "",
+  "filejson": "dati/azioni/json/toscanaaeroporti.json",
+  "filecsv": "dati/azioni/csv/toscanaaeroporti.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 8
+ },
+ {
+  "azienda": "Tps",
+  "dettaglio": "Tps",
+  "sigla": "",
+  "filejson": "dati/azioni/json/tps.json",
+  "filecsv": "dati/azioni/csv/tps.csv",
+  "dataAggiornamento": "23-02-2023 21:00:51",
+  "abilitata": true,
+  "records": 4
+ },
+ {
+  "azienda": "Trawell Co",
+  "dettaglio": "Trawell Co",
+  "sigla": "",
+  "filejson": "dati/azioni/json/trawellco.json",
+  "filecsv": "dati/azioni/csv/trawellco.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 10
+ },
+ {
+  "azienda": "Trendevice",
+  "dettaglio": "Trendevice",
+  "sigla": "",
+  "filejson": "dati/azioni/json/trendevice.json",
+  "filecsv": "dati/azioni/csv/trendevice.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 14
+ },
+ {
+  "azienda": "Trevi Fin Industriale",
+  "dettaglio": "Trevi Fin Industriale",
+  "sigla": "",
+  "filejson": "dati/azioni/json/trevifinindustriale.json",
+  "filecsv": "dati/azioni/csv/trevifinindustriale.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Triboo",
+  "dettaglio": "Triboo",
+  "sigla": "",
+  "filejson": "dati/azioni/json/triboo.json",
+  "filecsv": "dati/azioni/csv/triboo.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Tripadvisor",
+  "dettaglio": "Tripadvisor",
+  "sigla": "",
+  "filejson": "dati/azioni/json/tripadvisor.json",
+  "filecsv": "dati/azioni/csv/tripadvisor.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 6
+ },
+ {
+  "azienda": "Avio",
+  "dettaglio": "Avio",
+  "sigla": "AVIO.MI",
+  "filejson": "dati/azioni/json/avio.json",
+  "filecsv": "dati/azioni/csv/avio.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 226
+ },
+ {
+  "azienda": "Txt",
+  "dettaglio": "Txt",
+  "sigla": "",
+  "filejson": "dati/azioni/json/txt.json",
+  "filecsv": "dati/azioni/csv/txt.csv",
+  "dataAggiornamento": "25-02-2023 08:36:27",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Ucapital24",
+  "dettaglio": "Ucapital24",
+  "sigla": "",
+  "filejson": "dati/azioni/json/ucapital24.json",
+  "filecsv": "dati/azioni/csv/ucapital24.csv",
+  "dataAggiornamento": "25-02-2023 08:36:28",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Ulisse Biomed",
+  "dettaglio": "Ulisse Biomed",
+  "sigla": "",
+  "filejson": "dati/azioni/json/ulissebiomed.json",
+  "filecsv": "dati/azioni/csv/ulissebiomed.csv",
+  "dataAggiornamento": "25-02-2023 08:36:28",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Unicredit",
+  "dettaglio": "Unicredit",
+  "sigla": "UCG.MI",
+  "filejson": "dati/azioni/json/unicredit.json",
+  "filecsv": "dati/azioni/csv/unicredit.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 210
+ },
+ {
+  "azienda": "Unidata",
+  "dettaglio": "Unidata",
+  "sigla": "",
+  "filejson": "dati/azioni/json/unidata.json",
+  "filecsv": "dati/azioni/csv/unidata.csv",
+  "dataAggiornamento": "25-02-2023 08:36:28",
+  "abilitata": true,
+  "records": 19
+ },
+ {
+  "azienda": "Unieuro",
+  "dettaglio": "Unieuro",
+  "sigla": "",
+  "filejson": "dati/azioni/json/unieuro.json",
+  "filecsv": "dati/azioni/csv/unieuro.csv",
+  "dataAggiornamento": "25-02-2023 08:36:28",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Unipol",
+  "dettaglio": "Unipol",
+  "sigla": "",
+  "filejson": "dati/azioni/json/unipol.json",
+  "filecsv": "dati/azioni/csv/unipol.csv",
+  "dataAggiornamento": "25-02-2023 08:36:28",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Unipolsai",
+  "dettaglio": "Unipolsai",
+  "sigla": "",
+  "filejson": "dati/azioni/json/unipolsai.json",
+  "filecsv": "dati/azioni/csv/unipolsai.csv",
+  "dataAggiornamento": "25-02-2023 08:36:28",
+  "abilitata": true,
+  "records": 23
+ },
+ {
+  "azienda": "Valsoia",
+  "dettaglio": "Valsoia",
+  "sigla": "",
+  "filejson": "dati/azioni/json/valsoia.json",
+  "filecsv": "dati/azioni/csv/valsoia.csv",
+  "dataAggiornamento": "23-02-2023 21:00:54",
+  "abilitata": true,
+  "records": 21
+ },
+ {
+  "azienda": "Vantea Smart",
+  "dettaglio": "Vantea Smart",
+  "sigla": "",
+  "filejson": "dati/azioni/json/vanteasmart.json",
+  "filecsv": "dati/azioni/csv/vanteasmart.csv",
+  "dataAggiornamento": "25-02-2023 08:36:30",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Axa",
+  "dettaglio": "Axa",
+  "sigla": "AXA.MI",
+  "filejson": "dati/azioni/json/axa.json",
+  "filecsv": "dati/azioni/csv/axa.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 138
+ },
+ {
+  "azienda": "Vianini",
+  "dettaglio": "Vianini",
+  "sigla": "",
+  "filejson": "dati/azioni/json/vianini.json",
+  "filecsv": "dati/azioni/csv/vianini.csv",
+  "dataAggiornamento": "25-02-2023 08:36:30",
+  "abilitata": true,
+  "records": 22
+ },
+ {
+  "azienda": "Vimi Fasteners",
+  "dettaglio": "Vimi Fasteners",
+  "sigla": "",
+  "filejson": "dati/azioni/json/vimifasteners.json",
+  "filecsv": "dati/azioni/csv/vimifasteners.csv",
+  "dataAggiornamento": "25-02-2023 08:36:30",
+  "abilitata": true,
+  "records": 22
+ },
+ {
+  "azienda": "Virgin Galactic Holdings",
+  "dettaglio": "Virgin Galactic Holdings",
+  "sigla": "",
+  "filejson": "dati/azioni/json/virgingalacticholdings.json",
+  "filecsv": "dati/azioni/csv/virgingalacticholdings.csv",
+  "dataAggiornamento": "25-02-2023 08:36:30",
+  "abilitata": true,
+  "records": 2
+ },
+ {
+  "azienda": "Visibilia Editore",
+  "dettaglio": "Visibilia Editore",
+  "sigla": "",
+  "filejson": "dati/azioni/json/visibiliaeditore.json",
+  "filecsv": "dati/azioni/csv/visibiliaeditore.csv",
+  "dataAggiornamento": "25-02-2023 08:36:30",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Vivendi",
+  "dettaglio": "Vivendi",
+  "sigla": "",
+  "filejson": "dati/azioni/json/vivendi.json",
+  "filecsv": "dati/azioni/csv/vivendi.csv",
+  "dataAggiornamento": "23-02-2023 21:00:54",
+  "abilitata": true,
+  "records": 3
+ },
+ {
+  "azienda": "Volkswagen",
+  "dettaglio": "Volkswagen",
+  "sigla": "",
+  "filejson": "dati/azioni/json/volkswagen.json",
+  "filecsv": "dati/azioni/csv/volkswagen.csv",
+  "dataAggiornamento": "25-02-2023 08:36:30",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Vonovia",
+  "dettaglio": "Vonovia",
+  "sigla": "",
+  "filejson": "dati/azioni/json/vonovia.json",
+  "filecsv": "dati/azioni/csv/vonovia.csv",
+  "dataAggiornamento": "25-02-2023 08:36:30",
+  "abilitata": true,
+  "records": 22
+ },
+ {
+  "azienda": "Warr Agatos 2018-2025",
+  "dettaglio": "Warr Agatos 2018-2025",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warragatos2018_2025.json",
+  "filecsv": "dati/azioni/csv/warragatos2018_2025.csv",
+  "dataAggiornamento": "25-02-2023 08:36:31",
+  "abilitata": true,
+  "records": 6
+ },
+ {
+  "azienda": "Warr Alfio Bardolla 2017-2027",
+  "dettaglio": "Warr Alfio Bardolla 2017-2027",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warralfiobardolla2017_2027.json",
+  "filecsv": "dati/azioni/csv/warralfiobardolla2017_2027.csv",
+  "dataAggiornamento": "25-02-2023 08:36:31",
+  "abilitata": true,
+  "records": 6
+ },
+ {
+  "azienda": "Warr Alfonsino 2021-2024",
+  "dettaglio": "Warr Alfonsino 2021-2024",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warralfonsino2021_2024.json",
+  "filecsv": "dati/azioni/csv/warralfonsino2021_2024.csv",
+  "dataAggiornamento": "25-02-2023 08:36:31",
+  "abilitata": true,
+  "records": 4
+ },
+ {
+  "azienda": "Azimut Holding",
+  "dettaglio": "Azimut Holding",
+  "sigla": "",
+  "filejson": "dati/azioni/json/azimutholding.json",
+  "filecsv": "dati/azioni/csv/azimutholding.csv",
+  "dataAggiornamento": "25-02-2023 08:36:00",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Warr Altea Green Power 2022-2024",
+  "dettaglio": "Warr Altea Green Power 2022-2024",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warralteagreenpower2022_2024.json",
+  "filecsv": "dati/azioni/csv/warralteagreenpower2022_2024.csv",
+  "dataAggiornamento": "25-02-2023 08:36:31",
+  "abilitata": true,
+  "records": 6
+ },
+ {
+  "azienda": "Warr Cellularline",
+  "dettaglio": "Warr Cellularline",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrcellularline.json",
+  "filecsv": "dati/azioni/csv/warrcellularline.csv",
+  "dataAggiornamento": "23-02-2023 21:00:56",
+  "abilitata": true,
+  "records": 7
+ },
+ {
+  "azienda": "Warr Cofle 2021-2023",
+  "dettaglio": "Warr Cofle 2021-2023",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrcofle2021_2023.json",
+  "filecsv": "dati/azioni/csv/warrcofle2021_2023.csv",
+  "dataAggiornamento": "23-02-2023 21:00:56",
+  "abilitata": true,
+  "records": 2
+ },
+ {
+  "azienda": "Warr Cyberoo 2019-2023",
+  "dettaglio": "Warr Cyberoo 2019-2023",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrcyberoo2019_2023.json",
+  "filecsv": "dati/azioni/csv/warrcyberoo2019_2023.csv",
+  "dataAggiornamento": "22-02-2023 21:01:05",
+  "abilitata": true,
+  "records": 3
+ },
+ {
+  "azienda": "Warr Deodato.Gallery 2023-2028",
+  "dettaglio": "Warr Deodato.Gallery 2023-2028",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrdeodato_gallery2023_2028.json",
+  "filecsv": "dati/azioni/csv/warrdeodato_gallery2023_2028.csv",
+  "dataAggiornamento": "25-02-2023 08:36:31",
+  "abilitata": true,
+  "records": 6
+ },
+ {
+  "azienda": "Warr Eles 2019-2024",
+  "dettaglio": "Warr Eles 2019-2024",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warreles2019_2024.json",
+  "filecsv": "dati/azioni/csv/warreles2019_2024.csv",
+  "dataAggiornamento": "21-02-2023 21:00:50",
+  "abilitata": true,
+  "records": 3
+ },
+ {
+  "azienda": "Warr Erfo 2022-2025",
+  "dettaglio": "Warr Erfo 2022-2025",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrerfo2022_2025.json",
+  "filecsv": "dati/azioni/csv/warrerfo2022_2025.csv",
+  "dataAggiornamento": "25-02-2023 08:36:31",
+  "abilitata": true,
+  "records": 5
+ },
+ {
+  "azienda": "Warr Fae Technology 2022-2025",
+  "dettaglio": "Warr Fae Technology 2022-2025",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrfaetechnology2022_2025.json",
+  "filecsv": "dati/azioni/csv/warrfaetechnology2022_2025.csv",
+  "dataAggiornamento": "25-02-2023 08:36:31",
+  "abilitata": true,
+  "records": 5
+ },
+ {
+  "azienda": "Warr Finanza.Tech 2021-2024",
+  "dettaglio": "Warr Finanza.Tech 2021-2024",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrfinanza_tech2021_2024.json",
+  "filecsv": "dati/azioni/csv/warrfinanza_tech2021_2024.csv",
+  "dataAggiornamento": "23-02-2023 21:00:56",
+  "abilitata": true,
+  "records": 4
+ },
+ {
+  "azienda": "Warr Franchetti 2022-2025",
+  "dettaglio": "Warr Franchetti 2022-2025",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrfranchetti2022_2025.json",
+  "filecsv": "dati/azioni/csv/warrfranchetti2022_2025.csv",
+  "dataAggiornamento": "22-02-2023 21:01:05",
+  "abilitata": true,
+  "records": 2
+ },
+ {
+  "azienda": "Acinque",
+  "dettaglio": "Acinque",
+  "sigla": "AC5.MI",
+  "filejson": "dati/azioni/json/acinque.json",
+  "filecsv": "dati/azioni/csv/acinque.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 137
+ },
+ {
+  "azienda": "B&C Speakers",
+  "dettaglio": "B&C Speakers",
+  "sigla": "BEC.MI",
+  "filejson": "dati/azioni/json/b_cspeakers.json",
+  "filecsv": "dati/azioni/csv/b_cspeakers.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 160
+ },
+ {
+  "azienda": "Warr Franchi Umberto Marmi",
+  "dettaglio": "Warr Franchi Umberto Marmi",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrfranchiumbertomarmi.json",
+  "filecsv": "dati/azioni/csv/warrfranchiumbertomarmi.csv",
+  "dataAggiornamento": "22-02-2023 21:01:05",
+  "abilitata": true,
+  "records": 3
+ },
+ {
+  "azienda": "Warr G Rent 2021-2024",
+  "dettaglio": "Warr G Rent 2021-2024",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrgrent2021_2024.json",
+  "filecsv": "dati/azioni/csv/warrgrent2021_2024.csv",
+  "dataAggiornamento": "19-02-2023 22:40:35",
+  "abilitata": true,
+  "records": 2
+ },
+ {
+  "azienda": "Warr Gismondi 1754 2019-2024",
+  "dettaglio": "Warr Gismondi 1754 2019-2024",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrgismondi17542019_2024.json",
+  "filecsv": "dati/azioni/csv/warrgismondi17542019_2024.csv",
+  "dataAggiornamento": "20-02-2023 21:42:01",
+  "abilitata": true,
+  "records": 2
+ },
+ {
+  "azienda": "Warr Idntt 2021-2024",
+  "dettaglio": "Warr Idntt 2021-2024",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warridntt2021_2024.json",
+  "filecsv": "dati/azioni/csv/warridntt2021_2024.csv",
+  "dataAggiornamento": "25-02-2023 08:36:31",
+  "abilitata": true,
+  "records": 5
+ },
+ {
+  "azienda": "Warr Impianti 2022-2025",
+  "dettaglio": "Warr Impianti 2022-2025",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrimpianti2022_2025.json",
+  "filecsv": "dati/azioni/csv/warrimpianti2022_2025.csv",
+  "dataAggiornamento": "21-02-2023 21:00:50",
+  "abilitata": true,
+  "records": 3
+ },
+ {
+  "azienda": "Warr Iscc Fintech 2021-2024",
+  "dettaglio": "Warr Iscc Fintech 2021-2024",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrisccfintech2021_2024.json",
+  "filecsv": "dati/azioni/csv/warrisccfintech2021_2024.csv",
+  "dataAggiornamento": "21-02-2023 21:00:50",
+  "abilitata": true,
+  "records": 2
+ },
+ {
+  "azienda": "Warr Kme Group 2021-2024",
+  "dettaglio": "Warr Kme Group 2021-2024",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrkmegroup2021_2024.json",
+  "filecsv": "dati/azioni/csv/warrkmegroup2021_2024.csv",
+  "dataAggiornamento": "25-02-2023 08:36:31",
+  "abilitata": true,
+  "records": 8
+ },
+ {
+  "azienda": "Warr Lindbergh 2021-2024",
+  "dettaglio": "Warr Lindbergh 2021-2024",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrlindbergh2021_2024.json",
+  "filecsv": "dati/azioni/csv/warrlindbergh2021_2024.csv",
+  "dataAggiornamento": "20-02-2023 21:42:01",
+  "abilitata": true,
+  "records": 3
+ },
+ {
+  "azienda": "Warr Magis",
+  "dettaglio": "Warr Magis",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrmagis.json",
+  "filecsv": "dati/azioni/csv/warrmagis.csv",
+  "dataAggiornamento": "21-02-2023 21:00:50",
+  "abilitata": true,
+  "records": 2
+ },
+ {
+  "azienda": "Warr Maps 2019-2024",
+  "dettaglio": "Warr Maps 2019-2024",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrmaps2019_2024.json",
+  "filecsv": "dati/azioni/csv/warrmaps2019_2024.csv",
+  "dataAggiornamento": "22-02-2023 21:01:05",
+  "abilitata": true,
+  "records": 2
+ },
+ {
+  "azienda": "B.F.",
+  "dettaglio": "B.F.",
+  "sigla": "BFG.MI",
+  "filejson": "dati/azioni/json/b_f_.json",
+  "filecsv": "dati/azioni/csv/b_f_.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 185
+ },
+ {
+  "azienda": "Warr Meglioquesto 2021-2025",
+  "dettaglio": "Warr Meglioquesto 2021-2025",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrmeglioquesto2021_2025.json",
+  "filecsv": "dati/azioni/csv/warrmeglioquesto2021_2025.csv",
+  "dataAggiornamento": "25-02-2023 08:36:31",
+  "abilitata": true,
+  "records": 6
+ },
+ {
+  "azienda": "Warr Net Insurance 2019-2023",
+  "dettaglio": "Warr Net Insurance 2019-2023",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrnetinsurance2019_2023.json",
+  "filecsv": "dati/azioni/csv/warrnetinsurance2019_2023.csv",
+  "dataAggiornamento": "20-02-2023 21:42:01",
+  "abilitata": true,
+  "records": 2
+ },
+ {
+  "azienda": "Warr Nice Footwear 2021-2026",
+  "dettaglio": "Warr Nice Footwear 2021-2026",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrnicefootwear2021_2026.json",
+  "filecsv": "dati/azioni/csv/warrnicefootwear2021_2026.csv",
+  "dataAggiornamento": "22-02-2023 21:01:05",
+  "abilitata": true,
+  "records": 4
+ },
+ {
+  "azienda": "Warr Nusco 2021-2024",
+  "dettaglio": "Warr Nusco 2021-2024",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrnusco2021_2024.json",
+  "filecsv": "dati/azioni/csv/warrnusco2021_2024.csv",
+  "dataAggiornamento": "23-02-2023 21:00:56",
+  "abilitata": true,
+  "records": 2
+ },
+ {
+  "azienda": "Warr Osai 2020-2025",
+  "dettaglio": "Warr Osai 2020-2025",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrosai2020_2025.json",
+  "filecsv": "dati/azioni/csv/warrosai2020_2025.csv",
+  "dataAggiornamento": "25-02-2023 08:36:31",
+  "abilitata": true,
+  "records": 6
+ },
+ {
+  "azienda": "Warr Redelfi 2022-2025",
+  "dettaglio": "Warr Redelfi 2022-2025",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrredelfi2022_2025.json",
+  "filecsv": "dati/azioni/csv/warrredelfi2022_2025.csv",
+  "dataAggiornamento": "23-02-2023 21:00:56",
+  "abilitata": true,
+  "records": 6
+ },
+ {
+  "azienda": "Warr Restart 2015-2024",
+  "dettaglio": "Warr Restart 2015-2024",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrrestart2015_2024.json",
+  "filecsv": "dati/azioni/csv/warrrestart2015_2024.csv",
+  "dataAggiornamento": "25-02-2023 08:36:31",
+  "abilitata": true,
+  "records": 7
+ },
+ {
+  "azienda": "Warr Rocket Sharing Company 2022-2025",
+  "dettaglio": "Warr Rocket Sharing Company 2022-2025",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrrocketsharingcompany2022_2025.json",
+  "filecsv": "dati/azioni/csv/warrrocketsharingcompany2022_2025.csv",
+  "dataAggiornamento": "25-02-2023 08:36:31",
+  "abilitata": true,
+  "records": 4
+ },
+ {
+  "azienda": "Warr S.I.F. Italia 2021-2024",
+  "dettaglio": "Warr S.I.F. Italia 2021-2024",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrs_i_f_italia2021_2024.json",
+  "filecsv": "dati/azioni/csv/warrs_i_f_italia2021_2024.csv",
+  "dataAggiornamento": "21-02-2023 21:00:50",
+  "abilitata": true,
+  "records": 3
+ },
+ {
+  "azienda": "Warr Saccheria F.Lli Franceschetti 22-25",
+  "dettaglio": "Warr Saccheria F.Lli Franceschetti 22-25",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrsaccheriaf_llifranceschetti22_25.json",
+  "filecsv": "dati/azioni/csv/warrsaccheriaf_llifranceschetti22_25.csv",
+  "dataAggiornamento": "25-02-2023 08:36:31",
+  "abilitata": true,
+  "records": 8
+ },
+ {
+  "azienda": "Banca Generali",
+  "dettaglio": "Banca Generali",
+  "sigla": "BGN.MI",
+  "filejson": "dati/azioni/json/bancagenerali.json",
+  "filecsv": "dati/azioni/csv/bancagenerali.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 189
+ },
+ {
+  "azienda": "Warr Solid World Group 2022-2025",
+  "dettaglio": "Warr Solid World Group 2022-2025",
+  "sigla": "",
+  "filejson": "dati/azioni/json/warrsolidworldgroup2022_2025.json",
+  "filecsv": "dati/azioni/csv/warrsolidworldgroup2022_2025.csv",
+  "dataAggiornamento": "25-02-2023 08:36:31",
+  "abilitata": true,
+  "records": 8
+ },
+ {
+  "azienda": "Zignago Vetro",
+  "dettaglio": "Zignago Vetro",
+  "sigla": "ZV.MI",
+  "filejson": "dati/azioni/json/zignagovetro.json",
+  "filecsv": "dati/azioni/csv/zignagovetro.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 218
+ },
+ {
+  "azienda": "Zucchi",
+  "dettaglio": "Zucchi",
+  "sigla": "ZUC.MI",
+  "filejson": "dati/azioni/json/zucchi.json",
+  "filecsv": "dati/azioni/csv/zucchi.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 193
+ },
+ {
+  "azienda": "L&G Artificial Intelligence UCITS ETF",
+  "dettaglio": "L&G Artificial Intelligence UCITS ETF",
+  "sigla": "AIAI.MI",
+  "filejson": "dati/azioni/json/l_gartificialintelligence.json",
+  "filecsv": "dati/azioni/csv/l_gartificialintelligence.csv",
+  "dataAggiornamento": "21-02-2023 20:05:00",
+  "abilitata": true,
+  "records": 209
+ },
+ {
+  "azienda": "Banca Ifis",
+  "dettaglio": "Banca Ifis",
+  "sigla": "IF.MI",
+  "filejson": "dati/azioni/json/bancaifis.json",
+  "filecsv": "dati/azioni/csv/bancaifis.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 210
+ },
+ {
+  "azienda": "Banca Mediolanum",
+  "dettaglio": "Banca Mediolanum",
+  "sigla": "BMED.MI",
+  "filejson": "dati/azioni/json/bancamediolanum.json",
+  "filecsv": "dati/azioni/csv/bancamediolanum.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 188
+ },
+ {
+  "azienda": "Banca Monte Paschi Siena",
+  "dettaglio": "Banca Monte Paschi Siena",
+  "sigla": "BMPS.MI",
+  "filejson": "dati/azioni/json/bancamontepaschisiena.json",
+  "filecsv": "dati/azioni/csv/bancamontepaschisiena.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 240
+ },
+ {
+  "azienda": "Banca Sistema",
+  "dettaglio": "Banca Sistema",
+  "sigla": "BST.MI",
+  "filejson": "dati/azioni/json/bancasistema.json",
+  "filecsv": "dati/azioni/csv/bancasistema.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 214
+ },
+ {
+  "azienda": "Banco Bpm",
+  "dettaglio": "Banco Bpm",
+  "sigla": "BAMI.MI",
+  "filejson": "dati/azioni/json/bancobpm.json",
+  "filecsv": "dati/azioni/csv/bancobpm.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 214
+ },
+ {
+  "azienda": "Banco Santander",
+  "dettaglio": "Banco Santander",
+  "sigla": "",
+  "filejson": "dati/azioni/json/bancosantander.json",
+  "filecsv": "dati/azioni/csv/bancosantander.csv",
+  "dataAggiornamento": "25-02-2023 08:36:01",
+  "abilitata": true,
+  "records": 24
+ },
+ {
+  "azienda": "Basf",
+  "dettaglio": "Basf",
+  "sigla": "BASF.MI",
+  "filejson": "dati/azioni/json/basf.json",
+  "filecsv": "dati/azioni/csv/basf.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 199
+ },
+ {
+  "azienda": "Adidas",
+  "dettaglio": "Adidas",
+  "sigla": "ADS.MI",
+  "filejson": "dati/azioni/json/adidas.json",
+  "filecsv": "dati/azioni/csv/adidas.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 209
+ },
+ {
+  "azienda": "Basicnet",
+  "dettaglio": "Basicnet",
+  "sigla": "BAN.MI",
+  "filejson": "dati/azioni/json/basicnet.json",
+  "filecsv": "dati/azioni/csv/basicnet.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 215
+ },
+ {
+  "azienda": "Bastogi",
+  "dettaglio": "Bastogi",
+  "sigla": "B.MI",
+  "filejson": "dati/azioni/json/bastogi.json",
+  "filecsv": "dati/azioni/csv/bastogi.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 198
+ },
+ {
+  "azienda": "Bayer",
+  "dettaglio": "Bayer",
+  "sigla": "BAY.MI",
+  "filejson": "dati/azioni/json/bayer.json",
+  "filecsv": "dati/azioni/csv/bayer.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 198
+ },
+ {
+  "azienda": "Bb Biotech",
+  "dettaglio": "Bb Biotech",
+  "sigla": "BB.MI",
+  "filejson": "dati/azioni/json/bbbiotech.json",
+  "filecsv": "dati/azioni/csv/bbbiotech.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 3
+ },
+ {
+  "azienda": "Bbva",
+  "dettaglio": "Bbva",
+  "sigla": "",
+  "filejson": "dati/azioni/json/bbva.json",
+  "filecsv": "dati/azioni/csv/bbva.csv",
+  "dataAggiornamento": "25-02-2023 08:36:01",
+  "abilitata": true,
+  "records": 21
+ },
+ {
+  "azienda": "Bca Pop Sondrio",
+  "dettaglio": "Bca Pop Sondrio",
+  "sigla": "BPSO.MI",
+  "filejson": "dati/azioni/json/bcapopsondrio.json",
+  "filecsv": "dati/azioni/csv/bcapopsondrio.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 207
+ },
+ {
+  "azienda": "Bca Profilo",
+  "dettaglio": "Bca Profilo",
+  "sigla": "PRO.MI",
+  "filejson": "dati/azioni/json/bcaprofilo.json",
+  "filecsv": "dati/azioni/csv/bcaprofilo.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 175
+ },
+ {
+  "azienda": "Bco Desio Brianza",
+  "dettaglio": "Bco Desio Brianza",
+  "sigla": "BDB.MI",
+  "filejson": "dati/azioni/json/bcodesiobrianza.json",
+  "filecsv": "dati/azioni/csv/bcodesiobrianza.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 166
+ },
+ {
+  "azienda": "Beewize",
+  "dettaglio": "Beewize",
+  "sigla": "BWZ.MI",
+  "filejson": "dati/azioni/json/beewize.json",
+  "filecsv": "dati/azioni/csv/beewize.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 190
+ },
+ {
+  "azienda": "Beghelli",
+  "dettaglio": "Beghelli",
+  "sigla": "BE.MI",
+  "filejson": "dati/azioni/json/beghelli.json",
+  "filecsv": "dati/azioni/csv/beghelli.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 195
+ },
+ {
+  "azienda": "Advanced Micro Devices",
+  "dettaglio": "Advanced Micro Devices",
+  "sigla": "AMD",
+  "filejson": "dati/azioni/json/advancedmicrodevices.json",
+  "filecsv": "dati/azioni/csv/advancedmicrodevices.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 223
+ },
+ {
+  "azienda": "Beiersdorf",
+  "dettaglio": "Beiersdorf",
+  "sigla": "",
+  "filejson": "dati/azioni/json/beiersdorf.json",
+  "filecsv": "dati/azioni/csv/beiersdorf.csv",
+  "dataAggiornamento": "25-02-2023 08:36:01",
+  "abilitata": true,
+  "records": 3
+ },
+ {
+  "azienda": "Bellini Nautica",
+  "dettaglio": "Bellini Nautica",
+  "sigla": "BELL.MI",
+  "filejson": "dati/azioni/json/bellininautica.json",
+  "filecsv": "dati/azioni/csv/bellininautica.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 82
+ },
+ {
+  "azienda": "Bfc Media",
+  "dettaglio": "Bfc Media",
+  "sigla": "BFC.MI",
+  "filejson": "dati/azioni/json/bfcmedia.json",
+  "filecsv": "dati/azioni/csv/bfcmedia.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 25
+ },
+ {
+  "azienda": "Bff Bank",
+  "dettaglio": "Bff Bank",
+  "sigla": "BFF.MI",
+  "filejson": "dati/azioni/json/bffbank.json",
+  "filecsv": "dati/azioni/csv/bffbank.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 193
+ },
+ {
+  "azienda": "Bialetti Industrie",
+  "dettaglio": "Bialetti Industrie",
+  "sigla": "BIA.MI",
+  "filejson": "dati/azioni/json/bialettiindustrie.json",
+  "filecsv": "dati/azioni/csv/bialettiindustrie.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 197
+ },
+ {
+  "azienda": "Biesse",
+  "dettaglio": "Biesse",
+  "sigla": "BSS.MI",
+  "filejson": "dati/azioni/json/biesse.json",
+  "filecsv": "dati/azioni/csv/biesse.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 206
+ },
+ {
+  "azienda": "Bifire",
+  "dettaglio": "Bifire",
+  "sigla": "FIRE.MI",
+  "filejson": "dati/azioni/json/bifire.json",
+  "filecsv": "dati/azioni/csv/bifire.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 107
+ },
+ {
+  "azienda": "Bioera",
+  "dettaglio": "Bioera",
+  "sigla": "BIE.MI",
+  "filejson": "dati/azioni/json/bioera.json",
+  "filecsv": "dati/azioni/csv/bioera.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 199
+ },
+ {
+  "azienda": "Bioera Axa",
+  "dettaglio": "Bioera Axa",
+  "sigla": "",
+  "filejson": "dati/azioni/json/bioeraaxa.json",
+  "filecsv": "dati/azioni/csv/bioeraaxa.csv",
+  "dataAggiornamento": "25-02-2023 08:36:01",
+  "abilitata": true,
+  "records": 6
+ },
+ {
+  "azienda": "Bmw",
+  "dettaglio": "Bmw",
+  "sigla": "BMW.MI",
+  "filejson": "dati/azioni/json/bmw.json",
+  "filecsv": "dati/azioni/csv/bmw.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 194
+ },
+ {
+  "azienda": "Aedes",
+  "dettaglio": "Aedes",
+  "sigla": "AED.MI",
+  "filejson": "dati/azioni/json/aedes.json",
+  "filecsv": "dati/azioni/csv/aedes.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 161
+ },
+ {
+  "azienda": "Bnp Paribas",
+  "dettaglio": "Bnp Paribas",
+  "sigla": "",
+  "filejson": "dati/azioni/json/bnpparibas.json",
+  "filecsv": "dati/azioni/csv/bnpparibas.csv",
+  "dataAggiornamento": "25-02-2023 08:36:01",
+  "abilitata": true,
+  "records": 15
+ },
+ {
+  "azienda": "Borgosesia",
+  "dettaglio": "Borgosesia",
+  "sigla": "BO.MI",
+  "filejson": "dati/azioni/json/borgosesia.json",
+  "filecsv": "dati/azioni/csv/borgosesia.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 198
+ },
+ {
+  "azienda": "Bper Banca",
+  "dettaglio": "Bper Banca",
+  "sigla": "BPE.MI",
+  "filejson": "dati/azioni/json/bperbanca.json",
+  "filecsv": "dati/azioni/csv/bperbanca.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 205
+ },
+ {
+  "azienda": "Brembo",
+  "dettaglio": "Brembo",
+  "sigla": "BRE.MI",
+  "filejson": "dati/azioni/json/brembo.json",
+  "filecsv": "dati/azioni/csv/brembo.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 213
+ },
+ {
+  "azienda": "Brioschi",
+  "dettaglio": "Brioschi",
+  "sigla": "BRI.MI",
+  "filejson": "dati/azioni/json/brioschi.json",
+  "filecsv": "dati/azioni/csv/brioschi.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 204
+ },
+ {
+  "azienda": "Brunello Cucinelli",
+  "dettaglio": "Brunello Cucinelli",
+  "sigla": "BC.MI",
+  "filejson": "dati/azioni/json/brunellocucinelli.json",
+  "filecsv": "dati/azioni/csv/brunellocucinelli.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 219
+ },
+ {
+  "azienda": "Buzzi Unicem",
+  "dettaglio": "Buzzi Unicem",
+  "sigla": "BZU.MI",
+  "filejson": "dati/azioni/json/buzziunicem.json",
+  "filecsv": "dati/azioni/csv/buzziunicem.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 207
+ },
+ {
+  "azienda": "Cairo Communication",
+  "dettaglio": "Cairo Communication",
+  "sigla": "CAI.MI",
+  "filejson": "dati/azioni/json/cairocommunication.json",
+  "filecsv": "dati/azioni/csv/cairocommunication.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 214
+ },
+ {
+  "azienda": "Caleffi",
+  "dettaglio": "Caleffi",
+  "sigla": "CLF.MI",
+  "filejson": "dati/azioni/json/caleffi.json",
+  "filecsv": "dati/azioni/csv/caleffi.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 184
+ },
+ {
+  "azienda": "Caltagirone",
+  "dettaglio": "Caltagirone",
+  "sigla": "CALT.MI",
+  "filejson": "dati/azioni/json/caltagirone.json",
+  "filecsv": "dati/azioni/csv/caltagirone.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 186
+ },
+ {
+  "azienda": "Aeffe",
+  "dettaglio": "Aeffe",
+  "sigla": "AEF.MI",
+  "filejson": "dati/azioni/json/aeffe.json",
+  "filecsv": "dati/azioni/csv/aeffe.csv",
+  "dataAggiornamento": "25-02-2023 09:55:57",
+  "abilitata": true,
+  "records": 229
+ },
+ {
+  "azienda": "Caltagirone Edit",
+  "dettaglio": "Caltagirone Edit",
+  "sigla": "CED.MI",
+  "filejson": "dati/azioni/json/caltagironeedit.json",
+  "filecsv": "dati/azioni/csv/caltagironeedit.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 154
+ },
+ {
+  "azienda": "Campari",
+  "dettaglio": "Campari",
+  "sigla": "CPR.MI",
+  "filejson": "dati/azioni/json/campari.json",
+  "filecsv": "dati/azioni/csv/campari.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 196
+ },
+ {
+  "azienda": "Carel Industries",
+  "dettaglio": "Carel Industries",
+  "sigla": "CRL.MI",
+  "filejson": "dati/azioni/json/carelindustries.json",
+  "filecsv": "dati/azioni/csv/carelindustries.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 221
+ },
+ {
+  "azienda": "Casasold",
+  "dettaglio": "Casasold",
+  "sigla": "CASA.MI",
+  "filejson": "dati/azioni/json/casasold.json",
+  "filecsv": "dati/azioni/csv/casasold.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 147
+ },
+ {
+  "azienda": "Casta Diva Group",
+  "dettaglio": "Casta Diva Group",
+  "sigla": "CDG.MI",
+  "filejson": "dati/azioni/json/castadivagroup.json",
+  "filecsv": "dati/azioni/csv/castadivagroup.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 212
+ },
+ {
+  "azienda": "Cellularline",
+  "dettaglio": "Cellularline",
+  "sigla": "CELL.MI",
+  "filejson": "dati/azioni/json/cellularline.json",
+  "filecsv": "dati/azioni/csv/cellularline.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 151
+ },
+ {
+  "azienda": "Cembre",
+  "dettaglio": "Cembre",
+  "sigla": "CMB.MI",
+  "filejson": "dati/azioni/json/cembre.json",
+  "filecsv": "dati/azioni/csv/cembre.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 190
+ },
+ {
+  "azienda": "Cementir Holding",
+  "dettaglio": "Cementir Holding",
+  "sigla": "CEM.MI",
+  "filejson": "dati/azioni/json/cementirholding.json",
+  "filecsv": "dati/azioni/csv/cementirholding.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 207
+ },
+ {
+  "azienda": "Centrale Del Latte D'Italia",
+  "dettaglio": "Centrale Del Latte D'Italia",
+  "sigla": "CLI.MI",
+  "filejson": "dati/azioni/json/centraledellatted_italia.json",
+  "filecsv": "dati/azioni/csv/centraledellatted_italia.csv",
+  "dataAggiornamento": "25-02-2023 09:55:58",
+  "abilitata": true,
+  "records": 122
+ },
+ {
+  "azienda": "Cia",
+  "dettaglio": "Cia",
+  "sigla": "",
+  "filejson": "dati/azioni/json/cia.json",
+  "filecsv": "dati/azioni/csv/cia.csv",
+  "dataAggiornamento": "25-02-2023 08:36:03",
+  "abilitata": true,
+  "records": 22
+ }
+]

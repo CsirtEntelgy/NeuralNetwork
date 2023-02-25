@@ -1,0 +1,184 @@
+{
+ "azienda": "Ilpra",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 4.75,
+   "massimo": 4.8,
+   "minimo": 4.7,
+   "ultimoValore": 4.75,
+   "variazionePercentuale": 0.64,
+   "variazione": 0
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 4.75,
+   "massimo": 4.8,
+   "minimo": 4.7,
+   "ultimoValore": 4.75,
+   "variazionePercentuale": 0.64,
+   "variazione": 0
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 4.75,
+   "massimo": 4.8,
+   "minimo": 4.7,
+   "ultimoValore": 4.75,
+   "variazionePercentuale": 0.64,
+   "variazione": 0
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 4.82,
+   "massimo": 4.98,
+   "minimo": 4.61,
+   "ultimoValore": 4.98,
+   "variazionePercentuale": 4.84,
+   "variazione": 0.16000000000000014
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 5.02,
+   "massimo": 5.26,
+   "minimo": 4.94,
+   "ultimoValore": 5.24,
+   "variazionePercentuale": 6.29,
+   "variazione": 0.22000000000000064
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 5.12,
+   "massimo": 5.18,
+   "minimo": 5.06,
+   "ultimoValore": 5.06,
+   "variazionePercentuale": -3.43,
+   "variazione": -0.0600000000000005
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 5,
+   "massimo": 5.06,
+   "minimo": 4.95,
+   "ultimoValore": 4.95,
+   "variazionePercentuale": -2.17,
+   "variazione": -0.04999999999999982
+  },
+  "2023-02-10": {
+   "data": "2023-02-10",
+   "apertura": 4.98,
+   "massimo": 5,
+   "minimo": 4.9,
+   "ultimoValore": 4.96,
+   "variazionePercentuale": 0.2,
+   "variazione": -0.020000000000000462
+  },
+  "2023-02-11": {
+   "data": "2023-02-11",
+   "apertura": 4.98,
+   "massimo": 5,
+   "minimo": 4.9,
+   "ultimoValore": 4.96,
+   "variazionePercentuale": 0.2,
+   "variazione": -0.020000000000000462
+  },
+  "2023-02-12": {
+   "data": "2023-02-12",
+   "apertura": 4.98,
+   "massimo": 5,
+   "minimo": 4.9,
+   "ultimoValore": 4.96,
+   "variazionePercentuale": 0.2,
+   "variazione": -0.020000000000000462
+  },
+  "2023-02-13": {
+   "data": "2023-02-13",
+   "apertura": 4.85,
+   "massimo": 4.95,
+   "minimo": 4.8,
+   "ultimoValore": 4.86,
+   "variazionePercentuale": -2.02,
+   "variazione": 0.010000000000000675
+  },
+  "2023-02-14": {
+   "data": "2023-02-14",
+   "ultimoValore": 4.76,
+   "variazionePercentuale": -2.06,
+   "variazione": null
+  },
+  "2023-02-15": {
+   "data": "2023-02-15",
+   "apertura": 4.75,
+   "massimo": 4.83,
+   "minimo": 4.75,
+   "ultimoValore": 4.83,
+   "variazionePercentuale": 1.47,
+   "variazione": 0.08000000000000007
+  },
+  "2023-02-16": {
+   "data": "2023-02-16",
+   "apertura": 4.78,
+   "massimo": 4.78,
+   "minimo": 4.6,
+   "ultimoValore": 4.7,
+   "variazionePercentuale": -2.69,
+   "variazione": -0.08000000000000007
+  },
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "apertura": 4.65,
+   "variazionePercentuale": -1.91,
+   "ultimoValore": 4.61,
+   "minimo": 4.56,
+   "massimo": 4.68
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "apertura": 4.65,
+   "variazionePercentuale": -1.91,
+   "ultimoValore": 4.61,
+   "minimo": 4.56,
+   "massimo": 4.68
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 4.65,
+   "variazionePercentuale": -1.91,
+   "ultimoValore": 4.61,
+   "minimo": 4.56,
+   "massimo": 4.68
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 4.61,
+   "variazionePercentuale": -1.52,
+   "ultimoValore": 4.54,
+   "minimo": 4.54,
+   "massimo": 4.61
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 4.59,
+   "variazionePercentuale": 1.1,
+   "ultimoValore": 4.59,
+   "minimo": 4.55,
+   "massimo": 4.59
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 4.57,
+   "variazionePercentuale": -1.52,
+   "ultimoValore": 4.52,
+   "minimo": 4.46,
+   "massimo": 4.59
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 4.58,
+   "variazionePercentuale": 0.66,
+   "ultimoValore": 4.55,
+   "minimo": 4.53,
+   "massimo": 4.58
+  }
+ }
+}

@@ -1,0 +1,203 @@
+{
+ "azienda": "Tessellis",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 0.74,
+   "massimo": 0.7546,
+   "minimo": 0.735,
+   "ultimoValore": 0.7546,
+   "variazionePercentuale": 1.7,
+   "variazione": 0.014600000000000057
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 0.74,
+   "massimo": 0.7546,
+   "minimo": 0.735,
+   "ultimoValore": 0.7546,
+   "variazionePercentuale": 1.7,
+   "variazione": 0.014600000000000057
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 0.74,
+   "massimo": 0.7546,
+   "minimo": 0.735,
+   "ultimoValore": 0.7546,
+   "variazionePercentuale": 1.7,
+   "variazione": 0.014600000000000057
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 0.7596,
+   "massimo": 0.76,
+   "minimo": 0.7382,
+   "ultimoValore": 0.7434,
+   "variazionePercentuale": -1.48,
+   "variazione": -0.016200000000000103
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 0.753,
+   "massimo": 0.753,
+   "minimo": 0.7306,
+   "ultimoValore": 0.732,
+   "variazionePercentuale": -1.53,
+   "variazione": -0.02100000000000002
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 0.7308,
+   "massimo": 0.741,
+   "minimo": 0.722,
+   "ultimoValore": 0.7314,
+   "variazionePercentuale": -0.08,
+   "variazione": 0.0006000000000000449
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 0.725,
+   "massimo": 0.7392,
+   "minimo": 0.719,
+   "ultimoValore": 0.7274,
+   "variazionePercentuale": -0.55,
+   "variazione": 0.0024000000000000687
+  },
+  "2023-02-10": {
+   "data": "2023-02-10",
+   "apertura": 0.7274,
+   "massimo": 0.7298,
+   "minimo": 0.715,
+   "ultimoValore": 0.7154,
+   "variazionePercentuale": -1.65,
+   "variazione": -0.01200000000000001
+  },
+  "2023-02-11": {
+   "data": "2023-02-11",
+   "apertura": 0.7274,
+   "massimo": 0.7298,
+   "minimo": 0.715,
+   "ultimoValore": 0.7154,
+   "variazionePercentuale": -1.65,
+   "variazione": -0.01200000000000001
+  },
+  "2023-02-12": {
+   "data": "2023-02-12",
+   "apertura": 0.7274,
+   "massimo": 0.7298,
+   "minimo": 0.715,
+   "ultimoValore": 0.7154,
+   "variazionePercentuale": -1.65,
+   "variazione": -0.01200000000000001
+  },
+  "2023-02-13": {
+   "data": "2023-02-13",
+   "apertura": 0.715,
+   "massimo": 0.7174,
+   "minimo": 0.708,
+   "ultimoValore": 0.71,
+   "variazionePercentuale": -0.75,
+   "variazione": -0.0050000000000000044
+  },
+  "2023-02-14": {
+   "data": "2023-02-14",
+   "apertura": 0.71,
+   "massimo": 0.7186,
+   "minimo": 0.7074,
+   "ultimoValore": 0.7118,
+   "variazionePercentuale": 0.25,
+   "variazione": 0.0018000000000000238
+  },
+  "2023-02-15": {
+   "data": "2023-02-15",
+   "apertura": 0.7196,
+   "massimo": 0.7196,
+   "minimo": 0.7,
+   "ultimoValore": 0.7052,
+   "variazionePercentuale": -0.93,
+   "variazione": -0.014399999999999968
+  },
+  "2023-02-16": {
+   "data": "2023-02-16",
+   "apertura": 0.7054,
+   "massimo": 0.7096,
+   "minimo": 0.7,
+   "ultimoValore": 0.7064,
+   "variazionePercentuale": 0.17,
+   "variazione": 0.0010000000000000009
+  },
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "apertura": 0.7008,
+   "variazionePercentuale": -1.33,
+   "ultimoValore": 0.697,
+   "minimo": 0.691,
+   "massimo": 0.703
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "apertura": 0.7008,
+   "variazionePercentuale": -1.33,
+   "ultimoValore": 0.697,
+   "minimo": 0.691,
+   "massimo": 0.703
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 0.7008,
+   "variazionePercentuale": -1.33,
+   "ultimoValore": 0.697,
+   "minimo": 0.691,
+   "massimo": 0.703
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 0.694,
+   "variazionePercentuale": -0.98,
+   "ultimoValore": 0.6902,
+   "minimo": 0.69,
+   "massimo": 0.6994
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 0.69,
+   "variazionePercentuale": -0.72,
+   "ultimoValore": 0.6852,
+   "minimo": 0.6818,
+   "massimo": 0.694
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 0.6844,
+   "variazionePercentuale": -3.39,
+   "ultimoValore": 0.662,
+   "minimo": 0.6612,
+   "massimo": 0.6852
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 0.6622,
+   "variazionePercentuale": 0.57,
+   "ultimoValore": 0.6658,
+   "minimo": 0.661,
+   "massimo": 0.672
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 0.67,
+   "variazionePercentuale": -1.17,
+   "ultimoValore": 0.658,
+   "minimo": 0.651,
+   "massimo": 0.672
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 0.67,
+   "variazionePercentuale": -1.17,
+   "ultimoValore": 0.658,
+   "minimo": 0.651,
+   "massimo": 0.672
+  }
+ }
+}

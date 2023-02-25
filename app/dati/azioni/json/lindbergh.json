@@ -1,0 +1,61 @@
+{
+ "azienda": "Lindbergh",
+ "dati": {
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "apertura": 1.76,
+   "variazionePercentuale": -0.68,
+   "ultimoValore": 1.76,
+   "minimo": 1.76,
+   "massimo": 1.76
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "apertura": 1.76,
+   "variazionePercentuale": -0.68,
+   "ultimoValore": 1.76,
+   "minimo": 1.76,
+   "massimo": 1.76
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 1.76,
+   "variazionePercentuale": -0.68,
+   "ultimoValore": 1.76,
+   "minimo": 1.76,
+   "massimo": 1.76
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 1.76,
+   "variazionePercentuale": 2.05,
+   "ultimoValore": 1.796,
+   "minimo": 1.76,
+   "massimo": 1.796
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 1.836,
+   "variazionePercentuale": 2.12,
+   "ultimoValore": 1.834,
+   "minimo": 1.832,
+   "massimo": 1.836
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 1.792,
+   "variazionePercentuale": -2.29,
+   "ultimoValore": 1.792,
+   "minimo": 1.792,
+   "massimo": 1.792
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 1.792,
+   "variazionePercentuale": -2.29,
+   "ultimoValore": 1.792,
+   "minimo": 1.792,
+   "massimo": 1.792
+  }
+ }
+}

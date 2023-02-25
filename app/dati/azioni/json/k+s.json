@@ -1,0 +1,29 @@
+{
+ "azienda": "K+S",
+ "dati": {
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 21.52,
+   "variazionePercentuale": 0.75,
+   "ultimoValore": 21.52,
+   "minimo": 21.52,
+   "massimo": 21.52
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 22.65,
+   "variazionePercentuale": 5.48,
+   "ultimoValore": 22.7,
+   "minimo": 22.65,
+   "massimo": 22.7
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 22.65,
+   "variazionePercentuale": 5.48,
+   "ultimoValore": 22.7,
+   "minimo": 22.65,
+   "massimo": 22.7
+  }
+ }
+}

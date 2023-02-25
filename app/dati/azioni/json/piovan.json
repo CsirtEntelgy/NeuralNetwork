@@ -1,0 +1,185 @@
+{
+ "azienda": "Piovan",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 9.92,
+   "massimo": 10.04,
+   "minimo": 9.74,
+   "ultimoValore": 9.95,
+   "variazionePercentuale": -1.48,
+   "variazione": 0.02999999999999936
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 9.92,
+   "massimo": 10.04,
+   "minimo": 9.74,
+   "ultimoValore": 9.95,
+   "variazionePercentuale": -1.48,
+   "variazione": 0.02999999999999936
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 9.92,
+   "massimo": 10.04,
+   "minimo": 9.74,
+   "ultimoValore": 9.95,
+   "variazionePercentuale": -1.48,
+   "variazione": 0.02999999999999936
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 9.82,
+   "massimo": 10.1,
+   "minimo": 9.77,
+   "ultimoValore": 10.1,
+   "variazionePercentuale": 1.51,
+   "variazione": 0.27999999999999936
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 9.86,
+   "massimo": 10.06,
+   "minimo": 9.84,
+   "ultimoValore": 10.06,
+   "variazionePercentuale": -0.4,
+   "variazione": 0.20000000000000107
+  },
+  "2023-02-10": {
+   "data": "2023-02-10",
+   "apertura": 9.92,
+   "massimo": 10,
+   "minimo": 9.87,
+   "ultimoValore": 9.9,
+   "variazionePercentuale": -1.59,
+   "variazione": -0.019999999999999574
+  },
+  "2023-02-11": {
+   "data": "2023-02-11",
+   "apertura": 9.92,
+   "massimo": 10,
+   "minimo": 9.87,
+   "ultimoValore": 9.9,
+   "variazionePercentuale": -1.59,
+   "variazione": -0.019999999999999574
+  },
+  "2023-02-12": {
+   "data": "2023-02-12",
+   "apertura": 9.92,
+   "massimo": 10,
+   "minimo": 9.87,
+   "ultimoValore": 9.9,
+   "variazionePercentuale": -1.59,
+   "variazione": -0.019999999999999574
+  },
+  "2023-02-13": {
+   "data": "2023-02-13",
+   "apertura": 9.69,
+   "massimo": 10,
+   "minimo": 9.69,
+   "ultimoValore": 9.86,
+   "variazionePercentuale": -0.4,
+   "variazione": 0.16999999999999993
+  },
+  "2023-02-14": {
+   "data": "2023-02-14",
+   "apertura": 9.98,
+   "massimo": 9.98,
+   "minimo": 9.63,
+   "ultimoValore": 9.99,
+   "variazionePercentuale": 1.32,
+   "variazione": 0.009999999999999787
+  },
+  "2023-02-15": {
+   "data": "2023-02-15",
+   "apertura": 9.65,
+   "massimo": 9.95,
+   "minimo": 9.65,
+   "ultimoValore": 9.88,
+   "variazionePercentuale": -1.1,
+   "variazione": 0.23000000000000043
+  },
+  "2023-02-16": {
+   "data": "2023-02-16",
+   "apertura": 9.68,
+   "massimo": 9.94,
+   "minimo": 9.68,
+   "ultimoValore": 9.94,
+   "variazionePercentuale": 0.61,
+   "variazione": 0.2599999999999998
+  },
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "apertura": 9.8,
+   "variazionePercentuale": 1.92,
+   "ultimoValore": 10.1,
+   "minimo": 9.79,
+   "massimo": 10.1
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "apertura": 9.8,
+   "variazionePercentuale": 1.92,
+   "ultimoValore": 10.1,
+   "minimo": 9.79,
+   "massimo": 10.1
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 9.8,
+   "variazionePercentuale": 1.92,
+   "ultimoValore": 10.1,
+   "minimo": 9.79,
+   "massimo": 10.1
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 10,
+   "variazionePercentuale": -0.79,
+   "ultimoValore": 10,
+   "minimo": 9.78,
+   "massimo": 10.1
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 9.9,
+   "variazionePercentuale": 1,
+   "ultimoValore": 10.1,
+   "minimo": 9.9,
+   "massimo": 10.1
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 10.06,
+   "variazionePercentuale": -1.78,
+   "ultimoValore": 9.92,
+   "minimo": 9.92,
+   "massimo": 10.06
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 9.96,
+   "variazionePercentuale": 1.61,
+   "ultimoValore": 10.08,
+   "minimo": 9.94,
+   "massimo": 10.1
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 10.08,
+   "variazionePercentuale": 0.79,
+   "ultimoValore": 10.16,
+   "minimo": 9.82,
+   "massimo": 10.16
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 10.08,
+   "variazionePercentuale": 0.79,
+   "ultimoValore": 10.16,
+   "minimo": 9.82,
+   "massimo": 10.16
+  }
+ }
+}

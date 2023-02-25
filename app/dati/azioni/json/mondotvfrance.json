@@ -1,0 +1,106 @@
+{
+ "azienda": "Mondo Tv France",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 0.0142,
+   "massimo": 0.0142,
+   "minimo": 0.0136,
+   "ultimoValore": 0.0136,
+   "variazionePercentuale": -4.22,
+   "variazione": -0.0006000000000000016
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 0.0142,
+   "massimo": 0.0142,
+   "minimo": 0.0136,
+   "ultimoValore": 0.0136,
+   "variazionePercentuale": -4.22,
+   "variazione": -0.0006000000000000016
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 0.0142,
+   "massimo": 0.0142,
+   "minimo": 0.0136,
+   "ultimoValore": 0.0136,
+   "variazionePercentuale": -4.22,
+   "variazione": -0.0006000000000000016
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 0.0138,
+   "massimo": 0.0142,
+   "minimo": 0.0138,
+   "ultimoValore": 0.0142,
+   "variazionePercentuale": 4.41,
+   "variazione": 0.00040000000000000105
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 0.0138,
+   "massimo": 0.0158,
+   "minimo": 0.0138,
+   "ultimoValore": 0.0158,
+   "variazionePercentuale": 11.27,
+   "variazione": 0.0020000000000000018
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 0.0182,
+   "variazionePercentuale": -2.15,
+   "ultimoValore": 0.0182,
+   "minimo": 0.0176,
+   "massimo": 0.019
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 0.018,
+   "variazionePercentuale": -3.3,
+   "ultimoValore": 0.0176,
+   "minimo": 0.0176,
+   "massimo": 0.0184
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 0.0178,
+   "variazionePercentuale": 9.09,
+   "ultimoValore": 0.0192,
+   "minimo": 0.0178,
+   "massimo": 0.02
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 0.0192,
+   "variazionePercentuale": 6.25,
+   "ultimoValore": 0.0204,
+   "minimo": 0.019,
+   "massimo": 0.021
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 0.0204,
+   "variazionePercentuale": -4.9,
+   "ultimoValore": 0.0194,
+   "minimo": 0.0194,
+   "massimo": 0.0204
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 0.0194,
+   "variazionePercentuale": -2.06,
+   "ultimoValore": 0.019,
+   "minimo": 0.0184,
+   "massimo": 0.0196
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 0.0194,
+   "variazionePercentuale": -2.06,
+   "ultimoValore": 0.019,
+   "minimo": 0.0184,
+   "massimo": 0.0196
+  }
+ }
+}

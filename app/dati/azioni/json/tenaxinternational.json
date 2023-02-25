@@ -1,0 +1,77 @@
+{
+ "azienda": "Tenax International",
+ "dati": {
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "apertura": 3.3,
+   "variazionePercentuale": 0.3,
+   "ultimoValore": 3.3,
+   "minimo": 3.3,
+   "massimo": 3.3
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "apertura": 3.3,
+   "variazionePercentuale": 0.3,
+   "ultimoValore": 3.3,
+   "minimo": 3.3,
+   "massimo": 3.3
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 3.3,
+   "variazionePercentuale": 0.3,
+   "ultimoValore": 3.3,
+   "minimo": 3.3,
+   "massimo": 3.3
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 3.24,
+   "variazionePercentuale": -1.82,
+   "ultimoValore": 3.24,
+   "minimo": 3.24,
+   "massimo": 3.29
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 3.25,
+   "variazionePercentuale": 2.47,
+   "ultimoValore": 3.32,
+   "minimo": 3.23,
+   "massimo": 3.32
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 3.26,
+   "variazionePercentuale": -2.11,
+   "ultimoValore": 3.25,
+   "minimo": 3.25,
+   "massimo": 3.26
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 3.23,
+   "variazionePercentuale": -0.61,
+   "ultimoValore": 3.23,
+   "minimo": 3.23,
+   "massimo": 3.23
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 3.23,
+   "variazionePercentuale": -0.31,
+   "ultimoValore": 3.22,
+   "minimo": 3.22,
+   "massimo": 3.23
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 3.23,
+   "variazionePercentuale": -0.31,
+   "ultimoValore": 3.22,
+   "minimo": 3.22,
+   "massimo": 3.23
+  }
+ }
+}

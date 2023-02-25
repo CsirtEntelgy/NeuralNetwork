@@ -1,0 +1,159 @@
+{
+ "azienda": "Gentili Mosconi",
+ "dati": {
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 3.8,
+   "massimo": 3.85,
+   "minimo": 3.7,
+   "ultimoValore": 3.7705,
+   "variazionePercentuale": 0.55,
+   "variazione": -0.029499999999999638
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 3.7705,
+   "massimo": 3.8,
+   "minimo": 3.75,
+   "ultimoValore": 3.76,
+   "variazionePercentuale": -0.28,
+   "variazione": -0.010500000000000398
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 3.8,
+   "massimo": 3.8,
+   "minimo": 3.78,
+   "ultimoValore": 3.799,
+   "variazionePercentuale": 1.04,
+   "variazione": -0.0009999999999998899
+  },
+  "2023-02-10": {
+   "data": "2023-02-10",
+   "apertura": 3.8,
+   "massimo": 3.8,
+   "minimo": 3.76,
+   "ultimoValore": 3.76,
+   "variazionePercentuale": -1.01,
+   "variazione": -0.040000000000000036
+  },
+  "2023-02-11": {
+   "data": "2023-02-11",
+   "apertura": 3.8,
+   "massimo": 3.8,
+   "minimo": 3.76,
+   "ultimoValore": 3.76,
+   "variazionePercentuale": -1.01,
+   "variazione": -0.040000000000000036
+  },
+  "2023-02-12": {
+   "data": "2023-02-12",
+   "apertura": 3.8,
+   "massimo": 3.8,
+   "minimo": 3.76,
+   "ultimoValore": 3.76,
+   "variazionePercentuale": -1.01,
+   "variazione": -0.040000000000000036
+  },
+  "2023-02-13": {
+   "data": "2023-02-13",
+   "apertura": 3.799,
+   "massimo": 3.8,
+   "minimo": 3.76,
+   "ultimoValore": 3.755,
+   "variazionePercentuale": -0.13,
+   "variazione": -0.04400000000000004
+  },
+  "2023-02-14": {
+   "data": "2023-02-14",
+   "apertura": 3.8,
+   "massimo": 3.8,
+   "minimo": 3.75,
+   "ultimoValore": 3.737,
+   "variazionePercentuale": -0.48,
+   "variazione": -0.06299999999999972
+  },
+  "2023-02-15": {
+   "data": "2023-02-15",
+   "apertura": 3.755,
+   "massimo": 3.9,
+   "minimo": 3.755,
+   "ultimoValore": 3.8,
+   "variazionePercentuale": 1.69,
+   "variazione": 0.04499999999999993
+  },
+  "2023-02-16": {
+   "data": "2023-02-16",
+   "apertura": 3.83,
+   "massimo": 3.86,
+   "minimo": 3.79,
+   "ultimoValore": 3.79,
+   "variazionePercentuale": -0.26,
+   "variazione": -0.040000000000000036
+  },
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "apertura": 3.78,
+   "variazionePercentuale": -0.92,
+   "ultimoValore": 3.755,
+   "minimo": 3.75,
+   "massimo": 3.78
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "apertura": 3.78,
+   "variazionePercentuale": -0.92,
+   "ultimoValore": 3.755,
+   "minimo": 3.75,
+   "massimo": 3.78
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 3.78,
+   "variazionePercentuale": -0.92,
+   "ultimoValore": 3.755,
+   "minimo": 3.75,
+   "massimo": 3.78
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 3.765,
+   "variazionePercentuale": -1.33,
+   "ultimoValore": 3.705,
+   "minimo": 3.7,
+   "massimo": 3.765
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 3.7,
+   "variazionePercentuale": -0.94,
+   "ultimoValore": 3.67,
+   "minimo": 3.67,
+   "massimo": 3.745
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 3.745,
+   "variazionePercentuale": 2.04,
+   "ultimoValore": 3.745,
+   "minimo": 3.745,
+   "massimo": 3.75
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 3.79,
+   "variazionePercentuale": -1.2,
+   "ultimoValore": 3.7,
+   "minimo": 3.7,
+   "massimo": 3.8
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 3.79,
+   "variazionePercentuale": -1.2,
+   "ultimoValore": 3.7,
+   "minimo": 3.7,
+   "massimo": 3.8
+  }
+ }
+}

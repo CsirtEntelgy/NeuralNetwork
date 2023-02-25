@@ -1,0 +1,185 @@
+{
+ "azienda": "Energy",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 3.8,
+   "massimo": 3.85,
+   "minimo": 3.65,
+   "ultimoValore": 3.65,
+   "variazionePercentuale": -3.44,
+   "variazione": -0.1499999999999999
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 3.8,
+   "massimo": 3.85,
+   "minimo": 3.65,
+   "ultimoValore": 3.65,
+   "variazionePercentuale": -3.44,
+   "variazione": -0.1499999999999999
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 3.8,
+   "massimo": 3.85,
+   "minimo": 3.65,
+   "ultimoValore": 3.65,
+   "variazionePercentuale": -3.44,
+   "variazione": -0.1499999999999999
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 3.69,
+   "massimo": 3.9,
+   "minimo": 3.65,
+   "ultimoValore": 3.7,
+   "variazionePercentuale": 1.37,
+   "variazione": 0.010000000000000231
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 3.75,
+   "massimo": 3.75,
+   "minimo": 3.68,
+   "ultimoValore": 3.74,
+   "variazionePercentuale": 1.08,
+   "variazione": -0.009999999999999787
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 3.74,
+   "massimo": 3.89,
+   "minimo": 3.74,
+   "ultimoValore": 3.75,
+   "variazionePercentuale": 0.27,
+   "variazione": 0.009999999999999787
+  },
+  "2023-02-10": {
+   "data": "2023-02-10",
+   "apertura": 3.78,
+   "massimo": 3.89,
+   "minimo": 3.76,
+   "ultimoValore": 3.76,
+   "variazionePercentuale": 0.27,
+   "variazione": -0.020000000000000018
+  },
+  "2023-02-11": {
+   "data": "2023-02-11",
+   "apertura": 3.78,
+   "massimo": 3.89,
+   "minimo": 3.76,
+   "ultimoValore": 3.76,
+   "variazionePercentuale": 0.27,
+   "variazione": -0.020000000000000018
+  },
+  "2023-02-12": {
+   "data": "2023-02-12",
+   "apertura": 3.78,
+   "massimo": 3.89,
+   "minimo": 3.76,
+   "ultimoValore": 3.76,
+   "variazionePercentuale": 0.27,
+   "variazione": -0.020000000000000018
+  },
+  "2023-02-13": {
+   "data": "2023-02-13",
+   "apertura": 3.85,
+   "massimo": 3.86,
+   "minimo": 3.8,
+   "ultimoValore": 3.8,
+   "variazionePercentuale": 1.06,
+   "variazione": -0.050000000000000266
+  },
+  "2023-02-14": {
+   "data": "2023-02-14",
+   "apertura": 3.81,
+   "massimo": 3.81,
+   "minimo": 3.81,
+   "ultimoValore": 3.82,
+   "variazionePercentuale": 0.53,
+   "variazione": 0.009999999999999787
+  },
+  "2023-02-15": {
+   "data": "2023-02-15",
+   "apertura": 3.82,
+   "massimo": 3.87,
+   "minimo": 3.77,
+   "ultimoValore": 3.84,
+   "variazionePercentuale": 0.52,
+   "variazione": 0.020000000000000018
+  },
+  "2023-02-16": {
+   "data": "2023-02-16",
+   "apertura": 3.93,
+   "massimo": 4.19,
+   "minimo": 3.91,
+   "ultimoValore": 3.97,
+   "variazionePercentuale": 3.39,
+   "variazione": 0.040000000000000036
+  },
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "variazionePercentuale": -4.03,
+   "ultimoValore": 3.81,
+   "minimo": 3.77,
+   "massimo": 4
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "variazionePercentuale": -4.03,
+   "ultimoValore": 3.81,
+   "minimo": 3.77,
+   "massimo": 4
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "variazionePercentuale": -4.03,
+   "ultimoValore": 3.81,
+   "minimo": 3.77,
+   "massimo": 4
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "variazionePercentuale": 1.32,
+   "ultimoValore": 3.85,
+   "minimo": 3.8,
+   "massimo": 3.92
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "variazionePercentuale": -3.12,
+   "ultimoValore": 3.73,
+   "minimo": 3.65,
+   "massimo": 3.82
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "variazionePercentuale": -0.8,
+   "ultimoValore": 3.7,
+   "minimo": 3.65,
+   "massimo": 3.79
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "variazionePercentuale": 1.35,
+   "ultimoValore": 3.75,
+   "minimo": 3.75,
+   "massimo": 3.79
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "variazionePercentuale": 1.6,
+   "ultimoValore": 3.81,
+   "minimo": 3.79,
+   "massimo": 3.81
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "variazionePercentuale": 1.6,
+   "ultimoValore": 3.81,
+   "minimo": 3.79,
+   "massimo": 3.81
+  }
+ }
+}

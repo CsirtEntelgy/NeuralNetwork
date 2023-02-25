@@ -1,0 +1,115 @@
+{
+ "azienda": "Somec",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 30.9,
+   "massimo": 31.6,
+   "minimo": 30.8,
+   "ultimoValore": 31.4,
+   "variazionePercentuale": -1.26,
+   "variazione": 0.5
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 30.9,
+   "massimo": 31.6,
+   "minimo": 30.8,
+   "ultimoValore": 31.4,
+   "variazionePercentuale": -1.26,
+   "variazione": 0.5
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 30.9,
+   "massimo": 31.6,
+   "minimo": 30.8,
+   "ultimoValore": 31.4,
+   "variazionePercentuale": -1.26,
+   "variazione": 0.5
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 30.7,
+   "massimo": 31.3,
+   "minimo": 30.7,
+   "ultimoValore": 30.7,
+   "variazionePercentuale": -2.23,
+   "variazione": 0
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 30.9,
+   "massimo": 31,
+   "minimo": 30.9,
+   "ultimoValore": 31,
+   "variazionePercentuale": 0.98,
+   "variazione": 0.10000000000000142
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 31.2,
+   "massimo": 31.2,
+   "minimo": 30.7,
+   "ultimoValore": 30.7,
+   "variazionePercentuale": -0.97,
+   "variazione": -0.5
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 30,
+   "variazionePercentuale": 3.31,
+   "ultimoValore": 31.2,
+   "minimo": 30,
+   "massimo": 31.2
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 31.3,
+   "variazionePercentuale": 1.92,
+   "ultimoValore": 31.8,
+   "minimo": 30.8,
+   "massimo": 31.8
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 30.8,
+   "variazionePercentuale": -2.83,
+   "ultimoValore": 30.9,
+   "minimo": 30.6,
+   "massimo": 31.6
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 30.6,
+   "variazionePercentuale": 0.65,
+   "ultimoValore": 31.1,
+   "minimo": 30.4,
+   "massimo": 31.1
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 31.2,
+   "variazionePercentuale": -3.21,
+   "ultimoValore": 30.1,
+   "minimo": 30.1,
+   "massimo": 31.2
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 30.4,
+   "variazionePercentuale": 1.33,
+   "ultimoValore": 30.5,
+   "minimo": 30,
+   "massimo": 30.5
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 30.4,
+   "variazionePercentuale": 1.33,
+   "ultimoValore": 30.5,
+   "minimo": 30,
+   "massimo": 30.5
+  }
+ }
+}

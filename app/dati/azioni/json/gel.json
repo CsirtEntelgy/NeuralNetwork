@@ -1,0 +1,127 @@
+{
+ "azienda": "Gel",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 1.68,
+   "massimo": 1.7,
+   "minimo": 1.68,
+   "ultimoValore": 1.7,
+   "variazionePercentuale": 3.34,
+   "variazione": 0.020000000000000018
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 1.68,
+   "massimo": 1.7,
+   "minimo": 1.68,
+   "ultimoValore": 1.7,
+   "variazionePercentuale": 3.34,
+   "variazione": 0.020000000000000018
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 1.68,
+   "massimo": 1.7,
+   "minimo": 1.68,
+   "ultimoValore": 1.7,
+   "variazionePercentuale": 3.34,
+   "variazione": 0.020000000000000018
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 1.655,
+   "massimo": 1.695,
+   "minimo": 1.655,
+   "ultimoValore": 1.695,
+   "variazionePercentuale": -0.29,
+   "variazione": 0.040000000000000036
+  },
+  "2023-02-10": {
+   "data": "2023-02-10",
+   "apertura": 1.725,
+   "massimo": 1.79,
+   "minimo": 1.72,
+   "ultimoValore": 1.74,
+   "variazionePercentuale": 2.66,
+   "variazione": 0.014999999999999902
+  },
+  "2023-02-11": {
+   "data": "2023-02-11",
+   "apertura": 1.725,
+   "massimo": 1.79,
+   "minimo": 1.72,
+   "ultimoValore": 1.74,
+   "variazionePercentuale": 2.66,
+   "variazione": 0.014999999999999902
+  },
+  "2023-02-12": {
+   "data": "2023-02-12",
+   "apertura": 1.725,
+   "massimo": 1.79,
+   "minimo": 1.72,
+   "ultimoValore": 1.74,
+   "variazionePercentuale": 2.66,
+   "variazione": 0.014999999999999902
+  },
+  "2023-02-13": {
+   "data": "2023-02-13",
+   "apertura": 1.795,
+   "massimo": 1.86,
+   "minimo": 1.74,
+   "ultimoValore": 1.765,
+   "variazionePercentuale": 1.44,
+   "variazione": -0.030000000000000027
+  },
+  "2023-02-14": {
+   "data": "2023-02-14",
+   "ultimoValore": 1.77,
+   "variazionePercentuale": 0.28,
+   "variazione": null
+  },
+  "2023-02-16": {
+   "data": "2023-02-16",
+   "apertura": 1.75,
+   "massimo": 1.75,
+   "minimo": 1.68,
+   "ultimoValore": 1.72,
+   "variazionePercentuale": -2.82,
+   "variazione": -0.030000000000000027
+  },
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "variazionePercentuale": 1.77,
+   "ultimoValore": 1.73,
+   "minimo": 1.71,
+   "massimo": 1.73
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "variazionePercentuale": 1.77,
+   "ultimoValore": 1.73,
+   "minimo": 1.71,
+   "massimo": 1.73
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "variazionePercentuale": 1.77,
+   "ultimoValore": 1.73,
+   "minimo": 1.71,
+   "massimo": 1.73
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "variazionePercentuale": -1.16,
+   "ultimoValore": 1.71,
+   "minimo": 1.66,
+   "massimo": 1.71
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "variazionePercentuale": -0.58,
+   "ultimoValore": 1.7,
+   "minimo": 1.7,
+   "massimo": 1.7
+  }
+ }
+}

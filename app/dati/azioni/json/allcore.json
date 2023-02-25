@@ -1,0 +1,53 @@
+{
+ "azienda": "Allcore",
+ "dati": {
+  "2023-02-10": {
+   "data": "2023-02-10",
+   "apertura": 2.275,
+   "massimo": 2.29,
+   "minimo": 2.23,
+   "ultimoValore": 2.23,
+   "variazionePercentuale": 0.02
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 2.26,
+   "variazionePercentuale": -0.66,
+   "ultimoValore": 2.265,
+   "minimo": 2.2,
+   "massimo": 2.265
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 2.27,
+   "variazionePercentuale": 5.96,
+   "ultimoValore": 2.4,
+   "minimo": 2.26,
+   "massimo": 2.4
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 2.4,
+   "variazionePercentuale": -1.25,
+   "ultimoValore": 2.37,
+   "minimo": 2.35,
+   "massimo": 2.435
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 2.415,
+   "massimo": 2.415,
+   "minimo": 2.31,
+   "ultimoValore": 2.315,
+   "variazionePercentuale": 0.04
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 2.415,
+   "variazionePercentuale": -2.32,
+   "ultimoValore": 2.315,
+   "minimo": 2.31,
+   "massimo": 2.415
+  }
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "azienda": "Warr Kme Group 2021-2024",
+ "displayName": "WarrKmeGroup2021-2024",
+ "aggiornamento": "2023-02-17T12:07:54.710Z",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 0.29,
+   "massimo": 0.31,
+   "minimo": 0.29,
+   "ultimoValore": 0.2956,
+   "variazionePercentuale": -1.47,
+   "variazione": 0.005599999999999994
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 0.29,
+   "massimo": 0.31,
+   "minimo": 0.29,
+   "ultimoValore": 0.2956,
+   "variazionePercentuale": -1.47,
+   "variazione": 0.005599999999999994
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 0.29,
+   "massimo": 0.31,
+   "minimo": 0.29,
+   "ultimoValore": 0.2956,
+   "variazionePercentuale": -1.47,
+   "variazione": 0.005599999999999994
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 0.31,
+   "massimo": 0.31,
+   "minimo": 0.2955,
+   "ultimoValore": 0.296,
+   "variazionePercentuale": 0.14,
+   "variazione": -0.014000000000000012
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 0.3,
+   "massimo": 0.3079,
+   "minimo": 0.296,
+   "ultimoValore": 0.3049,
+   "variazionePercentuale": 3.01,
+   "variazione": 0.0049000000000000155
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 0.308,
+   "massimo": 0.3185,
+   "minimo": 0.3033,
+   "ultimoValore": 0.315,
+   "variazionePercentuale": 3.31,
+   "variazione": 0.007000000000000006
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 0.3189,
+   "massimo": 0.319,
+   "minimo": 0.3101,
+   "ultimoValore": 0.3175,
+   "variazionePercentuale": 0.79,
+   "variazione": -0.0014000000000000123
+  }
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "azienda": "Gilead Sciences",
+ "dati": {
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "apertura": 78,
+   "variazionePercentuale": -0.95,
+   "ultimoValore": 78.25,
+   "minimo": 78,
+   "massimo": 78.25
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "apertura": 78,
+   "variazionePercentuale": -0.95,
+   "ultimoValore": 78.25,
+   "minimo": 78,
+   "massimo": 78.25
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 78,
+   "variazionePercentuale": -0.95,
+   "ultimoValore": 78.25,
+   "minimo": 78,
+   "massimo": 78.25
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 79.29,
+   "variazionePercentuale": 0.96,
+   "ultimoValore": 79,
+   "minimo": 79,
+   "massimo": 79.39
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 78.85,
+   "variazionePercentuale": -0.19,
+   "ultimoValore": 78.85,
+   "minimo": 78.85,
+   "massimo": 78.85
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 79.64,
+   "variazionePercentuale": 1,
+   "ultimoValore": 79.64,
+   "minimo": 79.64,
+   "massimo": 79.64
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 79,
+   "variazionePercentuale": -0.8,
+   "ultimoValore": 79,
+   "minimo": 79,
+   "massimo": 79
+  }
+ }
+}

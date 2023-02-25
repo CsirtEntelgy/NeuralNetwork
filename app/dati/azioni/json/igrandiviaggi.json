@@ -1,0 +1,161 @@
+{
+ "azienda": "I Grandi Viaggi",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 0.932,
+   "massimo": 0.94,
+   "minimo": 0.908,
+   "ultimoValore": 0.922,
+   "variazionePercentuale": -1.5,
+   "variazione": -0.010000000000000009
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 0.932,
+   "massimo": 0.94,
+   "minimo": 0.908,
+   "ultimoValore": 0.922,
+   "variazionePercentuale": -1.5,
+   "variazione": -0.010000000000000009
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 0.932,
+   "massimo": 0.94,
+   "minimo": 0.908,
+   "ultimoValore": 0.922,
+   "variazionePercentuale": -1.5,
+   "variazione": -0.010000000000000009
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 0.91,
+   "massimo": 0.91,
+   "minimo": 0.872,
+   "ultimoValore": 0.898,
+   "variazionePercentuale": -2.6,
+   "variazione": -0.01200000000000001
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 0.898,
+   "massimo": 0.936,
+   "minimo": 0.882,
+   "ultimoValore": 0.9,
+   "variazionePercentuale": 0.22,
+   "variazione": 0.0020000000000000018
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 0.908,
+   "massimo": 0.916,
+   "minimo": 0.87,
+   "ultimoValore": 0.892,
+   "variazionePercentuale": -0.89,
+   "variazione": -0.016000000000000014
+  },
+  "2023-02-10": {
+   "data": "2023-02-10",
+   "apertura": 0.902,
+   "massimo": 0.916,
+   "minimo": 0.888,
+   "ultimoValore": 0.908,
+   "variazionePercentuale": 1.79,
+   "variazione": 0.006000000000000005
+  },
+  "2023-02-11": {
+   "data": "2023-02-11",
+   "apertura": 0.902,
+   "massimo": 0.916,
+   "minimo": 0.888,
+   "ultimoValore": 0.908,
+   "variazionePercentuale": 1.79,
+   "variazione": 0.006000000000000005
+  },
+  "2023-02-12": {
+   "data": "2023-02-12",
+   "apertura": 0.902,
+   "massimo": 0.916,
+   "minimo": 0.888,
+   "ultimoValore": 0.908,
+   "variazionePercentuale": 1.79,
+   "variazione": 0.006000000000000005
+  },
+  "2023-02-13": {
+   "data": "2023-02-13",
+   "apertura": 0.892,
+   "massimo": 0.896,
+   "minimo": 0.876,
+   "ultimoValore": 0.896,
+   "variazionePercentuale": -1.32,
+   "variazione": 0.0040000000000000036
+  },
+  "2023-02-15": {
+   "data": "2023-02-15",
+   "apertura": 0.898,
+   "massimo": 0.9,
+   "minimo": 0.85,
+   "ultimoValore": 0.856,
+   "variazionePercentuale": -4.46,
+   "variazione": -0.04200000000000004
+  },
+  "2023-02-16": {
+   "data": "2023-02-16",
+   "apertura": 0.86,
+   "massimo": 0.89,
+   "minimo": 0.856,
+   "ultimoValore": 0.89,
+   "variazionePercentuale": 3.97,
+   "variazione": 0.030000000000000027
+  },
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "apertura": 0.9,
+   "variazionePercentuale": -2.25,
+   "ultimoValore": 0.87,
+   "minimo": 0.864,
+   "massimo": 0.9
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "apertura": 0.9,
+   "variazionePercentuale": -2.25,
+   "ultimoValore": 0.87,
+   "minimo": 0.864,
+   "massimo": 0.9
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 0.9,
+   "variazionePercentuale": -2.25,
+   "ultimoValore": 0.87,
+   "minimo": 0.864,
+   "massimo": 0.9
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 0.88,
+   "variazionePercentuale": -0.46,
+   "ultimoValore": 0.866,
+   "minimo": 0.864,
+   "massimo": 0.9
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 0.882,
+   "variazionePercentuale": -0.69,
+   "ultimoValore": 0.86,
+   "minimo": 0.818,
+   "massimo": 0.888
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 0.86,
+   "variazionePercentuale": 1.16,
+   "ultimoValore": 0.87,
+   "minimo": 0.856,
+   "massimo": 0.87
+  }
+ }
+}

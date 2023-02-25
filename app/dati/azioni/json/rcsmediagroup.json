@@ -1,0 +1,147 @@
+{
+ "azienda": "Rcs Mediagroup",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 0.716,
+   "massimo": 0.72,
+   "minimo": 0.71,
+   "ultimoValore": 0.716,
+   "variazionePercentuale": -0.28,
+   "variazione": 0
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 0.716,
+   "massimo": 0.72,
+   "minimo": 0.71,
+   "ultimoValore": 0.716,
+   "variazionePercentuale": -0.28,
+   "variazione": 0
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 0.716,
+   "massimo": 0.72,
+   "minimo": 0.71,
+   "ultimoValore": 0.716,
+   "variazionePercentuale": -0.28,
+   "variazione": 0
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 0.716,
+   "massimo": 0.726,
+   "minimo": 0.702,
+   "ultimoValore": 0.719,
+   "variazionePercentuale": 0.42,
+   "variazione": 0.0030000000000000027
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 0.719,
+   "massimo": 0.722,
+   "minimo": 0.712,
+   "ultimoValore": 0.72,
+   "variazionePercentuale": 0.14,
+   "variazione": 0.0010000000000000009
+  },
+  "2023-02-14": {
+   "data": "2023-02-14",
+   "apertura": 0.725,
+   "massimo": 0.725,
+   "minimo": 0.718,
+   "ultimoValore": 0.72,
+   "variazionePercentuale": -0.28,
+   "variazione": -0.0050000000000000044
+  },
+  "2023-02-15": {
+   "data": "2023-02-15",
+   "massimo": 0.735,
+   "minimo": 0.72,
+   "ultimoValore": 0.73,
+   "variazionePercentuale": 1.39,
+   "variazione": null
+  },
+  "2023-02-16": {
+   "data": "2023-02-16",
+   "massimo": 0.734,
+   "minimo": 0.723,
+   "ultimoValore": 0.734,
+   "variazionePercentuale": 0.55,
+   "variazione": null
+  },
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "apertura": 0.735,
+   "variazionePercentuale": -0.41,
+   "ultimoValore": 0.731,
+   "minimo": 0.72,
+   "massimo": 0.735
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "apertura": 0.735,
+   "variazionePercentuale": -0.41,
+   "ultimoValore": 0.731,
+   "minimo": 0.72,
+   "massimo": 0.735
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 0.735,
+   "variazionePercentuale": -0.41,
+   "ultimoValore": 0.731,
+   "minimo": 0.72,
+   "massimo": 0.735
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 0.728,
+   "variazionePercentuale": -0.55,
+   "ultimoValore": 0.727,
+   "minimo": 0.721,
+   "massimo": 0.728
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 0.723,
+   "variazionePercentuale": 0.41,
+   "ultimoValore": 0.73,
+   "minimo": 0.713,
+   "massimo": 0.735
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 0.723,
+   "variazionePercentuale": -2.74,
+   "ultimoValore": 0.71,
+   "minimo": 0.707,
+   "massimo": 0.723
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 0.718,
+   "variazionePercentuale": 1.97,
+   "ultimoValore": 0.724,
+   "minimo": 0.706,
+   "massimo": 0.724
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 0.715,
+   "variazionePercentuale": -0.28,
+   "ultimoValore": 0.722,
+   "minimo": 0.712,
+   "massimo": 0.724
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 0.715,
+   "variazionePercentuale": -0.28,
+   "ultimoValore": 0.722,
+   "minimo": 0.712,
+   "massimo": 0.724
+  }
+ }
+}

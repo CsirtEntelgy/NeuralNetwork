@@ -1,0 +1,128 @@
+{
+ "azienda": "Laboratorio Farmaceutico Erfo",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 1.57,
+   "massimo": 1.6,
+   "minimo": 1.535,
+   "ultimoValore": 1.57,
+   "variazionePercentuale": -2.48,
+   "variazione": 0
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 1.57,
+   "massimo": 1.6,
+   "minimo": 1.535,
+   "ultimoValore": 1.57,
+   "variazionePercentuale": -2.48,
+   "variazione": 0
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 1.57,
+   "massimo": 1.6,
+   "minimo": 1.535,
+   "ultimoValore": 1.57,
+   "variazionePercentuale": -2.48,
+   "variazione": 0
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 1.615,
+   "massimo": 1.625,
+   "minimo": 1.615,
+   "ultimoValore": 1.625,
+   "variazionePercentuale": 3.5,
+   "variazione": 0.010000000000000009
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 1.555,
+   "massimo": 1.59,
+   "minimo": 1.555,
+   "ultimoValore": 1.59,
+   "variazionePercentuale": -2.15,
+   "variazione": 0.03500000000000014
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 1.55,
+   "massimo": 1.55,
+   "minimo": 1.55,
+   "ultimoValore": 1.55,
+   "variazionePercentuale": -2.52,
+   "variazione": 0
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 1.53,
+   "massimo": 1.53,
+   "minimo": 1.445,
+   "ultimoValore": 1.51,
+   "variazionePercentuale": -2.58,
+   "variazione": -0.020000000000000018
+  },
+  "2023-02-13": {
+   "data": "2023-02-13",
+   "apertura": 1.515,
+   "massimo": 1.59,
+   "minimo": 1.515,
+   "ultimoValore": 1.545,
+   "variazionePercentuale": 2.32,
+   "variazione": 0.030000000000000027
+  },
+  "2023-02-14": {
+   "data": "2023-02-14",
+   "ultimoValore": 1.53,
+   "variazionePercentuale": -0.97,
+   "variazione": null
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 1.51,
+   "variazionePercentuale": -2.61,
+   "ultimoValore": 1.49,
+   "minimo": 1.49,
+   "massimo": 1.515
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 1.49,
+   "variazionePercentuale": -1.34,
+   "ultimoValore": 1.47,
+   "minimo": 1.47,
+   "massimo": 1.49
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 1.46,
+   "variazionePercentuale": 2.04,
+   "ultimoValore": 1.5,
+   "minimo": 1.46,
+   "massimo": 1.515
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "variazionePercentuale": 6.67,
+   "ultimoValore": 1.6,
+   "minimo": 1.5,
+   "massimo": 1.68
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "variazionePercentuale": -3.44,
+   "ultimoValore": 1.545,
+   "minimo": 1.47,
+   "massimo": 1.77
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "variazionePercentuale": -3.44,
+   "ultimoValore": 1.545,
+   "minimo": 1.47,
+   "massimo": 1.77
+  }
+ }
+}

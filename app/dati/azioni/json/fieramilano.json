@@ -1,0 +1,185 @@
+{
+ "azienda": "Fiera Milano",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 3,
+   "massimo": 3.03,
+   "minimo": 2.965,
+   "ultimoValore": 2.965,
+   "variazionePercentuale": -0.84,
+   "variazione": -0.03500000000000014
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 3,
+   "massimo": 3.03,
+   "minimo": 2.965,
+   "ultimoValore": 2.965,
+   "variazionePercentuale": -0.84,
+   "variazione": -0.03500000000000014
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 3,
+   "massimo": 3.03,
+   "minimo": 2.965,
+   "ultimoValore": 2.965,
+   "variazionePercentuale": -0.84,
+   "variazione": -0.03500000000000014
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 2.98,
+   "massimo": 2.995,
+   "minimo": 2.945,
+   "ultimoValore": 2.95,
+   "variazionePercentuale": -0.51,
+   "variazione": -0.029999999999999805
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 2.95,
+   "massimo": 2.98,
+   "minimo": 2.94,
+   "ultimoValore": 2.955,
+   "variazionePercentuale": 0.17,
+   "variazione": 0.004999999999999893
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 2.955,
+   "massimo": 2.98,
+   "minimo": 2.955,
+   "ultimoValore": 2.965,
+   "variazionePercentuale": 0.34,
+   "variazione": 0.009999999999999787
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 2.98,
+   "massimo": 2.98,
+   "minimo": 2.91,
+   "ultimoValore": 2.93,
+   "variazionePercentuale": -1.18,
+   "variazione": -0.04999999999999982
+  },
+  "2023-02-10": {
+   "data": "2023-02-10",
+   "apertura": 2.93,
+   "massimo": 2.945,
+   "minimo": 2.91,
+   "ultimoValore": 2.92,
+   "variazionePercentuale": -0.34,
+   "variazione": -0.010000000000000231
+  },
+  "2023-02-11": {
+   "data": "2023-02-11",
+   "apertura": 2.93,
+   "massimo": 2.945,
+   "minimo": 2.91,
+   "ultimoValore": 2.92,
+   "variazionePercentuale": -0.34,
+   "variazione": -0.010000000000000231
+  },
+  "2023-02-12": {
+   "data": "2023-02-12",
+   "apertura": 2.93,
+   "massimo": 2.945,
+   "minimo": 2.91,
+   "ultimoValore": 2.92,
+   "variazionePercentuale": -0.34,
+   "variazione": -0.010000000000000231
+  },
+  "2023-02-14": {
+   "data": "2023-02-14",
+   "apertura": 2.92,
+   "massimo": 2.93,
+   "minimo": 2.91,
+   "ultimoValore": 2.91,
+   "variazionePercentuale": -0.34,
+   "variazione": -0.009999999999999787
+  },
+  "2023-02-16": {
+   "data": "2023-02-16",
+   "apertura": 2.915,
+   "massimo": 2.935,
+   "minimo": 2.9,
+   "ultimoValore": 2.905,
+   "variazionePercentuale": -0.17,
+   "variazione": -0.010000000000000231
+  },
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "apertura": 2.9,
+   "variazionePercentuale": 0.17,
+   "ultimoValore": 2.91,
+   "minimo": 2.89,
+   "massimo": 2.92
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "apertura": 2.9,
+   "variazionePercentuale": 0.17,
+   "ultimoValore": 2.91,
+   "minimo": 2.89,
+   "massimo": 2.92
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 2.9,
+   "variazionePercentuale": 0.17,
+   "ultimoValore": 2.91,
+   "minimo": 2.89,
+   "massimo": 2.92
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 2.91,
+   "variazionePercentuale": 0.34,
+   "ultimoValore": 2.92,
+   "minimo": 2.9,
+   "massimo": 2.92
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 2.93,
+   "variazionePercentuale": 1.2,
+   "ultimoValore": 2.955,
+   "minimo": 2.88,
+   "massimo": 2.955
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 2.95,
+   "variazionePercentuale": 0.68,
+   "ultimoValore": 2.975,
+   "minimo": 2.905,
+   "massimo": 2.99
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 2.985,
+   "variazionePercentuale": 0.34,
+   "ultimoValore": 2.985,
+   "minimo": 2.98,
+   "massimo": 3.01
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 2.985,
+   "variazionePercentuale": 0.5,
+   "ultimoValore": 3,
+   "minimo": 2.96,
+   "massimo": 3
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 2.985,
+   "variazionePercentuale": 0.5,
+   "ultimoValore": 3,
+   "minimo": 2.96,
+   "massimo": 3
+  }
+ }
+}

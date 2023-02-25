@@ -1,0 +1,29 @@
+{
+ "azienda": "Longino&Cardenal",
+ "dati": {
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 2.82,
+   "variazionePercentuale": 1.43,
+   "ultimoValore": 2.84,
+   "minimo": 2.82,
+   "massimo": 2.84
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 2.9,
+   "variazionePercentuale": 0.7,
+   "ultimoValore": 2.86,
+   "minimo": 2.86,
+   "massimo": 2.9
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 2.78,
+   "variazionePercentuale": 1.4,
+   "ultimoValore": 2.9,
+   "minimo": 2.78,
+   "massimo": 2.9
+  }
+ }
+}

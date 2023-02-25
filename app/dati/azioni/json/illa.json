@@ -1,0 +1,106 @@
+{
+ "azienda": "Illa",
+ "dati": {
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 0.0025,
+   "massimo": 0.0025,
+   "minimo": 0.002,
+   "ultimoValore": 0.002,
+   "variazionePercentuale": -20,
+   "variazione": -0.0005
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 0.002,
+   "massimo": 0.0025,
+   "minimo": 0.002,
+   "ultimoValore": 0.0025,
+   "variazionePercentuale": 25,
+   "variazione": 0.0005
+  },
+  "2023-02-10": {
+   "data": "2023-02-10",
+   "apertura": 0.002,
+   "massimo": 0.0025,
+   "minimo": 0.0015,
+   "ultimoValore": 0.002,
+   "variazionePercentuale": -20,
+   "variazione": 0
+  },
+  "2023-02-11": {
+   "data": "2023-02-11",
+   "apertura": 0.002,
+   "massimo": 0.0025,
+   "minimo": 0.0015,
+   "ultimoValore": 0.002,
+   "variazionePercentuale": -20,
+   "variazione": 0
+  },
+  "2023-02-12": {
+   "data": "2023-02-12",
+   "apertura": 0.002,
+   "massimo": 0.0025,
+   "minimo": 0.0015,
+   "ultimoValore": 0.002,
+   "variazionePercentuale": -20,
+   "variazione": 0
+  },
+  "2023-02-13": {
+   "data": "2023-02-13",
+   "apertura": 0.002,
+   "massimo": 0.002,
+   "minimo": 0.0015,
+   "ultimoValore": 0.0015,
+   "variazionePercentuale": -25,
+   "variazione": -0.0005
+  },
+  "2023-02-15": {
+   "data": "2023-02-15",
+   "massimo": 0.002,
+   "minimo": 0.0015,
+   "ultimoValore": 0.002,
+   "variazionePercentuale": 33.33,
+   "variazione": null
+  },
+  "2023-02-16": {
+   "data": "2023-02-16",
+   "apertura": 0.0015,
+   "massimo": 0.0015,
+   "minimo": 0.001,
+   "ultimoValore": 0.001,
+   "variazionePercentuale": -50,
+   "variazione": -0.0005
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "variazionePercentuale": 50,
+   "ultimoValore": 0.0015,
+   "minimo": 0.001,
+   "massimo": 0.0015
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "variazionePercentuale": -33.33,
+   "ultimoValore": 0.001,
+   "minimo": 0.001,
+   "massimo": 0.0015
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 0.001,
+   "variazionePercentuale": 50,
+   "ultimoValore": 0.0015,
+   "minimo": 0.001,
+   "massimo": 0.0015
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 0.001,
+   "variazionePercentuale": 50,
+   "ultimoValore": 0.0015,
+   "minimo": 0.001,
+   "massimo": 0.0015
+  }
+ }
+}

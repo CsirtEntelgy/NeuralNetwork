@@ -1,0 +1,29 @@
+{
+ "azienda": "Softec",
+ "dati": {
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 1.51,
+   "variazionePercentuale": 2.72,
+   "ultimoValore": 1.51,
+   "minimo": 1.51,
+   "massimo": 1.51
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 1.47,
+   "variazionePercentuale": -2.65,
+   "ultimoValore": 1.47,
+   "minimo": 1.47,
+   "massimo": 1.47
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 1.47,
+   "variazionePercentuale": -2.65,
+   "ultimoValore": 1.47,
+   "minimo": 1.47,
+   "massimo": 1.47
+  }
+ }
+}

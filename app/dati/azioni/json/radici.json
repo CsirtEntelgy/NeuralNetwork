@@ -1,0 +1,53 @@
+{
+ "azienda": "Radici",
+ "dati": {
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 1.15,
+   "variazionePercentuale": -1.71,
+   "ultimoValore": 1.15,
+   "minimo": 1.15,
+   "massimo": 1.15
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 1.13,
+   "variazionePercentuale": -1.74,
+   "ultimoValore": 1.13,
+   "minimo": 1.13,
+   "massimo": 1.13
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 1.13,
+   "variazionePercentuale": -2.65,
+   "ultimoValore": 1.1,
+   "minimo": 1.1,
+   "massimo": 1.13
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 1.1,
+   "variazionePercentuale": -1.82,
+   "ultimoValore": 1.08,
+   "minimo": 1.08,
+   "massimo": 1.115
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 1.075,
+   "variazionePercentuale": -3.24,
+   "ultimoValore": 1.045,
+   "minimo": 1.045,
+   "massimo": 1.08
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 1.075,
+   "variazionePercentuale": -3.24,
+   "ultimoValore": 1.045,
+   "minimo": 1.045,
+   "massimo": 1.08
+  }
+ }
+}

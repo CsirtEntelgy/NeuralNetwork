@@ -1,0 +1,124 @@
+{
+ "azienda": "Moncler",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 58.06,
+   "massimo": 59.06,
+   "minimo": 56.92,
+   "ultimoValore": 58.76,
+   "variazionePercentuale": 0.41,
+   "variazione": 0.6999999999999957
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 58.06,
+   "massimo": 59.06,
+   "minimo": 56.92,
+   "ultimoValore": 58.76,
+   "variazionePercentuale": 0.41,
+   "variazione": 0.6999999999999957
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 58.06,
+   "massimo": 59.06,
+   "minimo": 56.92,
+   "ultimoValore": 58.76,
+   "variazionePercentuale": 0.41,
+   "variazione": 0.6999999999999957
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 58,
+   "massimo": 58,
+   "minimo": 56.28,
+   "ultimoValore": 57.44,
+   "variazionePercentuale": -2.25,
+   "variazione": -0.5600000000000023
+  },
+  "2023-02-07": {
+   "data": "2023-02-07",
+   "apertura": 57.3,
+   "massimo": 57.54,
+   "minimo": 56.8,
+   "ultimoValore": 57.26,
+   "variazionePercentuale": -0.31,
+   "variazione": -0.03999999999999915
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 57.72,
+   "massimo": 58.24,
+   "minimo": 56.34,
+   "ultimoValore": 56.62,
+   "variazionePercentuale": -1.12,
+   "variazione": -1.1000000000000014
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 57.12,
+   "massimo": 57.12,
+   "minimo": 56.26,
+   "ultimoValore": 56.26,
+   "variazionePercentuale": -0.64,
+   "variazione": -0.8599999999999994
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 57.84,
+   "variazionePercentuale": -0.86,
+   "ultimoValore": 57.66,
+   "minimo": 56.74,
+   "massimo": 57.94
+  },
+  "2023-02-20": {
+   "data": "2023-02-20",
+   "apertura": 57.8,
+   "variazionePercentuale": 0.07,
+   "ultimoValore": 57.7,
+   "minimo": 57.24,
+   "massimo": 57.84
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 57.3,
+   "variazionePercentuale": 1.66,
+   "ultimoValore": 58.66,
+   "minimo": 56.64,
+   "massimo": 58.66
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 58.3,
+   "variazionePercentuale": -0.07,
+   "ultimoValore": 58.62,
+   "minimo": 57.68,
+   "massimo": 58.96
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 58.6,
+   "variazionePercentuale": -0.61,
+   "ultimoValore": 58.26,
+   "minimo": 58.16,
+   "massimo": 59.16
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 58.98,
+   "variazionePercentuale": -0.93,
+   "ultimoValore": 57.72,
+   "minimo": 57.4,
+   "massimo": 59.14
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 58.98,
+   "variazionePercentuale": -0.93,
+   "ultimoValore": 57.72,
+   "minimo": 57.4,
+   "massimo": 59.14
+  }
+ }
+}

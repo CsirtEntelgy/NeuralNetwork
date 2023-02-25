@@ -1,0 +1,170 @@
+{
+ "azienda": "Fenix Entertainment",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 1.5,
+   "massimo": 1.5,
+   "minimo": 1.4,
+   "ultimoValore": 1.5,
+   "variazionePercentuale": 1.35,
+   "variazione": 0
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 1.5,
+   "massimo": 1.5,
+   "minimo": 1.4,
+   "ultimoValore": 1.5,
+   "variazionePercentuale": 1.35,
+   "variazione": 0
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 1.5,
+   "massimo": 1.5,
+   "minimo": 1.4,
+   "ultimoValore": 1.5,
+   "variazionePercentuale": 1.35,
+   "variazione": 0
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 1.52,
+   "massimo": 1.52,
+   "minimo": 1.41,
+   "ultimoValore": 1.45,
+   "variazionePercentuale": -3.33,
+   "variazione": -0.07000000000000006
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 1.4,
+   "massimo": 1.44,
+   "minimo": 1.36,
+   "ultimoValore": 1.42,
+   "variazionePercentuale": -2.07,
+   "variazione": 0.020000000000000018
+  },
+  "2023-02-09": {
+   "data": "2023-02-09",
+   "apertura": 1.39,
+   "massimo": 1.4,
+   "minimo": 1.35,
+   "ultimoValore": 1.4,
+   "variazionePercentuale": -1.41,
+   "variazione": 0.010000000000000009
+  },
+  "2023-02-10": {
+   "data": "2023-02-10",
+   "apertura": 1.41,
+   "massimo": 1.46,
+   "minimo": 1.41,
+   "ultimoValore": 1.41,
+   "variazionePercentuale": 0.71,
+   "variazione": 0
+  },
+  "2023-02-11": {
+   "data": "2023-02-11",
+   "apertura": 1.41,
+   "massimo": 1.46,
+   "minimo": 1.41,
+   "ultimoValore": 1.41,
+   "variazionePercentuale": 0.71,
+   "variazione": 0
+  },
+  "2023-02-12": {
+   "data": "2023-02-12",
+   "apertura": 1.41,
+   "massimo": 1.46,
+   "minimo": 1.41,
+   "ultimoValore": 1.41,
+   "variazionePercentuale": 0.71,
+   "variazione": 0
+  },
+  "2023-02-13": {
+   "data": "2023-02-13",
+   "apertura": 1.45,
+   "massimo": 1.45,
+   "minimo": 1.45,
+   "ultimoValore": 1.45,
+   "variazionePercentuale": 2.84,
+   "variazione": 0
+  },
+  "2023-02-14": {
+   "data": "2023-02-14",
+   "apertura": 1.46,
+   "massimo": 1.46,
+   "minimo": 1.46,
+   "ultimoValore": 1.48,
+   "variazionePercentuale": 2.07,
+   "variazione": 0.020000000000000018
+  },
+  "2023-02-15": {
+   "data": "2023-02-15",
+   "apertura": 1.45,
+   "massimo": 1.47,
+   "minimo": 1.41,
+   "ultimoValore": 1.45,
+   "variazionePercentuale": -2.03,
+   "variazione": 0
+  },
+  "2023-02-16": {
+   "data": "2023-02-16",
+   "apertura": 1.43,
+   "massimo": 1.47,
+   "minimo": 1.43,
+   "ultimoValore": 1.47,
+   "variazionePercentuale": 1.38,
+   "variazione": 0.040000000000000036
+  },
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "apertura": 1.45,
+   "variazionePercentuale": 4.17,
+   "ultimoValore": 1.5,
+   "minimo": 1.37,
+   "massimo": 1.5
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "apertura": 1.45,
+   "variazionePercentuale": 4.17,
+   "ultimoValore": 1.5,
+   "minimo": 1.37,
+   "massimo": 1.5
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 1.45,
+   "variazionePercentuale": 4.17,
+   "ultimoValore": 1.5,
+   "minimo": 1.37,
+   "massimo": 1.5
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 1.43,
+   "variazionePercentuale": -6,
+   "ultimoValore": 1.41,
+   "minimo": 1.39,
+   "massimo": 1.43
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 1.33,
+   "variazionePercentuale": -7.09,
+   "ultimoValore": 1.31,
+   "minimo": 1.26,
+   "massimo": 1.36
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 1.33,
+   "variazionePercentuale": -7.09,
+   "ultimoValore": 1.31,
+   "minimo": 1.26,
+   "massimo": 1.36
+  }
+ }
+}

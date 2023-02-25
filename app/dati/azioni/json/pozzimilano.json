@@ -1,0 +1,177 @@
+{
+ "azienda": "Pozzi Milano",
+ "dati": {
+  "2023-02-03": {
+   "data": "2023-02-03",
+   "apertura": 1.375,
+   "massimo": 1.405,
+   "minimo": 1.325,
+   "ultimoValore": 1.355,
+   "variazionePercentuale": -2.87,
+   "variazione": -0.020000000000000018
+  },
+  "2023-02-04": {
+   "data": "2023-02-04",
+   "apertura": 1.375,
+   "massimo": 1.405,
+   "minimo": 1.325,
+   "ultimoValore": 1.355,
+   "variazionePercentuale": -2.87,
+   "variazione": -0.020000000000000018
+  },
+  "2023-02-05": {
+   "data": "2023-02-05",
+   "apertura": 1.375,
+   "massimo": 1.405,
+   "minimo": 1.325,
+   "ultimoValore": 1.355,
+   "variazionePercentuale": -2.87,
+   "variazione": -0.020000000000000018
+  },
+  "2023-02-06": {
+   "data": "2023-02-06",
+   "apertura": 1.365,
+   "massimo": 1.395,
+   "minimo": 1.365,
+   "ultimoValore": 1.395,
+   "variazionePercentuale": 2.95,
+   "variazione": 0.030000000000000027
+  },
+  "2023-02-08": {
+   "data": "2023-02-08",
+   "apertura": 1.395,
+   "massimo": 1.4,
+   "minimo": 1.38,
+   "ultimoValore": 1.4,
+   "variazionePercentuale": 0.36,
+   "variazione": 0.004999999999999893
+  },
+  "2023-02-10": {
+   "data": "2023-02-10",
+   "apertura": 1.395,
+   "massimo": 1.395,
+   "minimo": 1.395,
+   "ultimoValore": 1.395,
+   "variazionePercentuale": -0.36,
+   "variazione": 0
+  },
+  "2023-02-11": {
+   "data": "2023-02-11",
+   "apertura": 1.395,
+   "massimo": 1.395,
+   "minimo": 1.395,
+   "ultimoValore": 1.395,
+   "variazionePercentuale": -0.36,
+   "variazione": 0
+  },
+  "2023-02-12": {
+   "data": "2023-02-12",
+   "apertura": 1.395,
+   "massimo": 1.395,
+   "minimo": 1.395,
+   "ultimoValore": 1.395,
+   "variazionePercentuale": -0.36,
+   "variazione": 0
+  },
+  "2023-02-13": {
+   "data": "2023-02-13",
+   "apertura": 1.395,
+   "massimo": 1.395,
+   "minimo": 1.37,
+   "ultimoValore": 1.365,
+   "variazionePercentuale": -2.15,
+   "variazione": -0.030000000000000027
+  },
+  "2023-02-14": {
+   "data": "2023-02-14",
+   "apertura": 1.345,
+   "massimo": 1.365,
+   "minimo": 1.345,
+   "ultimoValore": 1.4,
+   "variazionePercentuale": 2.56,
+   "variazione": 0.05499999999999994
+  },
+  "2023-02-15": {
+   "data": "2023-02-15",
+   "apertura": 1.41,
+   "massimo": 1.41,
+   "minimo": 1.345,
+   "ultimoValore": 1.395,
+   "variazionePercentuale": 1.09,
+   "variazione": -0.014999999999999902
+  },
+  "2023-02-16": {
+   "data": "2023-02-16",
+   "apertura": 1.385,
+   "massimo": 1.4,
+   "minimo": 1.36,
+   "ultimoValore": 1.38,
+   "variazionePercentuale": -1.07,
+   "variazione": -0.0050000000000001155
+  },
+  "2023-02-17": {
+   "data": "2023-02-17",
+   "apertura": 1.37,
+   "variazionePercentuale": 0.73,
+   "ultimoValore": 1.39,
+   "minimo": 1.36,
+   "massimo": 1.4
+  },
+  "2023-02-18": {
+   "data": "2023-02-18",
+   "apertura": 1.37,
+   "variazionePercentuale": 0.73,
+   "ultimoValore": 1.39,
+   "minimo": 1.36,
+   "massimo": 1.4
+  },
+  "2023-02-19": {
+   "data": "2023-02-19",
+   "apertura": 1.37,
+   "variazionePercentuale": 0.73,
+   "ultimoValore": 1.39,
+   "minimo": 1.36,
+   "massimo": 1.4
+  },
+  "2023-02-21": {
+   "data": "2023-02-21",
+   "apertura": 1.4,
+   "variazionePercentuale": -3.6,
+   "ultimoValore": 1.34,
+   "minimo": 1.34,
+   "massimo": 1.4
+  },
+  "2023-02-22": {
+   "data": "2023-02-22",
+   "apertura": 1.35,
+   "variazionePercentuale": 0.75,
+   "ultimoValore": 1.35,
+   "minimo": 1.33,
+   "massimo": 1.405
+  },
+  "2023-02-23": {
+   "data": "2023-02-23",
+   "apertura": 1.35,
+   "variazionePercentuale": 2.59,
+   "ultimoValore": 1.385,
+   "minimo": 1.35,
+   "massimo": 1.395
+  },
+  "2023-02-24": {
+   "data": "2023-02-24",
+   "apertura": 1.385,
+   "variazionePercentuale": -1.8,
+   "ultimoValore": 1.36,
+   "minimo": 1.35,
+   "massimo": 1.405
+  },
+  "2023-02-25": {
+   "data": "2023-02-25",
+   "apertura": 1.385,
+   "variazionePercentuale": -1.8,
+   "ultimoValore": 1.36,
+   "minimo": 1.35,
+   "massimo": 1.405
+  }
+ }
+}
