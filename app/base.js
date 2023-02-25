@@ -4,21 +4,28 @@ const fs = require('fs');
 const os = require('os');
 const path = require('path');
 const { getAzione, Riepilogo, getBorsa, formatOra, Normalize, formatDate, formatDateShort } = require("./js/tools.js");
+const { re } = require("mathjs");
 var exec = require('child_process').exec;
 
 console.log(__dirname);
-const riepilogo = Riepilogo();
-var id = 1;
-var borsa = {};
-Object.keys(riepilogo).sort().forEach(k => {
-    let azione = riepilogo[k];
-    var entry = getAzione(azione.filejson);
-    console.log(entry.azienda, Object.keys(entry.dati).length);
-    azione.dati = entry.dati;
-    azione.id = id;
-    borsa[id] = azione;
-    id++;
-});
+function refreshDati() {
+    run("git pull");
+    var borsa = {};
+    var id = 1;
+    var riepilogo = Riepilogo();
+    Object.keys(riepilogo).sort().forEach(k => {
+        let azione = riepilogo[k];
+        var entry = getAzione(azione.filejson);
+        console.log(entry.azienda, Object.keys(entry.dati).length);
+        azione.dati = entry.dati;
+        azione.id = id;
+        borsa[id] = azione;
+        id++;
+    });
+    return { riepilogo, borsa };
+}
+var { borsa, riepilogo } = refreshDati()
+
 const htmlDir = "html/";
 console.log(__dirname, htmlDir);
 html.start(env.port, __dirname, htmlDir, "/main.html");
