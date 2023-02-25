@@ -1,7 +1,6 @@
 app/node_modules/**
 app/tmp/**
-app/dati/azioni/csv/**
-app/dati/azioni/json/**
-app/storici/*
+app/dati/azioni/**
+app/storici/**
 app/appo/**
 app/dati/backup/**
