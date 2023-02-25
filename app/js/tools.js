@@ -43,7 +43,7 @@ const jsonPath = "dati/azioni/json/";
 const csvPath = "dati/azioni/csv/";
 const fileMappa = "dati/mappa.json"
 
-function readMappaCsv() {
+function getBorsa() {
     var lista = [];
     var mappa = {};
     var buffer = fs.readFileSync("dati/mappa_borsa.csv", "utf8");
@@ -51,16 +51,16 @@ function readMappaCsv() {
     rows.forEach(row => {
         var entry = row.split('|');
         if (entry[0] && entry[0] != '') {
-            var bufferAzione = fs.readFileSync(entry[4], "utf8").split(/\r?\n/);
+            var bufferAzione = fs.readFileSync(entry[5], "utf8").split(/\r?\n/);
             var azione = {
                 azienda: entry[0],
                 dettaglio: entry[1],
                 sigla: entry[2],
-                filejson: entry[3],
-                filecsv: entry[4],
-                filename: Normalize(entry[0]),
-                dataAggiornamento: entry[5],
-                abilitata: true,
+                filename: entry[3],
+                filejson: entry[4],
+                filecsv: entry[5],
+                dataAggiornamento: entry[6],
+                abilitata: entry[7],
                 records: bufferAzione.length
             };
             lista.push(azione);
@@ -71,7 +71,7 @@ function readMappaCsv() {
 }
 
 function saveBorsa(lista) {
-    fs.renameSync("dati/mappa_borsa.csv", "dati/backup/mappa_borsa." + formatFileDate(new Date()) + ".csv");
+    fs.unlinkSync("dati/mappa_borsa.csv");
     for (let key in lista) {
         var azione = lista[key];
         var riga = [azione.azienda, azione.dettaglio, azione.sigla, azione.filejson, azione.filecsv, azione.dataAggiornamento, azione.abilitata].join("|");
@@ -92,6 +92,28 @@ function Riepilogo() {
 
 fs.mkdirSync(jsonPath, { recursive: true });
 fs.mkdirSync(csvPath, { recursive: true });
+
+function getDatiAzione(nome) {
+    var borsa = getBorsa().mappa;
+    var azione = {};
+    if (borsa[nome] && borsa[nome].filecsv) {
+        var azionebuffer = fs.readFileSync(borsa[nome].filecsv, "utf8").split(/\r?\n/);
+        azionebuffer.forEach(row => {
+            var item = row.split(",");
+            var dato = {
+                "data": item[0],
+                "apertura": eval(item[1]),
+                "massimo": eval(item[2]),
+                "minimo": eval(item[3]),
+                "ultimoValore": eval(item[4]),
+                "variazionePercentuale": eval(item[5])
+            }
+            azione[item[0]] = dato;
+        })
+    }
+    return azione;
+}
+
 function getAzione(jsonfile) {
     var azione;
     try {
@@ -142,8 +164,9 @@ module.exports = {
     saveAzioneCsv,
     saveAzioneCsv2,
     getAzione: getAzione,
+    getDatiAzione: getDatiAzione,
     saveAzione: saveAzione,
-    getBorsa: readMappaCsv,
+    getBorsa: getBorsa,
     saveBorsa,
     csvPath: csvPath,
     jsonPath: jsonPath,

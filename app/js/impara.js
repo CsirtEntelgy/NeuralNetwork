@@ -95,7 +95,7 @@ Object.keys(mappa).sort().forEach(k => {
     var errori = [];
     if (entry.azienda && entry.abilitata) {
         console.log("---------------", entry.azienda, "----------------------------------");
-        azione = getAzione(entry.filejson);
+        azione = getDatiAzione(entry.azienda);
         if (azione.dati) {
             var trt = new TrainingSet(azione, chiave, { inc: 30, nbit: 20, accept: function (dt, val) { return (dt > ref_date); } });
             console.log("Soglia errore:", epsilon, "Chiave:", chiave);
