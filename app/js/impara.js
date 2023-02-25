@@ -2,7 +2,7 @@ var { dateTimeToArray, toArray, toVal, fromArray } = require('./transform').bina
 var { matrix, mean, abs, round } = require('mathjs');
 var { NeuralNetwork } = require('./nn');
 const { TrainingSet, listDays, TestSetDate } = require('./TrainingSetClass');
-const { getAzione, saveBorsa, getBorsa, formatOra, Normalize, formatDate, formatDateShort } = require("./tools.js");
+const { getDatiAzione, saveBorsa, getBorsa, formatOra, Normalize, formatDate, formatDateShort } = require("./tools.js");
 
 const fs = require("fs");
 
