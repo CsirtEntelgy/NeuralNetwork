@@ -23,35 +23,6 @@
 <script>
   var url = "/azioni";
   console.log(window.innerWidth, window.innerHeight);
-  function Refresh2(url) {
-    document.getElementById("refresh1").style.display = "none";
-    document.getElementById("refresh2").style.display = "block";
-    var idmenu = document.getElementById("menu");
-    idmenu.innerHTML = "    <button onclick='Refresh2()'>Refresh</button>";
-    putRequest(url, { soglia: 0.05 }, (dati) => {
-      Object.keys(dati).forEach((k) => {
-        var t = dati[k];
-        var hli = document.createElement("li");
-        var hl1 = document.createElement("span");
-        var hl2 = document.createElement("span");
-        hl1.innerHTML = `${t.azienda}${t.sigla ? " - " + t.sigla : ""}`;
-        hli.id = t.id;
-        hl1.azienda = t.id;
-        hli.cursor = "pointer";
-        hl2.azienda = t.id;
-        hl2.innerHTML = " ==>";
-        hli.appendChild(hl1);
-        //hli.appendChild(hl2);
-        hl1.addEventListener("click", function ({ target }) {
-          drawGraphs(target.azienda);
-        });
-        hl2.addEventListener("click", function ({ target }) {
-          drawNetwork(target.azienda);
-        });
-        idmenu.appendChild(hli);
-      });
-    });
-  }
 
   function Refresh1(url) {
     var w = window.innerWidth;
@@ -88,7 +59,7 @@
 
       htr.appendChild(htd);
       idmenu.appendChild(htr);
-      Object.keys(dati).forEach((k) => {
+      for (let k in dati) {
         var t = dati[k];
         htd = document.createElement("td");
         htr.appendChild(htd);
@@ -98,8 +69,7 @@
           htr = document.createElement("tr");
           idmenu.appendChild(htr);
         }
-
-      });
+      };
     });
   }
 
@@ -111,6 +81,7 @@
   }
 
   function drawDati(id) {
+    console.log("DrawDati", id);
     window.location.replace("/datiHtml?id=" + id);
   }
 
@@ -126,28 +97,27 @@
     hb1 = document.createElement("button");
     hb2 = document.createElement("button");
     hb3 = document.createElement("button");
-    console.log(t);
     hb1.style.width = bw + "px";
     hb1.style.height = bh / 3 + "px";
     hb1.innerHTML = `${t.azienda}`;
-    hb1.azienda = t.id;
+    hb1.azienda = t.id_azienda;
     hb1.cursor = "pointer";
     if (t.training1 < 0.01) {
       hb1.style.background = "lightgreen";
       hb2.style.background = "lightgreen";
       hb3.style.background = "lightgreen";
     }
-    hb2.azienda = t.id;
+    hb2.azienda = t.id_azienda;
     hb2.cursor = "pointer";
     hb2.style.width = bw + "px"
     hb2.style.height = bh / 3 + "px";
     hb2.innerHTML = `${t.sigla ? t.sigla : ""}`;
 
-    hb3.azienda = t.id;
+    hb3.azienda = t.id_azienda;
     hb3.cursor = "pointer";
     hb3.style.width = bw + "px"
     hb3.style.height = bh / 3 + "px";
-    hb3.innerHTML = `${t.id}-${Math.round(t.training1 * 1000) / 1000}`;
+    hb3.innerHTML = `${t.id_azienda}-${Math.round(t.training1 * 1000) / 1000}`;
 
     hb1.addEventListener("click", function ({ target }) { drawDati(target.azienda); });
     hb2.addEventListener("click", function ({ target }) { drawGraphs(target.azienda); });

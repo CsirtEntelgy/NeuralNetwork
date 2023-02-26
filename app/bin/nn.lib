@@ -1,0 +1,122 @@
+#!/bin/sh
+creaPageDati(){
+   local PTH="$1" NAME="$2"
+   cat html/page_dat/$NAME.js | grep -E "(data)|(ultimoValore)" |sed 's/"//g' | awk -F : '{if($1 ~ "ultimo") printf("%s\n",$2); else printf("%s",$2);}' >html/page_dat/$NAME.1.dat
+   cat html/page_dat/$NAME.js | grep -E "(data)|(variazionePercentuale)" |sed 's/"//g' | awk -F : '{if($1 ~ "variazione") printf("%s\n",$2); else printf("%s",$2);}' >html/page_dat/$NAME.2.dat
+  echo '<html>'
+  echo '<script src="'$NAME'.js"></script>'
+  echo '<script src="../tools.js"></script>'
+  echo '<body>' 
+  echo "<h1 id=\"azienda\" style=\"text-align:center;\"></h1>"
+  echo '<table id="storico" style="font-size:small;float:left" border="1"/>'
+  echo '<div  style="font-size:small;float:right">'
+  echo '<div  style="font-size:small">'
+  (  
+        echo " set terminal svg size 500,362 "
+        echo " set title 'Dati storici'"
+        echo " set datafile sep \",\" "
+        echo " set xdata time" 
+        echo " set xlabel 'Data'" 
+        echo " set ylabel 'Valore'" 
+        echo ' set timefmt "%Y-%m-%d"' 
+        echo ' set format x "%b"'
+        echo ' set grid '
+        echo " plot [][0:] 'html/page_dat/$NAME.1.dat' u 1:2 with line title \"ultimo Valore\" "
+    ) | gnuplot
+    echo '</div>'
+    echo '<br>'
+    echo '<div  style="font-size:small;float:right">'
+    (  
+        echo " set terminal svg size 500,362 "
+        echo " set title 'Dati storici'"
+        echo " set datafile sep \",\" "
+        echo " set xdata time" 
+        echo " set xlabel 'Data'" 
+        echo " set ylabel 'Valore'" 
+        echo ' set timefmt "%Y-%m-%d"' 
+        echo ' set format x "%b"'
+        echo ' set grid '
+        echo " plot [][0:] 'html/page_dat/$NAME.2.dat' u 1:2 with line title \"variazione Percentuale\""
+    ) | gnuplot
+  echo '</div>'
+  echo '</div>'
+  echo '</body>'
+  rm html/page_dat/$NAME.?.dat
+  echo '<script>startDati();</script>'
+  echo '</html>'
+}
+
+WD_DB=./db
+DB=${WD_DB}/borsa.db
+
+importAzione(){
+    local SIGLA=$1
+    local FILENAME=$2
+    [ ! -e $FILENAME ] && return
+    LISTA=$(sqlite3 $DB "select filename from borsa where sigla='$SIGLA'")
+    if [ "$LISTA" != "" ] 
+    then
+        for filename in $LISTA
+        do
+        rm -f $WD_DB/azioni/$filename.db
+        (
+        echo "create table dati (data text primary key,apertura text,massimo text,minimo text, ultimoValore text, variazionePercentuale text,volume text);"
+        echo ".import $FILENAME dati"
+        echo "delete from dati where data='' or data='Date';"
+        )| sqlite3 -separator "," $WD_DB/azioni/$filename.db
+        CNT=$(sqlite3  $WD_DB/azioni/$filename.db "select count(*) from dati")
+        if [ $CNT -gt 0 ]
+        then 
+          echo "update StatoAzioni set ultimoAggiornamento='$(date +"%Y-%m-%d %H:%M:%S")',abilitata=true,dati=$CNT
+                where sigla='$SIGLA';" | sqlite3 $DB 
+        else
+          echo "update StatoAzioni set ultimoAggiornamento='$(date +"%Y-%m-%d %H:%M:%S")',abilitata=false,dati=$CNT
+                where sigla='$SIGLA';" | sqlite3 $DB 
+        fi
+        done
+    else
+        echo "update StatoAzioni set ultimoAggiornamento='$(date +"%Y-%m-%d %H:%M:%S")',abilitata=false where sigla='$SIGLA';" | sqlite3 $DB
+    fi
+    echo "select * from statoAzioni where sigla='$SIGLA';" | sqlite3 $DB 
+}
+
+importAzione2(){
+    local SIGLA=$1
+    local FILENAME=$2
+    [ ! -e $FILENAME ] && return
+    LISTA=$(sqlite3 $DB "select id_azienda from borsa where sigla='$SIGLA'")
+    if [ "$LISTA" != "" ] 
+    then
+        for ID_AZIENDA in $LISTA
+        do
+        cat $FILENAME | awk -v id=$ID_AZIENDA '{printf("%d,%s\n",id,$0);}' >/tmp/dato
+        (
+        echo "delete from dati where id_azienda=$ID_AZIENDA;"
+        echo ".import /tmp/dato dati"
+        echo "delete from dati where data='' or data='Date' or ultimoValore='' or ultimoValore='null';"
+        )| sqlite3 -separator "," $DB
+        CNT=$(sqlite3  $DB "select count(*) from dati where id_azienda=$ID_AZIENDA")
+        if [ $CNT -gt 0 ]
+        then 
+          echo "update stato set ultimoAggiornamento='$(date +"%Y-%m-%d %H:%M:%S")',abilitata=true
+                where id_azienda=$ID_AZIENDA;" | sqlite3 $DB 
+        else
+          echo "update stato set ultimoAggiornamento='$(date +"%Y-%m-%d %H:%M:%S")',abilitata=false
+                where id_azienda=$ID_AZIENDA;" | sqlite3 $DB 
+        fi
+        done
+    else
+        echo "update Stato set ultimoAggiornamento='$(date +"%Y-%m-%d %H:%M:%S")',abilitata=false where id_azienda=$ID_AZIENDA;" | sqlite3 $DB
+    fi
+    echo "select * from StatoAzioni where sigla='$SIGLA';" | sqlite3 $DB 
+}
+
+aggiornaDB(){
+  local FD1=$(date +%s -d "760 days ago")
+  local FD2=$(date +%s)
+  sqlite3 $DB "select sigla from StatoAzioni" | while read AZ
+  do curl -s "https://query1.finance.yahoo.com/v7/finance/download/${AZ}?period1=${FD1}&period2=${FD2}&interval=1d&events=history&includeAdjustedClose=true" --output /tmp/$AZ.csv
+    importAzione2 $AZ /tmp/$AZ.csv
+  done
+  sqlite3 $DB "delete from dati where ultimoValore='null'"
+}

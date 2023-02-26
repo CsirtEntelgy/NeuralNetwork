@@ -3,90 +3,82 @@ const env = require("./src/env");
 const fs = require('fs');
 const os = require('os');
 const path = require('path');
-const { getAzione, Riepilogo, getBorsa, formatOra, Normalize, formatDate, formatDateShort } = require("./js/tools.js");
+
 const { re } = require("mathjs");
 var exec = require('child_process').exec;
+const Database = require('better-sqlite3');
 
 console.log(__dirname);
-function refreshDati() {
-    run("git pull");
-    var borsa = {};
-    var id = 1;
-    var riepilogo = Riepilogo();
-    Object.keys(riepilogo).sort().forEach(k => {
-        let azione = riepilogo[k];
-        var entry = getAzione(azione.filejson);
-        console.log(entry.azienda, Object.keys(entry.dati).length);
-        azione.dati = entry.dati;
-        azione.id = id;
-        borsa[id] = azione;
-        id++;
-    });
-    return { riepilogo, borsa };
-}
-var { borsa, riepilogo } = refreshDati()
 
 const htmlDir = "html/";
 console.log(__dirname, htmlDir);
 html.start(env.port, __dirname, htmlDir, "/main.html");
 const rispondi = html.rispondi;
 const LogFormat = html.LogFormat;
+
+function leggiMappa(tabella = "abilitate", cb) {
+    query = "select * from " + tabella + " order by azienda";
+    const db = new Database('./db/borsa.db', { verbose: console.log });
+    cb(db.prepare(query).all());
+    db.close();
+}
+
+
+function leggiAzione(id_azienda, cb) {
+    query = "select * from mappa where id_azienda=?";
+    const db = new Database('./db/borsa.db', { verbose: console.log });
+    cb(db.prepare(query).pluck().all(eval(id_azienda)));
+    db.close();
+}
+
 html.get("/azione", (dati, request, response) => {
     console.log("azione", dati);
     if (dati.id)
-        rispondi(response, null, borsa[dati.id]);
+        leggiAzione(dati.id, azione => {
+            rispondi(response, null, azione);
+        })
     else
         rispondi(response, "Id non definito", null);
 });
 
+
 html.get("/datiHtml", (dati, request, response) => {
     console.log("datiHtml", dati);
     if (dati.id) {
-        response.send(generaHtml(borsa[dati.id]));
+        leggiAzione(dati.id, azione => {
+            rispondi(response, null, generaHtml(azione));
+        })
     } else
         rispondi(response, "Id non definito", null);
 });
 html.get("/trainingHtml", (dati, request, response) => {
     console.log("trainingHtml", dati);
     if (dati.id) {
-        response.send(generaHtml(borsa[dati.id]));
+        leggiAzione(dati.id, azione => {
+            rispondi(response, null, generaHtml(azione));
+        })
     } else
         rispondi(response, "Id non definito", null);
 });
 html.get("/graphHtml", (dati, request, response) => {
     console.log("graphHtml", dati);
     if (dati.id) {
-        response.send(generaHtml(borsa[dati.id]));
+        leggiAzione(dati.id, azione => {
+            rispondi(response, null, generaHtml(azione));
+        })
     } else
         rispondi(response, "Id non definito", null);
 });
 
 html.post("/azioni", (dati, request, response) => {
-    var lista = Object.keys(riepilogo).sort().map(k => {
-        return {
-            id: riepilogo[k].id,
-            sigla: riepilogo[k].sigla,
-            azienda: riepilogo[k].azienda,
-            abilitata: riepilogo[k].abilitata,
-            training1: riepilogo[k].training && riepilogo[k].training.ultimoValore && riepilogo[k].training.ultimoValore.errore,
-            training2: riepilogo[k].training && riepilogo[k].training.variazionePercentuale && riepilogo[k].training.variazionePercentuale.errore
-        };
-    });
-    rispondi(response, null, lista);
+    leggiMappa("mappa", rows => {
+        rispondi(response, null, rows);
+    })
 });
 html.post("/azioniLimited", (dati, request, response) => {
-    var lista = Object.keys(riepilogo).sort().map(k => {
-        if (riepilogo[k].training.ultimoValore && riepilogo[k].training.ultimoValore.errore < dati.soglia)
-            return {
-                id: riepilogo[k].id,
-                sigla: riepilogo[k].sigla,
-                azienda: riepilogo[k].azienda,
-                abilitata: riepilogo[k].abilitata,
-                training1: riepilogo[k].training && riepilogo[k].training.ultimoValore && riepilogo[k].training.ultimoValore.errore,
-                training2: riepilogo[k].training && riepilogo[k].training.variazionePercentuale && riepilogo[k].training.variazionePercentuale.errore
-            };
-    });
-    rispondi(response, null, lista);
+    leggiMappa("abilitate", rows => {
+        rispondi(response, null, rows);
+    })
 });
 function run(cmd) { return require('child_process').execSync(cmd).toString(); }
 
@@ -123,16 +115,18 @@ function generaHtml(azione) {
     var uv = Object.keys(azione.dati).sort().map(k => { return { x: k, y: azione.dati[k].ultimoValore }; });
     var vp = Object.keys(azione.dati).sort().map(k => { return { x: k, y: azione.dati[k].variazionePercentuale }; });
     var nv = {}, ne = {};
-    Object.keys(azione.training).forEach(chiave => {
-        let dato = azione.training[chiave];
-        nv[chiave] = [];
-        ne[chiave] = dato.errori || [];
-        if (dato && dato.x && dato.y) {
-            for (var i = 0; i < dato.x.length; i++) {
-                nv[chiave].push({ x: dato.x[i], y: dato.y[i] });
+    if (azione.training) {
+        Object.keys(azione.training).forEach(chiave => {
+            let dato = azione.training[chiave];
+            nv[chiave] = [];
+            ne[chiave] = dato.errori || [];
+            if (dato && dato.x && dato.y) {
+                for (var i = 0; i < dato.x.length; i++) {
+                    nv[chiave].push({ x: dato.x[i], y: dato.y[i] });
+                }
             }
-        }
-    });
+        });
+    }
     var res = [
         "<html>",
         `  <script src="../tools.js"></script>`,

@@ -1,4 +1,4 @@
 #!/bin/bash
 npm install
-bin/creadati.sh
+bin/aggiorna_db.sh
 bin/run-2.sh

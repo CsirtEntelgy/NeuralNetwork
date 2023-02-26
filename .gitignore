@@ -1,6 +1,1 @@
-app/node_modules/**
-app/tmp/**
-app/dati/azioni/**
-app/storici/**
-app/appo/**
-app/dati/backup/**
+app/node_modules
