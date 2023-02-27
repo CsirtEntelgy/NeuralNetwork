@@ -19,6 +19,7 @@
   "homepage": "https://github.com/gigiGit/NeuralNetwork#readme",
   "dependencies": {
     "better-sqlite3": "^8.1.0",
-    "mathjs": "^11.6.0"
+    "mathjs": "^11.6.0",
+    "sqlite3": "^5.1.4"
   }
 }
