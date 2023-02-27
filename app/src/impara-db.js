@@ -8,16 +8,7 @@ const db_borsa = "./db/borsa.db";
 const db_reti = "./db/reti.db";
 const db_elab = "./db/elaborazioni.db";
 const print = console.log;
-async function select(db, sql, parms) {
-    return new Promise((resolve, reject) => {
-        db.serialize(() => {
-            db.all(sql, parms, (err, res) => {
-                if (err) return reject(err);
-                resolve(res);
-            });
-        });
-    })
-}
+
 function ReteNeurale(id_azienda, chiave, ninput, nhidden, noutput, cb) {
     const db = new sqlite.Database(db_reti);
     db.all("select jsonData from nn where id_azienda=? and chiave=? and n1=? and n2=? and n3=?", [id_azienda, chiave, ninput, nhidden, noutput], (err, res) => {
@@ -101,7 +92,7 @@ function elabora(chiave, entry) {
                 print("------------------", entry.azienda, "----------------------------------");
                 print("Dettaglio : ", entry.dettaglio, "Record : ", entry.dati)
                 print("Soglia errore:", epsilon, "Chiave:", chiave);
-                trt.display();
+                print(trt.toString());
                 nn.epochs = epochs;
                 print("Rete:", msg, nn.toString());
                 var minIter = { iter: 0, err: 100000 };

@@ -150,8 +150,8 @@ class TrainingSet {
     topatterny(varray) {
         return varray.map(x => pattern(this.transformy(x)));
     }
-    display() {
-        console.log(`Training Set={ninput:${this.nbitx}, noutput:${this.nbity}, set-Size:${this.xraw.length}-${this.yraw.length}}`);
+    toString() {
+        return `Training Set={ninput:${this.nbitx}, noutput:${this.nbity}, set-Size:${this.xraw.length}-${this.yraw.length}}`;
     }
     writeStream(filename1) {
         fs.writeFileSync(filename1, `# Elaborazione su ${this.key}\n`);

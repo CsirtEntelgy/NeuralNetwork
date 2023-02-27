@@ -16,6 +16,15 @@ function formatFileDate(d) {
         ("0" + d.getMinutes()).slice(-2) +
         ("0" + d.getSeconds()).slice(-2);
 }
+function leggiDati(id_azienda, chiave, ref_date, cb) {
+    const sqlite = require("sqlite3");
+    var query = "select data," + chiave + " from dati where id_azienda=? and data>? order by data"
+    const db = new sqlite.Database(db_borsa);
+    db.all(query, [eval(id_azienda), ref_date], (err, res) => {
+        cb(res);
+        db.close();
+    });
+}
 
 function formatDate(d) {
     var datestring = ("0" + d.getDate()).slice(-2) + "-" + ("0" + (d.getMonth() + 1)).slice(-2) + "-" +
@@ -44,5 +53,6 @@ module.exports = {
     formatDate: formatDate,
     formatDateShort: formatDateShort,
     formatOra: formatOra,
+    leggiDati
 };
 
