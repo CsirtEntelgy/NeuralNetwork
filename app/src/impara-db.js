@@ -1,5 +1,5 @@
 
-var { mean, abs, round } = require('mathjs');
+var { mean, abs, round, fineStructureDependencies, rowTransformDependencies } = require('mathjs');
 var { NeuralNetwork } = require('./nn');
 const { TrainingSet, listDays, TestSetDate } = require('./TrainingSetClass');
 const { formatDateShort } = require("./tools.js");
@@ -48,7 +48,7 @@ function leggiDati(id_azienda, chiave, ref_date, cb) {
         db.close();
     });
 }
-async function salvaIterazioni(id_azienda, chiave, iterazioni) {
+function salva_Iterazioni(id_azienda, chiave, iterazioni) {
     const db = new sqlite.Database(db_elab);
     //db.prepare("create table if not exists iterazioni (id_azienda integer,chiave text,iter integer,errore number)").run();
     db.serialize(() => {
@@ -66,6 +66,17 @@ async function salvaIterazioni(id_azienda, chiave, iterazioni) {
         console.log("Salvate iterazioni", id_azienda, chiave);
         db.close();
     });
+}
+const fs = require("fs");
+function salvaIterazioni(id_azienda, chiave, iterazioni) {
+    var filename = "dati/elaborazioni/elab." + chiave + "." + id_azienda + ".dat";
+    var rows = [];
+    for (let el of iterazioni) {
+        var row = [id_azienda, chiave, el.iter, el.err].join("|");
+        rows.push(row);
+    }
+    fs.writeFileSync(filename, rows.join("\n"));
+    console.log("Salvate iterazioni", id_azienda, chiave, iterazioni.length);
 }
 
 const vel = process.argv[2] || 10;
@@ -93,23 +104,20 @@ function elabora(chiave, entry) {
                 trt.display();
                 nn.epochs = epochs;
                 print("Rete:", msg, nn.toString());
-                new Promise((resolve, reject) => {
-                    var minIter = { iter: 0, err: 100000 };
-                    var maxIter = { iter: 0, err: -100000 };
-                    var iterazioni = []
-                    nn.train(trt.x, trt.y, 1, (neurals, iter, err, epoca) => {
-                        var currErr = mean(abs(err));
-                        //console.log(iter, currErr);
-                        if (minIter.err > currErr) minIter = { iter, err: currErr };
-                        if (maxIter.err < currErr) maxIter = { iter, err: currErr };
-                        iterazioni.push({ iter: iter, err: currErr });
-                        process.stdout.write(`\u001b[2K\u001b[0EEpoca:${epoca}\tLearning Iter: ${iter}\tError: ${round(currErr, 5)}\tLearnig Rate: ${round(neurals.lr, 4)}`);
-                    }, () => {
-                        process.stdout.write("\n");
-                        print("Minimo errore ", minIter, "Massimo errore ", maxIter);
-                        salvaIterazioni(entry.id_azienda, chiave, iterazioni);
-                        resolve();
-                    });
+                var minIter = { iter: 0, err: 100000 };
+                var maxIter = { iter: 0, err: -100000 };
+                var iterazioni = []
+                nn.train(trt.x, trt.y, 1, (neurals, iter, err, epoca) => {
+                    var currErr = mean(abs(err));
+                    //console.log(iter, currErr);
+                    if (minIter.err > currErr) minIter = { iter, err: currErr };
+                    if (maxIter.err < currErr) maxIter = { iter, err: currErr };
+                    iterazioni.push({ iter: iter, err: currErr });
+                    process.stdout.write(`\u001b[2K\u001b[0EEpoca:${epoca}\tLearning Iter: ${iter}\tError: ${round(currErr, 5)}\tLearnig Rate: ${round(neurals.lr, 4)}`);
+                }, () => {
+                    process.stdout.write("\n");
+                    print("Minimo errore ", minIter, "Massimo errore ", maxIter);
+                    salvaIterazioni(entry.id_azienda, chiave, iterazioni);
                 });
             });
         }

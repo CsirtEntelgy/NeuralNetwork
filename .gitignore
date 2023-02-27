@@ -5,3 +5,4 @@ app/package-lock.json
 .vs/NeuralNetwork/v16/.suo
 app/db/*.db-journal
 app/package-lock.json
+app/dati/elaborazioni/*
