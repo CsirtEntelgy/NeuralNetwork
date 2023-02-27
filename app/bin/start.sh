@@ -11,7 +11,7 @@ echo "CREATE TABLE nn (id_azienda integer, chiave text,n1 integer, n2 integer, n
 ) | sqlite3 $DB_RETI
 DB_ELAB=$WD_DB/elaborazioni.db
 (
-echo "CREATE TABLE iterazioni (id_azienda integer,chiave text,iter integer,errore number);"
+echo "CREATE TABLE iterazioni (id_azienda integer,chiave text,iter integer,errore number,primary key (id_azienda,chiave));"
 ) | sqlite3 $DB_ELAB
 set -e
 aggiornaDB
