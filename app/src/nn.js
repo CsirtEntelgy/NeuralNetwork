@@ -80,7 +80,7 @@ class NeuralNetwork {
         else nn.synapse1 = this.synapse1;
         fs.writeFileSync(filename, JSON.stringify(nn, null, " "));
     }
-    train(input, target, maxEpochs = 10, cb) {
+    train(input, target, maxEpochs = 10, cb, cbe) {
         var realInput = matrix(input);
         var realOutput = matrix(target);
         var output_error;
@@ -105,9 +105,13 @@ class NeuralNetwork {
                 cb(this, i, output_error, epoca);
             }
             cb(this, this.epochs, output_error, epoca);
-            if (mean(abs(output_error)) < this.epsilon) return;
+            if (mean(abs(output_error)) < this.epsilon) {
+                cbe();
+                return;
+            }
             epoca++;
         } while (--maxEpochs > 0);
+        cbe();
     }
 
     activation(x, derivative) {

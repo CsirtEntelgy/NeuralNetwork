@@ -4,3 +4,4 @@ app/package-lock.json
 .vs/VSWorkspaceState.json
 .vs/NeuralNetwork/v16/.suo
 app/db/*.db-journal
+app/package-lock.json
