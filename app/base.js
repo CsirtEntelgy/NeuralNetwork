@@ -23,16 +23,17 @@ function leggiMappa(tabella = "abilitate", cb) {
     db.close();
 }
 
+const query1 = "select * from mappa where id_azienda=?";
+const query2 = "select * from dati where id_azienda=? order by data"
 
 function leggiAzione(id_azienda, cb) {
-    query = "select * from mappa where id_azienda=?";
     const db = new sqlite.Database('./db/borsa.db', { verbose: console.log });
-    db.all(query, [eval(id_azienda)], (err, azione) => {
+    db.all(query1, [eval(id_azienda)], (err, azioni) => {
         if (err) cb(err, null);
         else {
-            var query2 = "select * from dati where id_azienda=? order by data"
+            var azione = azioni[0];
             db.all(query2, [eval(id_azienda)], (err, dati) => {
-                azione.dati = dati;
+                azione.trend = dati;
                 cb(err, azione);
             });
         }
@@ -49,31 +50,36 @@ html.get("/azione", (dati, request, response) => {
     else
         rispondi(response, "Id non definito", null);
 });
-
+function dettaglio(dati, response) {
+    if (dati.id) {
+        leggiAzione(dati.id, (err, azione) => {
+            rispondi(response, err, azione);
+        })
+    } else
+        rispondi(response, "Id non definito", null);
+}
 
 html.get("/datiHtml", (dati, request, response) => {
     console.log("datiHtml", dati);
-    if (dati.id) {
-        leggiAzione(dati.id, (err, azione) => {
-            rispondi(response, err, generaHtml(azione));
-        })
-    } else
-        rispondi(response, "Id non definito", null);
+    dettaglio(dati, response)
+});
+html.post("/datiHtml", (dati, request, response) => {
+    console.log("datiHtml", dati);
+    dettaglio(dati, response)
+});
+html.post("/grafico", (dati, request, response) => {
+    console.log("/grafico", dati.chiave);
+    graficoGnuplot(dati, (err, svg) => rispondi(response, err, svg));
 });
 html.get("/trainingHtml", (dati, request, response) => {
     console.log("trainingHtml", dati);
-    if (dati.id) {
-        leggiAzione(dati.id, (err, azione) => {
-            rispondi(response, err, generaHtml(azione));
-        })
-    } else
-        rispondi(response, "Id non definito", null);
+    graficoGnuplot(dati, (err, svg) => rispondi(response, err, svg));
 });
 html.get("/graphHtml", (dati, request, response) => {
     console.log("graphHtml", dati);
     if (dati.id) {
         leggiAzione(dati.id, (err, azione) => {
-            rispondi(response, err, generaHtml(azione));
+            rispondi(response, err, azione);
         })
     } else
         rispondi(response, "Id non definito", null);
@@ -90,6 +96,10 @@ html.post("/azioniLimited", (dati, request, response) => {
     })
 });
 function run(cmd) { return require('child_process').execSync(cmd).toString(); }
+function graficoGnuplot(dati, cb) {
+    var svg = plot(dati.set, dati.chiave);
+    cb(null, svg);
+}
 
 
 function plot(dati, chiave) {
@@ -97,7 +107,7 @@ function plot(dati, chiave) {
     var buffer = fs.readFileSync("gnuplot/plot_" + chiave + ".plt");
     if (dati && dati.length > 2) {
         dati.forEach(e => {
-            buffer += `${e.x},${e.y}\n`;
+            buffer += `${e[0]},${e[1]}\n`;
         });
         buffer += "e";
         fs.writeFileSync(tmpfile, buffer);
@@ -119,7 +129,7 @@ function plot2(dati, chiave) {
 function generaHtml(azione) {
     var tbl = "<tr><td>Data</td><td>UltimoValore</td><td>variazione %</td></tr>\n<tr>" +
         Object.keys(azione.dati).sort().
-            map(k => { return ["<td>", k, "</td><td>", azione.dati[k].ultimoValore, "</td><td>", azione.dati[k].variazionePercentuale, "</td>"].join("") })
+            map(k => { return ["<td>", azione.dati[k].data, "</td><td>", azione.dati[k].ultimoValore, "</td><td>", azione.dati[k].variazionePercentuale, "</td>"].join("") })
             .join("</tr>\n<tr>") + "</tr>\n";
     var uv = Object.keys(azione.dati).sort().map(k => { return { x: k, y: azione.dati[k].ultimoValore }; });
     var vp = Object.keys(azione.dati).sort().map(k => { return { x: k, y: azione.dati[k].variazionePercentuale }; });
@@ -136,6 +146,9 @@ function generaHtml(azione) {
             }
         });
     }
+    var gplot1, gplot2;
+    try { gplot1 = plot(uv, "ultimoValore") } catch (err) { gplot1 = "" }
+    try { gplot2 = plot(uv, "variazionePercentuale") } catch (err) { gplot2 = "" }
     var res = [
         "<html>",
         `  <script src="../tools.js"></script>`,
@@ -152,9 +165,9 @@ function generaHtml(azione) {
         "<br>",
         plot2(ne.variazionePercentuale, "Errori"),
         "<br>",
-        plot(uv, "ultimoValore"),
+        gplot1,
         "<br>",
-        plot(vp, "variazionePercentuale"),
+        gplot2,
         "<br>",
         plot(nv.ultimoValore, "TrainingUV"),
         "<br>",

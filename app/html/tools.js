@@ -82,7 +82,7 @@ function startDati() {
         var htr = document.createElement("tr")
         htb.appendChild(htr);
         var dato = azione.dati[data];
-        dato.data=data;
+        dato.data = data;
         ["data", "apertura", "massimo", "minimo", "ultimoValore", "variazionePercentuale", "variazione"].forEach(v => htr.innerHTML += "<td>" + datDisplay(dato, v) + "</td>");
     })
 }

@@ -1,0 +1,56 @@
+<html>
+<script src="tools.js"></script>
+<style>
+  li {
+    cursor: pointer;
+  }
+</style>
+
+<body>
+  <div style="float:left">
+    <table id="dati" border="2"></table>
+  </div>
+  <div style="float:right">
+    <div id="svg1"></div>
+    <div id="svg2"></div>
+    <div id="svg3"></div>
+  </div>
+</body>
+
+<script>
+  const queryString = window.location.search;
+  console.log(queryString);
+  const urlParams = new URLSearchParams(queryString);
+  const id = urlParams.get('id');
+  putRequest("/datiHtml", { id: id }, (azione) => {
+    var ht = document.getElementById("dati");
+    var trend1 = [];
+    var trend2 = [];
+    ht.innerHTML = "";
+    var htr = document.createElement("tr");
+    ht.appendChild(htr);
+    htr.innerHTML = `<td>Data</td>
+      <td>ultimoValore</td>
+      <td>variazionePercentuale</td>`;
+    azione.trend.forEach(row => {
+      var htr = document.createElement("tr");
+      htr.innerHTML = `<td>${row.data}</td>
+      <td>${row.ultimoValore}</td>
+      <td>${row.variazionePercentuale}</td>`;
+      ht.appendChild(htr);
+      trend1.push([row.data, row.ultimoValore]);
+      trend2.push([row.data, row.variazionePercentuale]);
+    });
+    putRequest("/grafico", { set: trend1, chiave: "ultimoValore" }, (svg) => {
+      var hdiv = document.getElementById("svg1");
+      hdiv.innerHTML = svg;
+    });
+    putRequest("/grafico", { set: trend2, chiave: "variazionePercentuale" }, (svg) => {
+      var hdiv = document.getElementById("svg2");
+      hdiv.innerHTML = svg;
+    });
+
+  })
+</script>
+
+</html>
