@@ -6,4 +6,3 @@ app/package-lock.json
 app/db/*.db-journal
 app/package-lock.json
 app/dati/elaborazioni/*
-
