@@ -6,7 +6,7 @@ const path = require('path');
 
 const { re } = require("mathjs");
 var exec = require('child_process').exec;
-const Database = require('better-sqlite3');
+const sqlite = require('sqlite3');
 
 console.log(__dirname);
 
@@ -18,24 +18,33 @@ const LogFormat = html.LogFormat;
 
 function leggiMappa(tabella = "abilitate", cb) {
     query = "select * from " + tabella + " order by azienda";
-    const db = new Database('./db/borsa.db', { verbose: console.log });
-    cb(db.prepare(query).all());
+    const db = new sqlite.Database('./db/borsa.db');
+    db.all(query, (err, res) => cb(err, res));
     db.close();
 }
 
 
 function leggiAzione(id_azienda, cb) {
     query = "select * from mappa where id_azienda=?";
-    const db = new Database('./db/borsa.db', { verbose: console.log });
-    cb(db.prepare(query).pluck().all(eval(id_azienda)));
+    const db = new sqlite.Database('./db/borsa.db', { verbose: console.log });
+    db.all(query, [eval(id_azienda)], (err, azione) => {
+        if (err) cb(err, null);
+        else {
+            var query2 = "select * from dati where id_azienda=? order by data"
+            db.all(query2, [eval(id_azienda)], (err, dati) => {
+                azione.dati = dati;
+                cb(err, azione);
+            });
+        }
+    });
     db.close();
 }
 
 html.get("/azione", (dati, request, response) => {
     console.log("azione", dati);
     if (dati.id)
-        leggiAzione(dati.id, azione => {
-            rispondi(response, null, azione);
+        leggiAzione(dati.id, (err, azione) => {
+            rispondi(response, err, azione);
         })
     else
         rispondi(response, "Id non definito", null);
@@ -45,8 +54,8 @@ html.get("/azione", (dati, request, response) => {
 html.get("/datiHtml", (dati, request, response) => {
     console.log("datiHtml", dati);
     if (dati.id) {
-        leggiAzione(dati.id, azione => {
-            rispondi(response, null, generaHtml(azione));
+        leggiAzione(dati.id, (err, azione) => {
+            rispondi(response, err, generaHtml(azione));
         })
     } else
         rispondi(response, "Id non definito", null);
@@ -54,8 +63,8 @@ html.get("/datiHtml", (dati, request, response) => {
 html.get("/trainingHtml", (dati, request, response) => {
     console.log("trainingHtml", dati);
     if (dati.id) {
-        leggiAzione(dati.id, azione => {
-            rispondi(response, null, generaHtml(azione));
+        leggiAzione(dati.id, (err, azione) => {
+            rispondi(response, err, generaHtml(azione));
         })
     } else
         rispondi(response, "Id non definito", null);
@@ -63,21 +72,21 @@ html.get("/trainingHtml", (dati, request, response) => {
 html.get("/graphHtml", (dati, request, response) => {
     console.log("graphHtml", dati);
     if (dati.id) {
-        leggiAzione(dati.id, azione => {
-            rispondi(response, null, generaHtml(azione));
+        leggiAzione(dati.id, (err, azione) => {
+            rispondi(response, err, generaHtml(azione));
         })
     } else
         rispondi(response, "Id non definito", null);
 });
 
 html.post("/azioni", (dati, request, response) => {
-    leggiMappa("mappa", rows => {
-        rispondi(response, null, rows);
+    leggiMappa("mappa", (err, azioni) => {
+        rispondi(response, err, azioni);
     })
 });
 html.post("/azioniLimited", (dati, request, response) => {
-    leggiMappa("abilitate", rows => {
-        rispondi(response, null, rows);
+    leggiMappa("abilitate", (err, azioni) => {
+        rispondi(response, err, azioni);
     })
 });
 function run(cmd) { return require('child_process').execSync(cmd).toString(); }
