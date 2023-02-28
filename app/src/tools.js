@@ -16,11 +16,11 @@ function formatFileDate(d) {
         ("0" + d.getMinutes()).slice(-2) +
         ("0" + d.getSeconds()).slice(-2);
 }
-function leggiDati(id_azienda, chiave, ref_date, cb) {
+function leggiDati(ID_AZIENDA, chiave, ref_date, cb) {
     const sqlite = require("sqlite3");
-    var query = "select data," + chiave + " from trend where id_azienda=? and data>? order by data"
+    var query = "select data," + chiave + " from trend where ID_AZIENDA=? and data>? order by data"
     const db = new sqlite.Database(db_borsa);
-    db.all(query, [eval(id_azienda), ref_date], (err, res) => {
+    db.all(query, [eval(ID_AZIENDA), ref_date], (err, res) => {
         cb(res);
         db.close();
     });

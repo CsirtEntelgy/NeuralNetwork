@@ -7,7 +7,7 @@ creaPageDati(){
   echo '<script src="'$NAME'.js"></script>'
   echo '<script src="../tools.js"></script>'
   echo '<body>' 
-  echo "<h1 id=\"azienda\" style=\"text-align:center;\"></h1>"
+  echo "<h1 id=\"AZIENDA\" style=\"text-align:center;\"></h1>"
   echo '<table id="storico" style="font-size:small;float:left" border="1"/>'
   echo '<div  style="font-size:small;float:right">'
   echo '<div  style="font-size:small">'
@@ -84,29 +84,29 @@ importAzione2(){
     local SIGLA=$1
     local FILENAME=$2
     [ ! -e $FILENAME ] && return
-    LISTA=$(sqlite3 $DB "select id_azienda from borsa where sigla='$SIGLA'")
+    LISTA=$(sqlite3 $DB "select ID_AZIENDA from borsa where sigla='$SIGLA'")
     if [ "$LISTA" != "" ] 
     then
         for ID_AZIENDA in $LISTA
         do
         cat $FILENAME | awk -v id=$ID_AZIENDA '{printf("%d,%s\n",id,$0);}' >/tmp/dato
         (
-        echo "delete from dati where id_azienda=$ID_AZIENDA;"
+        echo "delete from dati where ID_AZIENDA=$ID_AZIENDA;"
         echo ".import /tmp/dato dati"
         echo "delete from dati where data='' or data='Date' or ultimoValore='' or ultimoValore='null';"
         )| sqlite3 -separator "," $DB
-        CNT=$(sqlite3  $DB "select count(*) from dati where id_azienda=$ID_AZIENDA")
+        CNT=$(sqlite3  $DB "select count(*) from dati where ID_AZIENDA=$ID_AZIENDA")
         if [ $CNT -gt 0 ]
         then 
           echo "update stato set ultimoAggiornamento='$(date +"%Y-%m-%d %H:%M:%S")',abilitata=true
-                where id_azienda=$ID_AZIENDA;" | sqlite3 $DB 
+                where ID_AZIENDA=$ID_AZIENDA;" | sqlite3 $DB 
         else
           echo "update stato set ultimoAggiornamento='$(date +"%Y-%m-%d %H:%M:%S")',abilitata=false
-                where id_azienda=$ID_AZIENDA;" | sqlite3 $DB 
+                where ID_AZIENDA=$ID_AZIENDA;" | sqlite3 $DB 
         fi
         done
     else
-        echo "update Stato set ultimoAggiornamento='$(date +"%Y-%m-%d %H:%M:%S")',abilitata=false where id_azienda=$ID_AZIENDA;" | sqlite3 $DB
+        echo "update Stato set ultimoAggiornamento='$(date +"%Y-%m-%d %H:%M:%S")',abilitata=false where ID_AZIENDA=$ID_AZIENDA;" | sqlite3 $DB
     fi
     echo "select * from StatoAzioni where sigla='$SIGLA';" | sqlite3 $DB 
 }

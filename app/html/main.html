@@ -99,29 +99,29 @@
     hb3 = document.createElement("button");
     hb1.style.width = bw + "px";
     hb1.style.height = bh / 3 + "px";
-    hb1.innerHTML = `${t.azienda}`;
-    hb1.azienda = t.id_azienda;
+    hb1.innerHTML = `${t.AZIENDA}`;
+    hb1.AZIENDA = t.ID_AZIENDA;
     hb1.cursor = "pointer";
     if (t.training1 < 0.01) {
       hb1.style.background = "lightgreen";
       hb2.style.background = "lightgreen";
       hb3.style.background = "lightgreen";
     }
-    hb2.azienda = t.id_azienda;
+    hb2.AZIENDA = t.ID_AZIENDA;
     hb2.cursor = "pointer";
     hb2.style.width = bw + "px"
     hb2.style.height = bh / 3 + "px";
     hb2.innerHTML = `${t.sigla ? t.sigla : ""}`;
 
-    hb3.azienda = t.id_azienda;
+    hb3.AZIENDA = t.ID_AZIENDA;
     hb3.cursor = "pointer";
     hb3.style.width = bw + "px"
     hb3.style.height = bh / 3 + "px";
-    hb3.innerHTML = `${t.id_azienda}-${Math.round(t.training1 * 1000) / 1000}`;
+    hb3.innerHTML = `${t.ID_AZIENDA}-${Math.round(t.training1 * 1000) / 1000}`;
 
-    hb1.addEventListener("click", function ({ target }) { drawDati(target.azienda); });
-    hb2.addEventListener("click", function ({ target }) { drawGraphs(target.azienda); });
-    hb3.addEventListener("click", function ({ target }) { drawTraining(target.azienda); });
+    hb1.addEventListener("click", function ({ target }) { drawDati(target.AZIENDA); });
+    hb2.addEventListener("click", function ({ target }) { drawGraphs(target.AZIENDA); });
+    hb3.addEventListener("click", function ({ target }) { drawTraining(target.AZIENDA); });
 
     htd.appendChild(hb1);
     htd.appendChild(hb2);

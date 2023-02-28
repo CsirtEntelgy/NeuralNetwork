@@ -9,12 +9,12 @@ const db_reti = "./db/reti.db";
 const db_elab = "./db/elaborazioni.db";
 const print = console.log;
 
-function ReteNeurale(id_azienda, chiave, ninput, nhidden, noutput, cb) {
+function ReteNeurale(ID_AZIENDA, chiave, ninput, nhidden, noutput, cb) {
     const db = new Database(db_reti);
-    //db.prepare("create table if not exists nn (id_azienda integer,chiave text,n1 integer,n2 integer, n3 integer, jsonData TEXT,primary key (id_azienda,chiave,n1,n2,n3))").run();
-    var nnJSON = db.prepare("select jsonData from nn where id_azienda=? and chiave=? and n1=? and n2=? and n3=?")
+    //db.prepare("create table if not exists nn (ID_AZIENDA integer,chiave text,n1 integer,n2 integer, n3 integer, jsonData TEXT,primary key (ID_AZIENDA,chiave,n1,n2,n3))").run();
+    var nnJSON = db.prepare("select jsonData from nn where ID_AZIENDA=? and chiave=? and n1=? and n2=? and n3=?")
         .pluck()
-        .get(id_azienda, chiave, ninput, nhidden, noutput);
+        .get(ID_AZIENDA, chiave, ninput, nhidden, noutput);
     var nn = new NeuralNetwork(ninput, nhidden, noutput);
     var msg = "Nuovo"
     if (nnJSON) {
@@ -22,22 +22,22 @@ function ReteNeurale(id_azienda, chiave, ninput, nhidden, noutput, cb) {
         msg = "Dal Database";
     }
     cb(nn, msg);
-    db.prepare("delete from nn where id_azienda=? and chiave=? and n1=? and n2=? and n3=?").run(id_azienda, chiave, ninput, nhidden, noutput);
-    db.prepare("insert into nn (id_azienda,chiave,n1,n2,n3,jsonData) values(?,?,?,?,?,?)")
-        .run(id_azienda, chiave, ninput, nhidden, noutput, JSON.stringify(nn.stringify()));
+    db.prepare("delete from nn where ID_AZIENDA=? and chiave=? and n1=? and n2=? and n3=?").run(ID_AZIENDA, chiave, ninput, nhidden, noutput);
+    db.prepare("insert into nn (ID_AZIENDA,chiave,n1,n2,n3,jsonData) values(?,?,?,?,?,?)")
+        .run(ID_AZIENDA, chiave, ninput, nhidden, noutput, JSON.stringify(nn.stringify()));
     db.close();
 }
 
-function leggiAzione(id_azienda, cb) {
-    query = "select * from abilitate where id_azienda=? order by azienda";
+function leggiAzione(ID_AZIENDA, cb) {
+    query = "select * from abilitate where ID_AZIENDA=? order by AZIENDA";
     const db = new Database(db_borsa,);
-    var row = db.prepare(query).get(id_azienda);
+    var row = db.prepare(query).get(ID_AZIENDA);
     cb(row);
     db.close();
 }
 
 function leggiTutto(cb) {
-    query = "select * from abilitate  order by azienda";
+    query = "select * from abilitate  order by AZIENDA";
     const db = new Database(db_borsa, { verbose: console.log });
     var stmt = db.prepare(query);
     for (let azione of stmt.iterate()) {
@@ -46,20 +46,20 @@ function leggiTutto(cb) {
     db.close();
 }
 
-function leggiDati(id_azienda, chiave, ref_date, cb) {
-    var query = "select data," + chiave + " from trend where id_azienda=? and data>? order by data"
+function leggiDati(ID_AZIENDA, chiave, ref_date, cb) {
+    var query = "select data," + chiave + " from trend where ID_AZIENDA=? and data>? order by data"
     const db = new Database(db_borsa, { verbose: console.log });
-    var rows = db.prepare(query).all(eval(id_azienda), ref_date);
+    var rows = db.prepare(query).all(eval(ID_AZIENDA), ref_date);
     if (rows) cb(rows);
     db.close();
 }
 
-function salvaIterazioni(id_azienda, chiave, iterazioni) {
+function salvaIterazioni(ID_AZIENDA, chiave, iterazioni) {
     const db = new Database(db_elab);
-    //db.prepare("create table if not exists iterazioni (id_azienda integer,chiave text,iter integer,errore number)").run();
-    db.prepare("delete from iterazioni where id_azienda=? and chiave=?").run(id_azienda, chiave);
-    var stmt = db.prepare("insert into iterazioni (id_azienda,chiave,iter,errore) values(?,?,?,?)");
-    iterazioni.forEach(el => stmt.run(id_azienda, chiave, el.iter, el.err));
+    //db.prepare("create table if not exists iterazioni (ID_AZIENDA integer,chiave text,iter integer,errore number)").run();
+    db.prepare("delete from iterazioni where ID_AZIENDA=? and chiave=?").run(ID_AZIENDA, chiave);
+    var stmt = db.prepare("insert into iterazioni (ID_AZIENDA,chiave,iter,errore) values(?,?,?,?)");
+    iterazioni.forEach(el => stmt.run(ID_AZIENDA, chiave, el.iter, el.err));
     db.close();
 }
 
@@ -73,15 +73,15 @@ print("Oggi: ", oggi);
 print("Iterazioni:", vel, "Data riferimento:", ref_date, "Epsilon:", epsilon, "Epoche:", epochs);
 function elabora(chiave, entry) {
     console.log("Elaborazione", entry);
-    leggiDati(entry.id_azienda, chiave, ref_date, righe => {
+    leggiDati(entry.ID_AZIENDA, chiave, ref_date, righe => {
         var dati = righe.map(el => { return { x: el.data, y: eval(el[chiave]) } });
         var trt = new TrainingSet(dati, { inc: 30, nbit: 20 });
         if (trt.valida) {
             var ninput = trt.nbitx;
             var noutput = trt.nbity;
             var nhidden = round((ninput + noutput) / 2);
-            ReteNeurale(entry.id_azienda, chiave, ninput, nhidden, noutput, (res, msg) => {
-                print("------------------", entry.azienda, "----------------------------------");
+            ReteNeurale(entry.ID_AZIENDA, chiave, ninput, nhidden, noutput, (res, msg) => {
+                print("------------------", entry.AZIENDA, "----------------------------------");
                 print("Dettaglio : ", entry.dettaglio, "Record : ", entry.dati)
                 print("Soglia errore:", epsilon, "Chiave:", chiave);
                 trt.display();
@@ -101,7 +101,7 @@ function elabora(chiave, entry) {
                 });
                 process.stdout.write("\n");
                 print("Minimo errore ", minIter, "Massimo errore ", maxIter);
-                salvaIterazioni(entry.id_azienda, chiave, iterazioni);
+                salvaIterazioni(entry.ID_AZIENDA, chiave, iterazioni);
             });
         }
     })

@@ -9,9 +9,9 @@ const db_reti = "./db/reti.db";
 const db_elab = "./db/elaborazioni.db";
 const print = console.log;
 
-function ReteNeurale(id_azienda, chiave, ninput, nhidden, noutput, cb) {
+function ReteNeurale(ID_AZIENDA, chiave, ninput, nhidden, noutput, cb) {
     const db = new sqlite.Database(db_reti);
-    db.all("select jsonData from nn where id_azienda=? and chiave=? and n1=? and n2=? and n3=?", [id_azienda, chiave, ninput, nhidden, noutput], (err, res) => {
+    db.all("select jsonData from nn where ID_AZIENDA=? and chiave=? and n1=? and n2=? and n3=?", [ID_AZIENDA, chiave, ninput, nhidden, noutput], (err, res) => {
         var nn = new NeuralNetwork(ninput, nhidden, noutput);
         var msg = "Nuovo"
         if (res.length === 1) {
@@ -21,53 +21,53 @@ function ReteNeurale(id_azienda, chiave, ninput, nhidden, noutput, cb) {
         }
         cb(nn, msg);
         db.serialize(() => {
-            db.run("delete from nn where id_azienda=? and chiave=? and n1=? and n2=? and n3=?", [id_azienda, chiave, ninput, nhidden, noutput],
+            db.run("delete from nn where ID_AZIENDA=? and chiave=? and n1=? and n2=? and n3=?", [ID_AZIENDA, chiave, ninput, nhidden, noutput],
                 (err) => err && console.log(err));
-            db.run("insert into nn (id_azienda,chiave,n1,n2,n3,jsonData) values(?,?,?,?,?,?)", [id_azienda, chiave, ninput, nhidden, noutput, JSON.stringify(nn.stringify())],
+            db.run("insert into nn (ID_AZIENDA,chiave,n1,n2,n3,jsonData) values(?,?,?,?,?,?)", [ID_AZIENDA, chiave, ninput, nhidden, noutput, JSON.stringify(nn.stringify())],
                 (err) => err && console.log(err));
             db.close();
-            console.log("Rete Neurale", id_azienda, chiave, "SALVATA");
+            console.log("Rete Neurale", ID_AZIENDA, chiave, "SALVATA");
         });
     });
 }
 
-function leggiDati(id_azienda, chiave, ref_date, cb) {
-    var query = "select data," + chiave + " from trend where id_azienda=? and data>? order by data"
+function leggiDati(ID_AZIENDA, chiave, ref_date, cb) {
+    var query = "select data," + chiave + " from trend where ID_AZIENDA=? and data>? order by data"
     const db = new sqlite.Database(db_borsa);
-    db.all(query, [eval(id_azienda), ref_date], (err, res) => {
+    db.all(query, [eval(ID_AZIENDA), ref_date], (err, res) => {
         cb(res);
         db.close();
     });
 }
-function salva_Iterazioni(id_azienda, chiave, iterazioni) {
+function salva_Iterazioni(ID_AZIENDA, chiave, iterazioni) {
     const db = new sqlite.Database(db_elab);
-    //db.prepare("create table if not exists iterazioni (id_azienda integer,chiave text,iter integer,errore number)").run();
+    //db.prepare("create table if not exists iterazioni (ID_AZIENDA integer,chiave text,iter integer,errore number)").run();
     db.serialize(() => {
-        db.run("delete from iterazioni where id_azienda=? and chiave=?", [id_azienda, chiave], (err, res) => {
+        db.run("delete from iterazioni where ID_AZIENDA=? and chiave=?", [ID_AZIENDA, chiave], (err, res) => {
             if (err) console.log("Delete Iterazioni", err);
         });
-        console.log("Cancellate iterazioni", id_azienda, chiave);
-        let stmt = db.prepare("insert into iterazioni (id_azienda,chiave,iter,errore) values(?,?,?,?)");
+        console.log("Cancellate iterazioni", ID_AZIENDA, chiave);
+        let stmt = db.prepare("insert into iterazioni (ID_AZIENDA,chiave,iter,errore) values(?,?,?,?)");
         for (let el of iterazioni) {
-            stmt.run([id_azienda, chiave, el.iter, el.err], (err) => {
+            stmt.run([ID_AZIENDA, chiave, el.iter, el.err], (err) => {
                 if (err) console.log("Insert Iterazioni", err);
             })
         }
         stmt.finalize();
-        console.log("Salvate iterazioni", id_azienda, chiave);
+        console.log("Salvate iterazioni", ID_AZIENDA, chiave);
         db.close();
     });
 }
 const fs = require("fs");
-function salvaIterazioni(id_azienda, chiave, iterazioni) {
-    var filename = "dati/elaborazioni/elab." + chiave + "." + id_azienda + ".dat";
+function salvaIterazioni(ID_AZIENDA, chiave, iterazioni) {
+    var filename = "dati/elaborazioni/elab." + chiave + "." + ID_AZIENDA + ".dat";
     var rows = [];
     for (let el of iterazioni) {
-        var row = [id_azienda, chiave, el.iter, el.err].join("|");
+        var row = [ID_AZIENDA, chiave, el.iter, el.err].join("|");
         rows.push(row);
     }
     fs.writeFileSync(filename, rows.join("\n"));
-    console.log("Salvate iterazioni", id_azienda, chiave, iterazioni.length);
+    console.log("Salvate iterazioni", ID_AZIENDA, chiave, iterazioni.length);
 }
 
 const vel = process.argv[2] || 10;
@@ -79,18 +79,18 @@ var oggi = formatDateShort(new Date());
 print("Oggi: ", oggi);
 print("Iterazioni:", vel, "Data riferimento:", ref_date, "Epsilon:", epsilon, "Epoche:", epochs);
 function elabora(chiave, entry) {
-    //    console.log("Elaborazione", entry.azienda);
-    leggiDati(entry.id_azienda, chiave, ref_date, righe => {
+    //console.log("Elaborazione", entry.AZIENDA);
+    leggiDati(entry.ID_AZIENDA, chiave, ref_date, righe => {
         //console.log(righe);
-        var dati = righe.map(el => { return { x: el.data, y: eval(el[chiave]) } });
+        var dati = righe.map(el => { return { x: el.DATA, y: eval(el[chiave]) } });
         var trt = new TrainingSet(dati, { inc: 30, nbit: 20 });
         if (trt.valida) {
             var ninput = trt.nbitx;
             var noutput = trt.nbity;
             var nhidden = round((ninput + noutput) / 2);
-            ReteNeurale(entry.id_azienda, chiave, ninput, nhidden, noutput, (nn, msg) => {
-                print("------------------", entry.azienda, "----------------------------------");
-                print("Dettaglio : ", entry.dettaglio, "Record : ", entry.dati)
+            ReteNeurale(entry.ID_AZIENDA, chiave, ninput, nhidden, noutput, (nn, msg) => {
+                print("------------------", entry.AZIENDA, "----------------------------------");
+                print("Dettaglio : ", entry.DETTAGLIO, "Record : ", entry.DATI)
                 print("Soglia errore:", epsilon, "Chiave:", chiave);
                 print(trt.toString());
                 nn.epochs = epochs;
@@ -108,7 +108,7 @@ function elabora(chiave, entry) {
                 }, () => {
                     process.stdout.write("\n");
                     print("Minimo errore ", minIter, "Massimo errore ", maxIter);
-                    salvaIterazioni(entry.id_azienda, chiave, iterazioni);
+                    salvaIterazioni(entry.ID_AZIENDA, chiave, iterazioni);
                 });
             });
         }
@@ -117,7 +117,7 @@ function elabora(chiave, entry) {
 async function leggiTuttoP() {
     return new Promise((resolve, reject) => {
         const sqlite = require("sqlite3");
-        query = "select * from abilitate  order by azienda";
+        query = "select * from abilitate  order by AZIENDA";
         const db = new sqlite.Database(db_borsa);
         db.serialize(() => {
             db.all(query, (err, righe) => {
@@ -130,16 +130,22 @@ async function leggiTuttoP() {
 }
 async function leggiTutto(cb) {
     const sqlite = require("sqlite3");
-    query = "select * from abilitate  order by azienda";
+    query = "select * from abilitate  order by AZIENDA";
     const db = new sqlite.Database(db_borsa);
-    db.serialize(() => {
-        db.each(query, (err, azione) => cb(azione));
-        db.close();
+
+    db.each(query, (err, azione) => {
+        if (err) console.log(err);
+        //        console.log(azione.AZIENDA);
+        cb(azione);
     });
+    db.close();
+
 }
 
 const run = async () => {
-    await leggiTutto(row => elabora("ultimoValore", row));
-    await leggiTutto(row => elabora("ultimoValore", row));
+    await leggiTutto(row => elabora("ULTIMOVALORE", row));
+    await leggiTutto(row => elabora("VARIAZIONEPERCENTUALE", row));
 }
 run();
+//leggiTutto(row => elabora("ULTIMOVALORE", row));
+//leggiTutto(row => elabora("VARIAZIONEPERCENTUALE", row));

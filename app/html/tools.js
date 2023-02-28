@@ -25,8 +25,8 @@ function putRequest(url, dati, cb) {
 
 function start(dett) {
     console.log(dett);
-    var tit = document.getElementById("azienda");
-    if (tit) tit.innerHTML = dett.azienda;
+    var tit = document.getElementById("AZIENDA");
+    if (tit) tit.innerHTML = dett.AZIENDA;
     var runpred = {};
     ["ultimoValore"].forEach(chiave => {
         var data = document.getElementById("dataelab");
@@ -70,8 +70,8 @@ function start(dett) {
 }
 
 function startDati() {
-    var tit = document.getElementById("azienda");
-    if (tit) tit.innerHTML = (azione.dettaglio ? azione.dettaglio : azione.azienda);
+    var tit = document.getElementById("AZIENDA");
+    if (tit) tit.innerHTML = (azione.dettaglio ? azione.dettaglio : azione.AZIENDA);
 
     var htb = document.getElementById("storico")
     htb.border = "1";

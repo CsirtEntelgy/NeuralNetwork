@@ -3128,6 +3128,12 @@ BEGIN
     'Cementir Holding',
     'CEM.MI'
   );
-delete from stato;
-INSERT INTO STATO SELECT ID_AZIENDA, '', FALSE FROM BORSA;
-COMMIT;
+  DELETE FROM STATO;
+  INSERT INTO STATO
+    SELECT
+      ID_AZIENDA,
+      '',
+      FALSE
+    FROM
+      BORSA;
+  COMMIT;

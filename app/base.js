@@ -17,22 +17,22 @@ const rispondi = html.rispondi;
 const LogFormat = html.LogFormat;
 
 function leggiMappa(tabella = "abilitate", cb) {
-    query = "select * from " + tabella + " order by azienda";
+    query = "select * from " + tabella + " order by AZIENDA";
     const db = new sqlite.Database('./db/borsa.db');
     db.all(query, (err, res) => cb(err, res));
     db.close();
 }
 
-const query1 = "select * from mappa where id_azienda=?";
-const query2 = "select * from trend where id_azienda=? order by data"
+const query1 = "select * from mappa where ID_AZIENDA=?";
+const query2 = "select * from trend where ID_AZIENDA=? order by data"
 
-function leggiAzione(id_azienda, cb) {
+function leggiAzione(ID_AZIENDA, cb) {
     const db = new sqlite.Database('./db/borsa.db', { verbose: console.log });
-    db.all(query1, [eval(id_azienda)], (err, azioni) => {
+    db.all(query1, [eval(ID_AZIENDA)], (err, azioni) => {
         if (err) cb(err, null);
         else {
             var azione = azioni[0];
-            db.all(query2, [eval(id_azienda)], (err, dati) => {
+            db.all(query2, [eval(ID_AZIENDA)], (err, dati) => {
                 azione.trend = dati;
                 cb(err, azione);
             });
@@ -153,7 +153,7 @@ function generaHtml(azione) {
         "<html>",
         `  <script src="../tools.js"></script>`,
         '  <body>',
-        `    <h1 id="azienda" style="text-align:center;">${azione.azienda}</h1>`,
+        `    <h1 id="AZIENDA" style="text-align:center;">${azione.AZIENDA}</h1>`,
         `    <a href="main.html">home</a>`,
         `    <table id="storico" style="font-size:small;float:left"  border="1">`,
         tbl,
