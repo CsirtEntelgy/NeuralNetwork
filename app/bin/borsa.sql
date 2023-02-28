@@ -481,7 +481,6 @@ INSERT INTO borsa VALUES(475,'Banca Mediolanum','Banca Mediolanum','BMED.MI');
 INSERT INTO borsa VALUES(476,'Banca Monte Paschi Siena','Banca Monte Paschi Siena','BMPS.MI');
 INSERT INTO borsa VALUES(477,'Banca Sistema','Banca Sistema','BST.MI');
 INSERT INTO borsa VALUES(478,'Banco Bpm','Banco Bpm','BAMI.MI');
-INSERT INTO borsa VALUES(479,'Banco Santander','Banco Santander','');
 INSERT INTO borsa VALUES(480,'Basf','Basf','BASF.MI');
 INSERT INTO borsa VALUES(481,'Adidas','Adidas','ADS.MI');
 INSERT INTO borsa VALUES(482,'Basicnet','Basicnet','BAN.MI');
