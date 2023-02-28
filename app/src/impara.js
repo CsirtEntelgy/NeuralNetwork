@@ -47,7 +47,7 @@ function leggiTutto(cb) {
 }
 
 function leggiDati(id_azienda, chiave, ref_date, cb) {
-    var query = "select data," + chiave + " from dati where id_azienda=? and data>? order by data"
+    var query = "select data," + chiave + " from trend where id_azienda=? and data>? order by data"
     const db = new Database(db_borsa, { verbose: console.log });
     var rows = db.prepare(query).all(eval(id_azienda), ref_date);
     if (rows) cb(rows);

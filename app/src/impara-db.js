@@ -32,7 +32,7 @@ function ReteNeurale(id_azienda, chiave, ninput, nhidden, noutput, cb) {
 }
 
 function leggiDati(id_azienda, chiave, ref_date, cb) {
-    var query = "select data," + chiave + " from dati where id_azienda=? and data>? order by data"
+    var query = "select data," + chiave + " from trend where id_azienda=? and data>? order by data"
     const db = new sqlite.Database(db_borsa);
     db.all(query, [eval(id_azienda), ref_date], (err, res) => {
         cb(res);

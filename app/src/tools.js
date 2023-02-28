@@ -18,7 +18,7 @@ function formatFileDate(d) {
 }
 function leggiDati(id_azienda, chiave, ref_date, cb) {
     const sqlite = require("sqlite3");
-    var query = "select data," + chiave + " from dati where id_azienda=? and data>? order by data"
+    var query = "select data," + chiave + " from trend where id_azienda=? and data>? order by data"
     const db = new sqlite.Database(db_borsa);
     db.all(query, [eval(id_azienda), ref_date], (err, res) => {
         cb(res);

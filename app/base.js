@@ -24,7 +24,7 @@ function leggiMappa(tabella = "abilitate", cb) {
 }
 
 const query1 = "select * from mappa where id_azienda=?";
-const query2 = "select * from dati where id_azienda=? order by data"
+const query2 = "select * from trend where id_azienda=? order by data"
 
 function leggiAzione(id_azienda, cb) {
     const db = new sqlite.Database('./db/borsa.db', { verbose: console.log });

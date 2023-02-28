@@ -26,7 +26,7 @@ function leggiTutto(chiave, ref_date, elaborazione) {
     const db1 = new sqlite.Database(db_borsa);
     db1.each(query, (err, azione) => {
         if (err) { console.log(err); throw err; }
-        var query2 = "select data," + chiave + " from dati where id_azienda=? and data>? order by data"
+        var query2 = "select data," + chiave + " from trend where id_azienda=? and data>? order by data"
         db1.all(query2, [eval(azione.id_azienda), ref_date], (err, righe) => {
             if (err) { console.log(err); throw err; }
             var dati = righe.map(el => { return { x: el.data, y: eval(el[chiave]) } });
