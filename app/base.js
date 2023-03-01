@@ -97,7 +97,10 @@ html.post("/azioniLimited", (dati, request, response) => {
 });
 function run(cmd) { return require('child_process').execSync(cmd).toString(); }
 function graficoGnuplot(dati, cb) {
+    console.log(dati.set[0],dati.set[1]);
+
     var svg = plot(dati.set, dati.chiave);
+
     cb(null, svg);
 }
 
@@ -107,7 +110,7 @@ function plot(dati, chiave) {
     var buffer = fs.readFileSync("gnuplot/plot_" + chiave + ".plt");
     if (dati && dati.length > 2) {
         dati.forEach(e => {
-            buffer += `${e[0]},${e[1]}\n`;
+            buffer += `${e.x},${e.y}\n`;
         });
         buffer += "e";
         fs.writeFileSync(tmpfile, buffer);
@@ -129,10 +132,10 @@ function plot2(dati, chiave) {
 function generaHtml(azione) {
     var tbl = "<tr><td>Data</td><td>UltimoValore</td><td>variazione %</td></tr>\n<tr>" +
         Object.keys(azione.dati).sort().
-            map(k => { return ["<td>", azione.dati[k].data, "</td><td>", azione.dati[k].ultimoValore, "</td><td>", azione.dati[k].variazionePercentuale, "</td>"].join("") })
+            map(k => { return ["<td>", azione.dati[k].data, "</td><td>", azione.dati[k].ULTIMOVALORE, "</td><td>", azione.dati[k].VARIAZIONEPERCENTUALE, "</td>"].join("") })
             .join("</tr>\n<tr>") + "</tr>\n";
-    var uv = Object.keys(azione.dati).sort().map(k => { return { x: k, y: azione.dati[k].ultimoValore }; });
-    var vp = Object.keys(azione.dati).sort().map(k => { return { x: k, y: azione.dati[k].variazionePercentuale }; });
+    var uv = Object.keys(azione.dati).sort().map(k => { return { x: k, y: azione.dati[k].ULTIMOVALORE }; });
+    var vp = Object.keys(azione.dati).sort().map(k => { return { x: k, y: azione.dati[k].VARIAZIONEPERCENTUALE }; });
     var nv = {}, ne = {};
     if (azione.training) {
         Object.keys(azione.training).forEach(chiave => {
@@ -161,17 +164,17 @@ function generaHtml(azione) {
         `    <div  style="font-size:small;float:right">`,
         `    <div  style="font-size:small">`,
         // Grafico di gnuplot
-        plot2(ne.ultimoValore, "Errori"),
+        plot2(ne.ULTIMOVALORE, "Errori"),
         "<br>",
-        plot2(ne.variazionePercentuale, "Errori"),
+        plot2(ne.VARIAZIONEPERCENTUALE, "Errori"),
         "<br>",
         gplot1,
         "<br>",
         gplot2,
         "<br>",
-        plot(nv.ultimoValore, "TrainingUV"),
+        plot(nv.ULTIMOVALORE, "TrainingUV"),
         "<br>",
-        plot(nv.variazionePercentuale, "TrainingVP"),
+        plot(nv.VARIAZIONEPERCENTUALE, "TrainingVP"),
         "<br>",
         `    </div>`,
         `    </div>`,

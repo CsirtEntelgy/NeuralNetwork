@@ -7,6 +7,7 @@
 </style>
 
 <body>
+  <div><a href="/main.html">Home</a></div>
   <div style="float:left">
     <table id="dati" border="2"></table>
   </div>
@@ -34,12 +35,12 @@
       <td>variazionePercentuale</td>`;
     azione.trend.forEach(row => {
       var htr = document.createElement("tr");
-      htr.innerHTML = `<td>${row.data}</td>
-      <td>${row.ultimoValore}</td>
-      <td>${row.variazionePercentuale}</td>`;
+      htr.innerHTML = `<td>${row.DATA}</td>
+      <td>${row.ULTIMOVALORE}</td>
+      <td>${row.VARIAZIONEPERCENTUALE}</td>`;
       ht.appendChild(htr);
-      trend1.push([row.data, row.ultimoValore]);
-      trend2.push([row.data, row.variazionePercentuale]);
+      trend1.push({x:row.DATA, y:row.ULTIMOVALORE});
+      trend2.push({x:row.DATA, y:row.VARIAZIONEPERCENTUALE});
     });
     putRequest("/grafico", { set: trend1, chiave: "ultimoValore" }, (svg) => {
       var hdiv = document.getElementById("svg1");

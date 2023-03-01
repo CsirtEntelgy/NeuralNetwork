@@ -100,7 +100,7 @@ function datDisplay(dato, k) {
         case "ultimoValore": return "" + round(dato[k], 100);
         case "variazionePercentuale": return "" + round(dato[k], 100);
         case "variazione": return "" + round(dato[k], 100);
-        case "calcolo": return "" + round(dato.ultimoValore - dato.apertura, 100);
+        case "calcolo": return "" + round(dato.ULTIMOVALORE - dato.apertura, 100);
     }
     return "";
 }
